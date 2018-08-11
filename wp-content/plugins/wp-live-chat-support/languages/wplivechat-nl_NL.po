@@ -1,0 +1,3801 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Live Chat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-25 11:06+0000\n"
+"PO-Revision-Date: 2017-12-07 08:24+0200\n"
+"Last-Translator: Bran Hawford\n"
+"Language-Team: Dutch; Flemish\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 35430\n"
+"X-Loco-Api-Version: 1.0.18 20171124-1\n"
+
+#: wp-live-chat-support-cloud-server/includes/update_control.php:43
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:59
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:371
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:393
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:98
+#: wp-live-chat-support/wp-live-chat-support.php:3988
+#: loco:5a194feac430fe51518b4567
+msgid "Cloud Server"
+msgstr "Cloud Server"
+
+#: wp-live-chat-support-cloud-server/includes/update_control.php:118
+#: wp-live-chat-support/includes/update_control.class.php:122
+#: loco:5a194feac430fe51518b4568
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Er is een onverwachte HTTP-fout opgetreden tijdens het API-verzoek. </ P> "
+"<p> <a href = '?' onclick = 'document.location.reload (); return false;'> "
+"Probeer het opnieuw </a>"
+
+#: wp-live-chat-support-cloud-server/includes/update_control.php:123
+#: wp-live-chat-support/includes/update_control.class.php:127
+#: loco:5a194feac430fe51518b4569
+msgid "An unknown error occurred"
+msgstr "Een onbekende fout is opgetreden"
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:73
+#: loco:5a194feac430fe51518b456a
+msgid "Chat functionality has been paused."
+msgstr "Chat functionaliteit is gepauzeerd."
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:74
+#: loco:5a194feac430fe51518b456b
+msgid ""
+"Please enter your verified API key in the <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API Keys page</a> to activate the cloud "
+"based functionality."
+msgstr ""
+"Voer uw geverifieerde API sleutel in op de <a href='admin.php?"
+"page=wplivechat-menu-api-keys-page'> API Sleutel pagina </a> om de "
+"cloudgebaseerde functionaliteit te activeren."
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:90
+#: loco:5a194feac430fe51518b456c
+msgid "Are you sure you would like to delete chat history?"
+msgstr "Weet je zeker dat je de chat geschiedenis wilt verwijderen?"
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:92
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:108
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:135
+#: wp-live-chat-support/functions.php:1609
+#: wp-live-chat-support/includes/settings_page.php:97
+#: wp-live-chat-support/wp-live-chat-support.php:3048
+#: loco:5a194feac430fe51518b456d
+msgid "Yes"
+msgstr "Ja"
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:93
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:109
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:138
+#: wp-live-chat-support/functions.php:1609
+#: wp-live-chat-support/includes/settings_page.php:98
+#: wp-live-chat-support/wp-live-chat-support.php:3048
+#: loco:5a194feac430fe51518b456e
+msgid "No"
+msgstr "Nee"
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:106
+#: loco:5a194feac430fe51518b456f
+msgid "Are you sure you would like to delete all missed chats?"
+msgstr "Weet je zeker dat je alle gemiste chats wilt verwijderen?"
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:374
+#: loco:5a194feac430fe51518b4570
+msgid ""
+"You are currently using our <strong>cloud server</strong> to handle your "
+"chat requests and live chat sessions.<br /><br />To disable this, please "
+"deactivate the WP Live Chat Support - Cloud Server plugin."
+msgstr ""
+"U gebruikt momenteel onze <strong> cloudserver </ strong> om uw chat "
+"aanvragen en live chatsessies af te handelen. <br /> <br /> Deactiveer de WP "
+"Live Chat-ondersteuning - Cloud Server-plug-in om dit uit te schakelen."
+
+#: wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:47
+#: loco:5a194feac430fe51518b4571
+msgid "Mobile and Desktop App"
+msgstr "Mobiele en Desktop App"
+
+#: wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:99
+#: loco:5a194feac430fe51518b4572
+msgid "Mobile and Desktop App Settings"
+msgstr "Mobiele en desktop app-instellingen"
+
+#: wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:102
+#: loco:5a194feac430fe51518b4573
+msgid "Enable mobile and desktop app"
+msgstr "Schakel mobiele en desktop-app in"
+
+#: wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:124
+#: loco:5a194feac430fe51518b4574
+msgid "App"
+msgstr "App"
+
+#: wp-live-chat-support-pro/ajax-pro.php:269 loco:5a194feac430fe51518b4575
+msgid "Guest"
+msgstr "Gast"
+
+#: wp-live-chat-support-pro/ajax-pro.php:341
+#: wp-live-chat-support/ajax_new.php:286 loco:5a194feac430fe51518b4576
+msgid "Admin has closed and ended the chat"
+msgstr "Beheerder heeft de chat gesloten en beëindigd"
+
+#: wp-live-chat-support-pro/ajax-pro.php:376
+#: wp-live-chat-support/ajax_new.php:310 loco:5a194feac430fe51518b4577
+msgid "There is No Answer. Please Try Again Later"
+msgstr "Er is geen antwoord. Probeer het later opnieuw"
+
+#: wp-live-chat-support-pro/functions-pro.php:54
+#: wp-live-chat-support-pro/functions-pro.php:173
+#: wp-live-chat-support-pro/functions-pro.php:325
+#: wp-live-chat-support/functions.php:294
+#: wp-live-chat-support/functions.php:486
+#: wp-live-chat-support/modules/api/wplc-api-functions.php:458
+#: wp-live-chat-support/wp-live-chat-support.php:2485
+#: loco:5a194feac430fe51518b4578
+msgid "IP Address not recorded"
+msgstr "IP-adres niet geregistreerd"
+
+#: wp-live-chat-support-pro/functions-pro.php:56
+#: wp-live-chat-support-pro/functions-pro.php:175
+#: wp-live-chat-support-pro/functions-pro.php:327
+#: wp-live-chat-support/functions.php:296
+#: wp-live-chat-support/functions.php:488
+#: wp-live-chat-support/wp-live-chat-support.php:2487
+#: loco:5a194feac430fe51518b4579
+msgid "Whois for"
+msgstr "Whois voor"
+
+#: wp-live-chat-support-pro/functions-pro.php:61
+#: wp-live-chat-support-pro/functions-pro.php:333
+#: wp-live-chat-support/functions.php:301
+#: wp-live-chat-support/functions.php:443
+#: wp-live-chat-support/functions.php:1359 loco:5a194feac430fe51518b457a
+msgid "Accept Chat"
+msgstr "Chat accepteren"
+
+#: wp-live-chat-support-pro/functions-pro.php:63
+#: wp-live-chat-support-pro/functions-pro.php:335
+#: wp-live-chat-support/functions.php:303 loco:5a194feac430fe51518b457b
+msgid "Incoming Chat"
+msgstr "Inkomende chat"
+
+#: wp-live-chat-support-pro/functions-pro.php:63
+#: wp-live-chat-support-pro/functions-pro.php:335
+#: wp-live-chat-support/functions.php:303 loco:5a194feac430fe51518b457c
+msgid "You have an incoming chat."
+msgstr "Je hebt een inkomende chat."
+
+#: wp-live-chat-support-pro/functions-pro.php:67
+#: wp-live-chat-support/functions.php:448 loco:5a194feac430fe51518b457d
+msgid "Open Chat"
+msgstr "Open Chat"
+
+#: wp-live-chat-support-pro/functions-pro.php:69
+#: wp-live-chat-support-pro/functions-pro.php:347
+#: wp-live-chat-support/functions.php:309 loco:5a194feac430fe51518b457e
+msgid "Chat Active"
+msgstr "Chat actief"
+
+#: wp-live-chat-support-pro/functions-pro.php:69
+#: wp-live-chat-support-pro/functions-pro.php:347
+#: wp-live-chat-support/functions.php:309 loco:5a194feac430fe51518b457f
+msgid "This chat is active"
+msgstr "Deze chat is actief"
+
+#: wp-live-chat-support-pro/functions-pro.php:74
+#: wp-live-chat-support-pro/functions-pro.php:160
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2349
+#: wp-live-chat-support/wp-live-chat-support.php:1690
+#: loco:5a194feac430fe51518b4580
+msgid "Initiate Chat"
+msgstr "Start Chat"
+
+#: wp-live-chat-support-pro/functions-pro.php:76
+#: wp-live-chat-support-pro/functions-pro.php:162 loco:5a194feac430fe51518b4581
+msgid "You must be a chat agent to initiate chats"
+msgstr "U moet een chat beheerder zijn om chats te starten"
+
+#: wp-live-chat-support-pro/functions-pro.php:99
+#: wp-live-chat-support/functions.php:511
+#: wp-live-chat-support/modules/api/wplc-api-functions.php:474
+#: loco:5a194feac430fe51518b4582
+msgid "New"
+msgstr "Nieuw"
+
+#: wp-live-chat-support-pro/functions-pro.php:101
+#: wp-live-chat-support/functions.php:513
+#: wp-live-chat-support/modules/api/wplc-api-functions.php:476
+#: loco:5a194feac430fe51518b4583
+msgid "Returning"
+msgstr "Terugkerende"
+
+#: wp-live-chat-support-pro/functions-pro.php:143 loco:5a194feac430fe51518b4584
+msgid "Visitors on site"
+msgstr "Bezoekers op de site"
+
+#: wp-live-chat-support-pro/functions-pro.php:207
+#: wp-live-chat-support-pro/functions-pro.php:377
+#: wp-live-chat-support/functions.php:332
+#: wp-live-chat-support/wp-live-chat-support.php:2522
+#: loco:5a194feac430fe51518b4585
+msgid "Site Info"
+msgstr "Site Info"
+
+#: wp-live-chat-support-pro/functions-pro.php:209
+#: wp-live-chat-support-pro/functions-pro.php:379
+#: wp-live-chat-support/functions.php:334
+#: wp-live-chat-support/wp-live-chat-support.php:2524
+#: loco:5a194feac430fe51518b4586
+msgid "Chat initiated on:"
+msgstr "Chat gestart op:"
+
+#: wp-live-chat-support-pro/functions-pro.php:213
+#: wp-live-chat-support-pro/functions-pro.php:383
+#: wp-live-chat-support/functions.php:338
+#: wp-live-chat-support/wp-live-chat-support.php:2528
+#: loco:5a194feac430fe51518b4587
+msgid "Advanced Info"
+msgstr "Geavanceerde info"
+
+#: wp-live-chat-support-pro/functions-pro.php:215
+#: wp-live-chat-support-pro/functions-pro.php:385
+#: wp-live-chat-support/functions.php:340
+#: wp-live-chat-support/wp-live-chat-support.php:2530
+#: loco:5a194feac430fe51518b4588
+msgid "Browser:"
+msgstr "Browser:"
+
+#: wp-live-chat-support-pro/functions-pro.php:216
+#: wp-live-chat-support-pro/functions-pro.php:386
+#: wp-live-chat-support/functions.php:341
+#: wp-live-chat-support/wp-live-chat-support.php:2531
+#: loco:5a194feac430fe51518b4589
+msgid "IP Address:"
+msgstr "IP adres:"
+
+#: wp-live-chat-support-pro/functions-pro.php:259 loco:5a194feac430fe51518b458a
+msgid "No visitors on-line at the moment"
+msgstr "Geen bezoekers online op dit moment"
+
+#: wp-live-chat-support-pro/functions-pro.php:302
+#: wp-live-chat-support/functions.php:277 loco:5a194feac430fe51518b458b
+msgid "No chat sessions available at the moment"
+msgstr "Geen chat sessies beschikbaar op dit moment"
+
+#: wp-live-chat-support-pro/functions-pro.php:304
+#: wp-live-chat-support/functions.php:279 loco:5a194feac430fe51518b458c
+msgid "Active Chats"
+msgstr "Actieve chats"
+
+#: wp-live-chat-support-pro/functions-pro.php:339 loco:5a194feac430fe51518b458d
+msgid "You must be a chat agent to answer chats"
+msgstr "Je moet een chat beheerder zijn om chats te beantwoorden"
+
+#: wp-live-chat-support-pro/functions-pro.php:345
+#: wp-live-chat-support/functions.php:307 loco:5a194feac430fe51518b458e
+msgid "Open Chat Window"
+msgstr "Open het chatvenster"
+
+#: wp-live-chat-support-pro/functions-pro.php:349 loco:5a194feac430fe51518b458f
+msgid "Chat has been answered by another agent"
+msgstr "Chat is beantwoord door een andere medewerker"
+
+#: wp-live-chat-support-pro/functions-pro.php:350 loco:5a194feac430fe51518b4590
+msgid "Chat answered by another agent"
+msgstr "Chat beantwoord door een andere medewerker"
+
+#: wp-live-chat-support-pro/functions-pro.php:409
+#: wp-live-chat-support/functions.php:1205 loco:5a194feac430fe51518b4591
+msgid "WP Live Chat Support - Offline Message from "
+msgstr "WP Live Chat Support - offline bericht van"
+
+#: wp-live-chat-support-pro/functions-pro.php:410
+#: wp-live-chat-support-pro/functions-pro.php:969
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:441
+#: wp-live-chat-support-pro/includes/wplc_roi.php:128
+#: wp-live-chat-support/functions.php:1206
+#: wp-live-chat-support/functions.php:1620
+#: wp-live-chat-support/includes/deprecated.php:192
+#: wp-live-chat-support/includes/deprecated.php:391
+#: wp-live-chat-support/includes/settings_page.php:256
+#: wp-live-chat-support/wp-live-chat-support.php:1371
+#: wp-live-chat-support/wp-live-chat-support.php:1529
+#: wp-live-chat-support/wp-live-chat-support.php:3072
+#: wp-live-chat-support/wp-live-chat-support.php:3183
+#: loco:5a194feac430fe51518b4592
+msgid "Name"
+msgstr "Naam"
+
+#: wp-live-chat-support-pro/functions-pro.php:410
+#: wp-live-chat-support-pro/functions-pro.php:970
+#: wp-live-chat-support/functions.php:1207
+#: wp-live-chat-support/functions.php:1621
+#: wp-live-chat-support/includes/deprecated.php:193
+#: wp-live-chat-support/includes/deprecated.php:392
+#: wp-live-chat-support/wp-live-chat-support.php:1372
+#: wp-live-chat-support/wp-live-chat-support.php:1530
+#: wp-live-chat-support/wp-live-chat-support.php:3073
+#: wp-live-chat-support/wp-live-chat-support.php:3184
+#: loco:5a194feac430fe51518b4593
+msgid "Email"
+msgstr "E-mail"
+
+#: wp-live-chat-support-pro/functions-pro.php:410
+#: wp-live-chat-support-pro/functions-pro.php:971
+#: wp-live-chat-support-pro/functions-pro.php:1546
+#: wp-live-chat-support/functions.php:1208
+#: wp-live-chat-support/wp-live-chat-support.php:1531
+#: wp-live-chat-support/wp-live-chat-support.php:3185
+#: wp-live-chat-support/wp-live-chat-support.php:4127
+#: wp-live-chat-support/wp-live-chat-support.php:4177
+#: loco:5a194feac430fe51518b4594
+msgid "Message"
+msgstr "Bericht"
+
+#: wp-live-chat-support-pro/functions-pro.php:410
+#: wp-live-chat-support/functions.php:1209 loco:5a194feac430fe51518b4595
+msgid "Via WP Live Chat Support"
+msgstr "Via WP Live Chat Support"
+
+#: wp-live-chat-support-pro/functions-pro.php:480 loco:5a194feac430fe51518b4596
+msgid "Alert: Someone wants to chat with you on "
+msgstr "Waarschuwing: iemand wil met je chatten"
+
+#: wp-live-chat-support-pro/functions-pro.php:481 loco:5a194feac430fe51518b4597
+msgid "Someone wants to chat with you on your website"
+msgstr "Iemand wil met je chatten op je website"
+
+#: wp-live-chat-support-pro/functions-pro.php:481 loco:5a194feac430fe51518b4598
+msgid "Log in"
+msgstr "Log in"
+
+#: wp-live-chat-support-pro/functions-pro.php:748
+#: wp-live-chat-support-pro/functions-pro.php:764
+#: wp-live-chat-support-pro/functions-pro.php:779
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2725
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2741
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2756
+#: loco:5a194feac430fe51518b4599
+msgid "Chat Agent"
+msgstr "Chat medewerker"
+
+#: wp-live-chat-support-pro/functions-pro.php:753
+#: wp-live-chat-support-pro/functions-pro.php:769
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2730
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2746
+#: loco:5a194feac430fe51518b459a
+msgid "Make this user a chat agent"
+msgstr "Maak van deze gebruiker een chat medewerker"
+
+#: wp-live-chat-support-pro/functions-pro.php:783
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2760
+#: loco:5a194feac430fe51518b459b
+msgid "Your user role does not allow you to make yourself a chat agent."
+msgstr ""
+"Je gebruikersrol staat je niet toe om zelf een chat medewerker te worden."
+
+#: wp-live-chat-support-pro/functions-pro.php:784
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2761
+#: loco:5a194feac430fe51518b459c
+msgid "Please contact the administrator of this website to change this."
+msgstr "Neem contact op met de beheerder van deze website om dit te wijzigen."
+
+#: wp-live-chat-support-pro/functions-pro.php:869
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3145
+#: loco:5a194feac430fe51518b459d
+msgid "Chat Agent Online"
+msgstr "Chat medewerker Online"
+
+#: wp-live-chat-support-pro/functions-pro.php:871
+#: wp-live-chat-support-pro/functions-pro.php:876
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3147
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3152
+#: loco:5a194feac430fe51518b459e
+msgid "Chat Agents Online"
+msgstr "Chat medewerkers online"
+
+#: wp-live-chat-support-pro/functions-pro.php:968
+#: wp-live-chat-support/functions.php:1619
+#: wp-live-chat-support/wp-live-chat-support.php:3071
+#: wp-live-chat-support/wp-live-chat-support.php:3182
+#: loco:5a194feac430fe51518b459f
+msgid "Date"
+msgstr "Datum"
+
+#: wp-live-chat-support-pro/functions-pro.php:985
+#: wp-live-chat-support/wp-live-chat-support.php:3196
+#: loco:5a194feac430fe51518b45a0
+msgid "You have not received any offline messages."
+msgstr "Je hebt geen offline berichten ontvangen."
+
+#: wp-live-chat-support-pro/functions-pro.php:1410
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:788
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3500
+#: wp-live-chat-support/wp-live-chat-support.php:3770
+#: loco:5a194feac430fe51518b45a1
+msgid "Administrator"
+msgstr "Beheerder"
+
+#: wp-live-chat-support-pro/functions-pro.php:1411
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:794
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3506
+#: wp-live-chat-support/wp-live-chat-support.php:3779
+#: loco:5a194feac430fe51518b45a2
+msgid "Editor"
+msgstr "Editor"
+
+#: wp-live-chat-support-pro/functions-pro.php:1412
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:800
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3512
+#: wp-live-chat-support/wp-live-chat-support.php:3788
+#: loco:5a194feac430fe51518b45a3
+msgid "Author"
+msgstr "Auteur"
+
+#: wp-live-chat-support-pro/functions-pro.php:1413
+#: loco:5a194feac430fe51518b45a4
+msgid "Contributor"
+msgstr "Bijdrager"
+
+#: wp-live-chat-support-pro/functions-pro.php:1414
+#: loco:5a194feac430fe51518b45a5
+msgid "Subscriber"
+msgstr "Abonnee"
+
+#: wp-live-chat-support-pro/functions-pro.php:1544
+#: wp-live-chat-support/wp-live-chat-support.php:4125
+#: wp-live-chat-support/wp-live-chat-support.php:4175
+#: loco:5a194feac430fe51518b45a6
+msgid "Chat ID"
+msgstr "Chat ID"
+
+#: wp-live-chat-support-pro/functions-pro.php:1545
+#: wp-live-chat-support/wp-live-chat-support.php:4126
+#: wp-live-chat-support/wp-live-chat-support.php:4176
+#: loco:5a194feac430fe51518b45a7
+msgid "From"
+msgstr "Van"
+
+#: wp-live-chat-support-pro/functions-pro.php:1547
+#: wp-live-chat-support/wp-live-chat-support.php:4128
+#: wp-live-chat-support/wp-live-chat-support.php:4178
+#: loco:5a194feac430fe51518b45a8
+msgid "Timestamp"
+msgstr "Tijdstempel"
+
+#: wp-live-chat-support-pro/functions-pro.php:1548
+#: wp-live-chat-support/wp-live-chat-support.php:4129
+#: wp-live-chat-support/wp-live-chat-support.php:4179
+#: loco:5a194feac430fe51518b45a9
+msgid "Origin"
+msgstr "Oorsprong"
+
+#: wp-live-chat-support-pro/functions-pro.php:1560
+#: wp-live-chat-support/wp-live-chat-support.php:4134
+#: wp-live-chat-support/wp-live-chat-support.php:4184
+#: loco:5a194feac430fe51518b45aa
+msgid "user"
+msgstr "gebruiker"
+
+#: wp-live-chat-support-pro/functions-pro.php:1562
+#: wp-live-chat-support/wp-live-chat-support.php:4136
+#: wp-live-chat-support/wp-live-chat-support.php:4186
+#: loco:5a194feac430fe51518b45ab
+msgid "agent"
+msgstr "medewerker"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:48
+#: wp-live-chat-support/includes/settings_page.php:26
+#: loco:5a194feac430fe51518b45ac
+msgid "WP Live Chat Support Settings"
+msgstr "WP Live Chat Ondersteuningsinstellingen"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:71
+#: wp-live-chat-support/wp-live-chat-support.php:2142
+#: wp-live-chat-support/wp-live-chat-support.php:2157
+#: loco:5a194feac430fe51518b45ad
+msgid "Dear Pro User"
+msgstr "Beste Pro gebruiker"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:72
+#: loco:5a194feac430fe51518b45ae
+msgid ""
+"Please enter a valid API key on the 'Live Chat' -> 'Settings' page. Failing "
+"to do this will result in you no longer receiving updates for this plugin."
+msgstr ""
+"Voer een geldige API sleutel in op de pagina 'Live Chat' -> 'Instellingen'. "
+"Als u dit niet doet, ontvangt u geen updates meer voor deze plug-in."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:73
+#: loco:5a194feac430fe51518b45af
+msgid "You can obtain a copy of your API key "
+msgstr "U kunt een kopie van uw API sleutel verkrijgen"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:73
+#: loco:5a194feac430fe51518b45b0
+msgid "here"
+msgstr "hier"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:73
+#: loco:5a194feac430fe51518b45b1
+msgid ""
+"An account has been created for you while purchasing the plugin. If you have "
+"lost your password, please reset it "
+msgstr ""
+"Er is een account voor u gemaakt toen u de plug-in kocht. Als u uw "
+"wachtwoord bent verloren, stel het dan opnieuw in"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:74
+#: loco:5a194feac430fe51518b45b2
+msgid ""
+"If you feel you are getting this message in error, please try refreshing the "
+"page."
+msgstr ""
+"Als je denkt dat je dit bericht ten onrechte ontvangt, probeer dan de pagina "
+"te verversen."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:83
+#: wp-live-chat-support/includes/settings_page.php:53
+#: loco:5a194feac430fe51518b45b3
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:84
+#: wp-live-chat-support/includes/settings_page.php:58
+#: loco:5a194feac430fe51518b45b4
+msgid "Chat Box"
+msgstr "Chat venster"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:85
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:383
+#: wp-live-chat-support/includes/settings_page.php:63
+#: wp-live-chat-support/includes/settings_page.php:400
+#: wp-live-chat-support/wp-live-chat-support.php:757
+#: wp-live-chat-support/wp-live-chat-support.php:760
+#: loco:5a194feac430fe51518b45b5
+msgid "Offline Messages"
+msgstr "Offline Berichten"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:86
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:485
+#: wp-live-chat-support/includes/settings_page.php:68
+#: wp-live-chat-support/includes/settings_page.php:541
+#: loco:5a194feac430fe51518b45b6
+msgid "Styling"
+msgstr "Styling"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:87
+#: loco:5a194feac430fe51518b45b7
+msgid "Chat Agents"
+msgstr "Chat Medewerkers"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:88
+#: wp-live-chat-support/includes/settings_page.php:78
+#: loco:5a194feac430fe51518b45b8
+msgid "Blocked Visitors"
+msgstr "Geblokkeerde Bezoekers"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:89
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:830
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:836
+#: loco:5a194feac430fe51518b45b9
+msgid "Chat Experience Ratings"
+msgstr "Chat ervaringsbeoordelingen"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:90
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1857
+#: loco:5a194feac430fe51518b45ba
+msgid "Encryption"
+msgstr "Encryptie"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:93
+#: wp-live-chat-support/includes/settings_page.php:91
+#: loco:5a194feac430fe51518b45bb
+msgid "Main Settings"
+msgstr "Hoofdinstellingen"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:96
+#: loco:5a194feac430fe51518b45bc
+msgid "Find out more."
+msgstr "Meer te weten komen."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:103
+#: loco:5a194feac430fe51518b45bd
+msgid "Use our server to host your chat server."
+msgstr "Gebruik onze server om uw chat server te hosten."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:107
+#: wp-live-chat-support/wp-live-chat-support.php:3901
+#: loco:5a194feac430fe51518b45be
+msgid "API Key"
+msgstr "API Sleutel"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:112
+#: loco:5a194feac430fe51518b45bf
+msgid "This API key is "
+msgstr "Deze API sleutel is"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:115
+#: loco:5a194feac430fe51518b45c0
+msgid "valid"
+msgstr "geldig"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:118
+#: loco:5a194feac430fe51518b45c1
+msgid "invalid"
+msgstr "ongeldig"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:122
+#: loco:5a194feac430fe51518b45c2
+msgid ""
+"A valid API key means that you will be able to get the latest version of the "
+"plugin as and when it is released, as well as get access to support should "
+"you require it."
+msgstr ""
+"Een geldige API sleutel betekent dat u de nieuwste versie van de plug-in "
+"kunt krijgen zodra deze wordt vrijgegeven en dat u toegang krijgt tot "
+"ondersteuning als u deze nodig hebt."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:130
+#: wp-live-chat-support/includes/settings_page.php:94
+#: loco:5a194feac430fe51518b45c3
+msgid "Chat enabled"
+msgstr "Chat ingeschakeld"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:144
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1693
+#: loco:5a194feac430fe51518b45c4
+msgid "Choose when I want to be online"
+msgstr "Kiezen wanneer ik online wil zijn"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:144
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1693
+#: loco:5a194feac430fe51518b45c5
+msgid ""
+"Checking this will allow you to change your status to Online or Offline on "
+"the Live Chat page."
+msgstr ""
+"Als je dit aanvinkt, kun je je status wijzigen in Online of Offline op de "
+"Live Chat pagina."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:154
+#: wp-live-chat-support/includes/settings_page.php:116
+#: loco:5a194feac430fe51518b45c6
+msgid "Hide Chat"
+msgstr "Verberg Chat"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:154
+#: wp-live-chat-support/includes/settings_page.php:116
+#: loco:5a194feac430fe51518b45c7
+msgid "Hides chat for 24hrs when user clicks X"
+msgstr "Verbergt chat voor 24 uur wanneer gebruiker op X klikt"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:162
+#: wp-live-chat-support/includes/settings_page.php:125
+#: loco:5a194feac430fe51518b45c8
+msgid "Require Name And Email"
+msgstr "Naam en e-mailadres verplicht"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:162
+#: wp-live-chat-support/includes/settings_page.php:125
+#: loco:5a194feac430fe51518b45c9
+msgid ""
+"Users will have to enter their Name and Email Address when starting a chat"
+msgstr ""
+"Gebruikers moeten hun naam en e-mailadres invoeren bij het starten van een "
+"chat"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:172
+#: wp-live-chat-support/includes/settings_page.php:133
+#: loco:5a194feac430fe51518b45ca
+msgid "Input Field Replacement Text"
+msgstr "Tekst invoerveld vervangen"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:172
+#: wp-live-chat-support/includes/settings_page.php:133
+#: loco:5a194feac430fe51518b45cb
+msgid "This is the text that will show in place of the Name And Email fields"
+msgstr ""
+"Dit is de tekst die wordt weergegeven in plaats van de velden Naam en e-mail"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:182
+#: wp-live-chat-support/includes/settings_page.php:141
+#: loco:5a194feac430fe51518b45cc
+msgid "Use Logged In User Details"
+msgstr "Gebruik ingelogde gebruikersdetails"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:182
+#: wp-live-chat-support/includes/settings_page.php:141
+#: loco:5a194feac430fe51518b45cd
+msgid ""
+"A user's Name and Email Address will be used by default if they are logged "
+"in."
+msgstr ""
+"De naam en het e-mailadres van een gebruiker worden standaard gebruikt als "
+"ze zijn aangemeld."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:193
+#: wp-live-chat-support/includes/settings_page.php:149
+#: loco:5a194feac430fe51518b45ce
+msgid "Enable On Mobile Devices"
+msgstr "Inschakelen op mobiele apparaten"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:193
+#: wp-live-chat-support/includes/settings_page.php:149
+#: loco:5a194feac430fe51518b45cf
+msgid ""
+"Disabling this will mean that the Chat Box will not be displayed on mobile "
+"devices. (Smartphones and Tablets)"
+msgstr ""
+"Als u dit uitschakelt, betekent dit dat de chatbox niet wordt weergegeven op "
+"mobiele apparaten. (Smartphones en tablets)"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:203
+#: wp-live-chat-support/includes/settings_page.php:157
+#: loco:5a194feac430fe51518b45d0
+msgid "Record a visitor's IP Address"
+msgstr "Registreer het IP-adres van een bezoeker"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:203
+#: wp-live-chat-support/includes/settings_page.php:157
+#: loco:5a194feac430fe51518b45d1
+msgid "Disable this to enable anonymity for your visitors"
+msgstr "Schakel dit uit om anonimiteit voor uw bezoekers mogelijk te maken"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:213
+#: wp-live-chat-support/includes/settings_page.php:165
+#: loco:5a194feac430fe51518b45d2
+msgid "Play a sound when a new message is received"
+msgstr "Speel een geluid af wanneer een nieuw bericht wordt ontvangen"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:213
+#: wp-live-chat-support/includes/settings_page.php:165
+#: loco:5a194feac430fe51518b45d3
+msgid ""
+"Disable this to mute the sound that is played when a new chat message is "
+"received"
+msgstr ""
+"Schakel dit uit om het geluid te dempen dat wordt gespeeld wanneer een nieuw "
+"chat bericht wordt ontvangen"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:222
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2135
+#: loco:5a194feac430fe51518b45d4
+msgid "Include chat window on the following pages:"
+msgstr "Neem chatvenster op de volgende pagina's op:"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:222
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2135
+#: wp-live-chat-support/includes/settings_page.php:175
+#: loco:5a194feac430fe51518b45d5
+msgid ""
+"Show the chat window on the following pages. Leave blank to show on all. "
+"(Use comma-separated Page ID's)"
+msgstr ""
+"Toon het chatvenster op de volgende pagina's. Laat dit vak leeg om aan "
+"iedereen te tonen. (Gebruik door komma's gescheiden pagina-ID's)"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:232
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2143
+#: loco:5a194feac430fe51518b45d6
+msgid "Exclude chat window on the following pages:"
+msgstr "Sluit het chatvenster uit op de volgende pagina's:"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:232
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2143
+#: wp-live-chat-support/includes/settings_page.php:190
+#: loco:5a194feac430fe51518b45d7
+msgid ""
+"Do not show the chat window on the following pages. Leave blank to show on "
+"all. (Use comma-separated Page ID's)"
+msgstr ""
+"Laat het chatvenster niet op de volgende pagina's zien. Laat dit vak leeg om "
+"aan iedereen te tonen. (Gebruik door komma's gescheiden pagina-ID's)"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:242
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2151
+#: loco:5a194feac430fe51518b45d8
+msgid "Allow any user to make themselves a chat agent"
+msgstr "Sta elke gebruiker toe om zichzelf chat medewerker te maken"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:242
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2151
+#: loco:5a194feac430fe51518b45d9
+msgid ""
+"Checking this will allow any of your users to make themselves a chat agent "
+"when editing their profile."
+msgstr ""
+"Als u dit aanvinkt, kunnen uw gebruikers zichzelf chat medewerker maken bij "
+"het bewerken van hun profiel."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:255
+#: wp-live-chat-support/includes/settings_page.php:213
+#: loco:5a194feac430fe51518b45da
+msgid "Chat Window Settings"
+msgstr "Chat venster instellingen"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:258
+#: wp-live-chat-support/includes/settings_page.php:216
+#: loco:5a194feac430fe51518b45db
+msgid "Chat box alignment"
+msgstr "Chatbox uitlijning"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:263
+#: wp-live-chat-support/includes/settings_page.php:219
+#: loco:5a194feac430fe51518b45dc
+msgid "Bottom left"
+msgstr "Onderaan links"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:266
+#: wp-live-chat-support/includes/settings_page.php:220
+#: loco:5a194feac430fe51518b45dd
+msgid "Bottom right"
+msgstr "Onderaan rechts"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:269
+#: wp-live-chat-support/includes/settings_page.php:221
+#: loco:5a194feac430fe51518b45de
+msgid "Left"
+msgstr "Links"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:272
+#: wp-live-chat-support/includes/settings_page.php:222
+#: loco:5a194feac430fe51518b45df
+msgid "Right"
+msgstr "Rechts"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:278
+#: wp-live-chat-support/includes/settings_page.php:228
+#: loco:5a194feac430fe51518b45e0
+msgid "Auto Pop-up"
+msgstr "Auto Pop-up"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:278
+#: wp-live-chat-support/includes/settings_page.php:228
+#: loco:5a194feac430fe51518b45e1
+msgid ""
+"Expand the chat box automatically (prompts the user to enter their name and "
+"email address)."
+msgstr ""
+"Laat de chatbox automatisch vergroten (vraagt ​​de gebruiker zijn naam en e-"
+"mailadres in te voeren)."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:289
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:919
+#: loco:5a194feac430fe51518b45e2
+msgid "Name "
+msgstr "Naam"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:303
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:990
+#: wp-live-chat-support/includes/settings_page.php:272
+#: loco:5a194feac430fe51518b45e3
+msgid "Picture"
+msgstr "Afbeelding"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:311
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:998
+#: wp-live-chat-support/includes/settings_page.php:275
+#: wp-live-chat-support/includes/settings_page.php:291
+#: loco:5a194feac430fe51518b45e4
+msgid "Upload Image"
+msgstr "Upload afbeelding"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:313
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1000
+#: loco:5a194feac430fe51518b45e5
+msgid "Remove Image"
+msgstr "Verwijder Afbeelding"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:314
+#: loco:5a194feac430fe51518b45e6
+msgid "Recomended Size 40px x 40px"
+msgstr "Aanbevolen grootte 40px x 40px"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:320
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1008
+#: wp-live-chat-support/includes/settings_page.php:288
+#: loco:5a194feac430fe51518b45e7
+msgid "Logo"
+msgstr "Logo"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:328
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1016
+#: loco:5a194feac430fe51518b45e8
+msgid "Upload Logo"
+msgstr "Upload Logo"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:330
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1018
+#: loco:5a194feac430fe51518b45e9
+msgid "Remove Logo"
+msgstr "Verwijder Logo"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:331
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1019
+#: loco:5a194feac430fe51518b45ea
+msgid "Recomended Size 250px x 40px"
+msgstr "Aanbevolen grootte 250px x 40px"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:337
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1025
+#: wp-live-chat-support/includes/settings_page.php:304
+#: loco:5a194feac430fe51518b45eb
+msgid "Chat delay (seconds)"
+msgstr "Chat uitstel (seconden)"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:337
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1025
+#: loco:5a194feac430fe51518b45ec
+msgid "How long it takes for your chat window to pop up"
+msgstr "Hoe lang het duurt voordat je chatvenster verschijnt"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:346
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1034
+#: wp-live-chat-support/includes/settings_page.php:320
+#: loco:5a194feac430fe51518b45ed
+msgid "Chat notifications"
+msgstr "Chatmeldingen"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:346
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1034
+#: loco:5a194feac430fe51518b45ee
+msgid "Alert me via email as soon as someone wants to chat (while online only)"
+msgstr "Waarschuw mij via e-mail zodra iemand wil chatten (alleen online)"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:356
+#: wp-live-chat-support/includes/settings_page.php:338
+#: loco:5a194feac430fe51518b45ef
+msgid "Display name and avatar in chat"
+msgstr "Geef de naam en de avatar weer in de chat"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:356
+#: wp-live-chat-support/includes/settings_page.php:338
+#: loco:5a194feac430fe51518b45f0
+msgid "Display the agent and user name above each message in the chat window."
+msgstr ""
+"Toon de medewerker en gebruikersnaam boven elk bericht in het chatvenster."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:368
+#: wp-live-chat-support/includes/settings_page.php:348
+#: loco:5a194feac430fe51518b45f1
+msgid "Only show the chat window to users that are logged in"
+msgstr "Laat het chatvenster alleen zien aan gebruikers die zijn ingelogd"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:368
+#: wp-live-chat-support/includes/settings_page.php:348
+#: loco:5a194feac430fe51518b45f2
+msgid ""
+"By checking this, only users that are logged in will be able to chat with "
+"you."
+msgstr ""
+"Door dit aan te vinken, kunnen alleen gebruikers die zijn ingelogd met u "
+"chatten."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:387
+#: wp-live-chat-support/includes/settings_page.php:404
+#: loco:5a194feac430fe51518b45f3
+msgid "Do not allow users to send offline messages"
+msgstr "Sta gebruikers niet toe om offline berichten te verzenden"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:387
+#: wp-live-chat-support/includes/settings_page.php:404
+#: loco:5a194feac430fe51518b45f4
+msgid ""
+"The chat window will be hidden when it is offline. Users will not be able to "
+"send offline messages to you"
+msgstr ""
+"Het chatvenster wordt verborgen wanneer het offline is. Gebruikers kunnen "
+"geen offline berichten naar u verzenden"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:399
+#: wp-live-chat-support/includes/settings_page.php:416
+#: loco:5a194feac430fe51518b45f5
+msgid "Email Address"
+msgstr "E-mail adres"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:399
+#: wp-live-chat-support/includes/settings_page.php:416
+#: loco:5a194feac430fe51518b45f6
+msgid ""
+"Email address where offline messages are delivered to. Use comma separated "
+"email addresses to send to more than one email address"
+msgstr ""
+"E-mailadres waar offline berichten worden afgeleverd. Gebruik door komma's "
+"gescheiden e-mailadressen om naar meer dan één e-mailadres te verzenden"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:412
+#: wp-live-chat-support/includes/settings_page.php:428
+#: loco:5a194feac430fe51518b45f7
+msgid "Sending Method"
+msgstr "Verzendmethode"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:413
+#: wp-live-chat-support/includes/settings_page.php:429
+#: loco:5a194feac430fe51518b45f8
+msgid "WP Mail"
+msgstr "WP Mail"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:414
+#: wp-live-chat-support/includes/settings_page.php:430
+#: loco:5a194feac430fe51518b45f9
+msgid "PHP Mailer"
+msgstr "PHP Mailer"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:430
+#: wp-live-chat-support/includes/settings_page.php:446
+#: loco:5a194feac430fe51518b45fa
+msgid "Host"
+msgstr "Host"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:438
+#: wp-live-chat-support/includes/settings_page.php:454
+#: loco:5a194feac430fe51518b45fb
+msgid "Port"
+msgstr "Poort"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:446
+#: wp-live-chat-support/includes/settings_page.php:462
+#: loco:5a194feac430fe51518b45fc
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:454
+#: wp-live-chat-support/includes/settings_page.php:470
+#: loco:5a194feac430fe51518b45fd
+msgid "Password"
+msgstr "Paswoord"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:463
+#: wp-live-chat-support/includes/settings_page.php:479
+#: loco:5a194feac430fe51518b45fe
+msgid "Offline Chat Box Title"
+msgstr "Offline Chat Box titel"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:471
+#: wp-live-chat-support/includes/settings_page.php:487
+#: loco:5a194feac430fe51518b45ff
+msgid "Offline Text Fields"
+msgstr "Offline tekstvelden"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:504
+#: wp-live-chat-support/includes/settings_page.php:546
+#: loco:5a194feac430fe51518b4600
+msgid "Choose a theme"
+msgstr "Kies een thema"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:509
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:512
+#: loco:5a194feac430fe51518b4601
+msgid "Theme 1"
+msgstr "Thema 1"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:515
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:518
+#: loco:5a194feac430fe51518b4602
+msgid "Theme 2"
+msgstr "Thema 2"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:521
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:524
+#: loco:5a194feac430fe51518b4603
+msgid "Theme 3"
+msgstr "Thema 3"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:527
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:530
+#: loco:5a194feac430fe51518b4604
+msgid "Theme 4"
+msgstr "Thema 4"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:533
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:536
+#: loco:5a194feac430fe51518b4605
+msgid "Theme 5"
+msgstr "Thema 5"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:539
+#: loco:5a194feac430fe51518b4606
+msgid "Theme 6"
+msgstr "Thema 6"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:542
+#: loco:5a194feac430fe51518b4607
+msgid "Custom. Enter Colour Values Below"
+msgstr "Op maat. Voer onderstaande kleurwaarden in"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:568
+#: loco:5a194feac430fe51518b4608
+msgid "Chat box fill color"
+msgstr "Vulkleur van chatbox"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:574
+#: loco:5a194feac430fe51518b4609
+msgid "Chat box font color"
+msgstr "Chatbox letterkleur"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:581
+#: wp-live-chat-support/includes/settings_page.php:677
+#: loco:5a194feac430fe51518b460a
+msgid "I'm using a localization plugin"
+msgstr "Ik gebruik een lokalisatie plug-in"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:584
+#: loco:5a194feac430fe51518b460b
+msgid "documentation"
+msgstr "documentatie"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:589
+#: loco:5a194feac430fe51518b460c
+msgid ""
+"You will only be able to edit the strings shown in the chat window of the "
+"code now. <br/> This has been done to accommodate as many localization "
+"plugins as possible. <br/> For more information on how to change these "
+"strings, please consult the "
+msgstr ""
+"Je kunt nu alleen de tekenreeksen van de code bewerken die in het "
+"chatvenster worden getoond. <br/> Dit is gedaan om zoveel mogelijk "
+"lokalisatie-plug-ins geschikt te maken. <br/> Raadpleeg voor meer informatie "
+"over het wijzigen van deze tekenreeksen de"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:594
+#: wp-live-chat-support/includes/settings_page.php:685
+#: loco:5a194feac430fe51518b460d
+msgid "First Section Text"
+msgstr "Eerste tekst gedeelte"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:601
+#: wp-live-chat-support/includes/settings_page.php:692
+#: loco:5a194feac430fe51518b460e
+msgid "Intro Text"
+msgstr "Intro tekst"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:607
+#: wp-live-chat-support/includes/settings_page.php:698
+#: loco:5a194feac430fe51518b460f
+msgid "Second Section Text"
+msgstr "Tweede tekst gedeelte"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:614
+#: wp-live-chat-support/includes/settings_page.php:705
+#: loco:5a194feac430fe51518b4610
+msgid "Reactivate Chat Section Text"
+msgstr "Chat tekst gedeelte opnieuw activeren"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:622
+#: wp-live-chat-support/includes/settings_page.php:713
+#: loco:5a194feac430fe51518b4611
+msgid "User chat welcome"
+msgstr "Gebruiker Chat Welkom"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:628
+#: wp-live-chat-support/includes/settings_page.php:719
+#: loco:5a194feac430fe51518b4612
+msgid "Other text"
+msgstr "Andere tekst"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:630
+#: wp-live-chat-support/includes/settings_page.php:721
+#: loco:5a194feac430fe51518b4613
+msgid "This text is shown above the user chat input field"
+msgstr "Deze tekst wordt weergegeven boven het invoerveld voor gebruikers chat"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:662
+#: loco:5a194feac430fe51518b4614
+msgid ""
+"You are using an outdated version of WP Live Chat Support Basic. Please "
+"update your plugin to allow for animations to function"
+msgstr ""
+"U gebruikt een verouderde versie van WP live chat Support Basic. Please "
+"update uw plugin om animaties te laten functioneren"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:666
+#: wp-live-chat-support/includes/settings_page.php:749
+#: loco:5a194feac430fe51518b4615
+msgid "Choose an animation"
+msgstr "Een animatie kiezen"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:674
+#: wp-live-chat-support/includes/settings_page.php:757
+#: loco:5a194feac430fe51518b4616
+msgid "Slide Up"
+msgstr "Schuif omhoog"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:680
+#: wp-live-chat-support/includes/settings_page.php:763
+#: loco:5a194feac430fe51518b4617
+msgid "Slide From The Side"
+msgstr "Schuif vanaf de zijkant"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:686
+#: wp-live-chat-support/includes/settings_page.php:769
+#: loco:5a194feac430fe51518b4618
+msgid "Fade In"
+msgstr "Fade-In (langzaam tevoorschijn komen)"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:692
+#: wp-live-chat-support/includes/settings_page.php:775
+#: loco:5a194feac430fe51518b4619
+msgid "No Animation"
+msgstr "Geen Animatie"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:750
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3462
+#: wp-live-chat-support/wp-live-chat-support.php:3739
+#: loco:5a194feac430fe51518b461a
+msgid "Current Users that are Chat Agents"
+msgstr "Huidige gebruikers die chat medewerker zijn"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:761
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3473
+#: wp-live-chat-support/wp-live-chat-support.php:3749
+#: loco:5a194feac430fe51518b461b
+msgid "Online"
+msgstr "Online"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:771
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3331
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3483
+#: wp-live-chat-support/wp-live-chat-support.php:2123
+#: loco:5a194feac430fe51518b461c
+msgid "Remove"
+msgstr "Verwijder"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:780
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3492
+#: wp-live-chat-support/wp-live-chat-support.php:3799
+#: loco:5a194feac430fe51518b461d
+msgid "Add New Agent"
+msgstr "Nieuwe medewerker toevoegen"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:782
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:798
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3494
+#: wp-live-chat-support/wp-live-chat-support.php:2559
+#: wp-live-chat-support/wp-live-chat-support.php:3764
+#: loco:5a194feac430fe51518b461e
+msgid "Select"
+msgstr "Selecteer"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:804
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3516
+#: wp-live-chat-support/wp-live-chat-support.php:3800
+#: loco:5a194feac430fe51518b461f
+msgid "Add Agent"
+msgstr "Medewerker toevoegen"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:810
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3522
+#: loco:5a194feac430fe51518b4620
+msgid ""
+"Should you wish to add a user that has a role less than 'Author', please go "
+"to the <a href='./users.php'>Users</a> page, select the relevant user, click "
+"Edit and scroll to the bottom of the page and enable the 'Chat Agent' "
+"checkbox."
+msgstr ""
+"Als u een gebruiker wilt toevoegen met een rol minder dan 'Auteur', gaat u "
+"naar de pagina <a href='./users.php'>Gebruikers</a>, selecteert u de "
+"relevante gebruiker, klikt u op Bewerken en bladert u naar onderaan de "
+"pagina en schakelt u het selectievakje 'Chat medewerker' in."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:811
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3523
+#: loco:5a194feac430fe51518b4621
+msgid "If there are no chat agents online, the chat will show as offline"
+msgstr ""
+"Als er geen chat medewerkers online zijn, wordt de chat weergegeven als "
+"offline"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:815
+#: wp-live-chat-support/includes/settings_page.php:802
+#: loco:5a194feac430fe51518b4622
+msgid "Blocked Visitors - Based on IP Address"
+msgstr "Geblokkeerde bezoekers - op basis van IP-adres"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:816
+#: wp-live-chat-support/includes/settings_page.php:803
+#: loco:5a194feac430fe51518b4623
+msgid "Enter each IP Address you would like to block on a new line"
+msgstr "Voer elk te blokkeren IP-adres in op een nieuwe regel"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:827
+#: wp-live-chat-support/includes/settings_page.php:814
+#: loco:5a194feac430fe51518b4624
+msgid ""
+"Blocking a user's IP Address here will hide the chat window from them, "
+"preventing them from chatting with you. Each IP Address must be on a new line"
+msgstr ""
+"Als u hier het IP-adres van een gebruiker blokkeert, wordt het chatvenster "
+"voor deze persoon verborgen en kunnen ze niet meer met u chatten. Elk IP-"
+"adres moet op een nieuwe regel staan"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:836
+#: loco:5a194feac430fe51518b4625
+msgid ""
+"are only available in the WP Live Chat Support Chat Experience Ratings add-on"
+msgstr ""
+"zijn alleen beschikbaar in de Chat ervaringsbeoordelingen add-on van WP live "
+"chat Support "
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:840
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1821
+#: loco:5a194feac430fe51518b4626
+msgid "Chat Encryption"
+msgstr "Chat Encrytie"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:843
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1824
+#: loco:5a194feac430fe51518b4627
+msgid "Enable Encryption"
+msgstr "Encryptie inschakelen"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:843
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1824
+#: loco:5a194feac430fe51518b4628
+msgid ""
+"All messages will be encrypted when being sent to and from the user and "
+"agent."
+msgstr ""
+"Alle berichten worden gecodeerd wanneer ze worden verzonden naar en van de "
+"gebruiker en medewerker."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:851
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1834
+#: loco:5a194feac430fe51518b4629
+msgid ""
+"Once enabled, all messages sent will be encrypted. This cannot be undone."
+msgstr ""
+"Als deze optie is ingeschakeld, worden alle verzonden berichten gecodeerd. "
+"Dit kan niet ongedaan gemaakt worden."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:857
+#: wp-live-chat-support/includes/settings_page.php:822
+#: loco:5a194feac430fe51518b462a
+msgid "Save Settings"
+msgstr "Instellingen opslaan"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:5
+#: wp-live-chat-support-pro/includes/wplc_roi.php:83
+#: loco:5a194feac430fe51518b462b
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:8
+#: wp-live-chat-support/wp-live-chat-support.php:4418
+#: wp-live-chat-support/wp-live-chat-support.php:4448
+#: loco:5a194feac430fe51518b462c
+msgid "WP Live Chat Support Triggers"
+msgstr "WP Live Chat Support Triggers"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:16
+#: wp-live-chat-support-pro/includes/wplc_roi.php:110
+#: wp-live-chat-support/wp-live-chat-support.php:4402
+#: wp-live-chat-support/wp-live-chat-support.php:4464
+#: loco:5a194feac430fe51518b462d
+msgid "Update now"
+msgstr "Update nu"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:68
+#: loco:5a194feac430fe51518b462e
+msgid "Trigger Name"
+msgstr "Trigger naam"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:73
+#: loco:5a194feac430fe51518b462f
+msgid "Trigger Type"
+msgstr "Trigger Type"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:77
+#: wp-live-chat-support/wp-live-chat-support.php:4454
+#: loco:5a194feac430fe51518b4630
+msgid "Page Trigger"
+msgstr "Pagina trigger"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:78
+#: wp-live-chat-support/wp-live-chat-support.php:4455
+#: loco:5a194feac430fe51518b4631
+msgid "Time Trigger"
+msgstr "Tijd Trigger"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:79
+#: wp-live-chat-support/wp-live-chat-support.php:4456
+#: loco:5a194feac430fe51518b4632
+msgid "Scroll Trigger"
+msgstr "Scroll trigger"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:80
+#: wp-live-chat-support/wp-live-chat-support.php:4457
+#: loco:5a194feac430fe51518b4633
+msgid "Page Leave Trigger"
+msgstr "Pagina verlaat trigger"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:81
+#: loco:5a194feac430fe51518b4634
+msgid ""
+"Note: When using page trigger with a the basic theme, no hovercard is shown "
+"by default. We suggest using the time trigger for this instead."
+msgstr ""
+"Opmerking: wanneer u de pagina trigger gebruikt met een basisthema, wordt "
+"standaard geen hovercard (tekstballon met extra info) weergegeven. We raden "
+"u aan hiervoor de tijd trigger te gebruiken."
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:87
+#: loco:5a194feac430fe51518b4635
+msgid "Page ID"
+msgstr "Pagina ID"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:88
+#: loco:5a194feac430fe51518b4636
+msgid "Note: Leave empty for 'all' pages"
+msgstr "Opmerking: laat leeg voor 'alle' pagina's"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:92
+#: loco:5a194feac430fe51518b4637
+msgid "Show After"
+msgstr "Weergeven na"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:93
+#: loco:5a194feac430fe51518b4638
+msgid "Seconds"
+msgstr "Seconden"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:97
+#: loco:5a194feac430fe51518b4639
+msgid "Show After Scrolled"
+msgstr "Weergeven na scrollen"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:98
+#: loco:5a194feac430fe51518b463a
+msgid "(%) Percent of page height"
+msgstr "(%) Percentage van paginahoogte"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:102
+#: loco:5a194feac430fe51518b463b
+msgid "Content Replacement"
+msgstr "Inhoud vervangen"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:114
+#: loco:5a194feac430fe51518b463c
+msgid "Replace Content"
+msgstr "Vervang inhoud"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:119
+#: loco:5a194feac430fe51518b463d
+msgid "Enable Trigger"
+msgstr "Trigger inschakelen"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:125
+#: wp-live-chat-support-pro/includes/wplc_roi.php:237
+#: loco:5a194feac430fe51518b463e
+msgid "Close"
+msgstr "Sluit"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:134
+#: wp-live-chat-support-pro/includes/wplc_roi.php:246
+#: loco:5a194feac430fe51518b463f
+msgid "Please review your submission"
+msgstr "Controleer uw inzending alstublieft"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:275
+#: loco:5a194feac430fe51518b4640
+msgid "Trigger has been edited."
+msgstr "Trigger is bewerkt."
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:428
+#: loco:5a194feac430fe51518b4641
+msgid "Conflict with page"
+msgstr "Conflict met pagina"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:430
+#: loco:5a194feac430fe51518b4642
+msgid "Trigger ID: "
+msgstr "Trigger ID: "
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:440
+#: wp-live-chat-support-pro/includes/wplc_roi.php:127
+#: wp-live-chat-support/functions.php:1853 loco:5a194feac430fe51518b4643
+msgid "ID"
+msgstr "ID"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:442
+#: wp-live-chat-support/wp-live-chat-support.php:2321
+#: loco:5a194feac430fe51518b4644
+msgid "Type"
+msgstr "Type"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:443
+#: wp-live-chat-support-pro/includes/wplc_roi.php:130
+#: loco:5a194feac430fe51518b4645
+msgid "Page"
+msgstr "Pagina"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:444
+#: loco:5a194feac430fe51518b4646
+msgid "Content"
+msgstr "Inhoud"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:445
+#: wp-live-chat-support/wp-live-chat-support.php:2324
+#: wp-live-chat-support/wp-live-chat-support.php:3075
+#: loco:5a194feac430fe51518b4647
+msgid "Status"
+msgstr "Status"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:446
+#: wp-live-chat-support-pro/includes/wplc_roi.php:132
+#: wp-live-chat-support/functions.php:1623
+#: wp-live-chat-support/wp-live-chat-support.php:2325
+#: wp-live-chat-support/wp-live-chat-support.php:3076
+#: loco:5a194feac430fe51518b4648
+msgid "Action"
+msgstr "Actie"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:453
+#: wp-live-chat-support-pro/includes/wplc_roi.php:139
+#: loco:5a194feac430fe51518b4649
+msgid "Edit"
+msgstr "Bewerk"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:454
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:585
+#: wp-live-chat-support-pro/includes/wplc_roi.php:140
+#: wp-live-chat-support-pro/includes/wplc_roi.php:545
+#: loco:5a194feac430fe51518b464a
+msgid "Delete"
+msgstr "Verwijder"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:462
+#: wp-live-chat-support-pro/includes/wplc_roi.php:656
+#: wp-live-chat-support/wp-live-chat-support.php:3553
+#: loco:5a194feac430fe51518b464b
+msgid "All"
+msgstr "Alle"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:466
+#: loco:5a194feac430fe51518b464c
+msgid "Click to change trigger status"
+msgstr "Klik hier om de trigger status te wijzigen"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:476
+#: loco:5a194feac430fe51518b464d
+msgid "No Triggers Found..."
+msgstr "Geen triggers gevonden..."
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:580
+#: loco:5a194feac430fe51518b464e
+msgid "Are you sure you would like to delete trigger"
+msgstr "Weet je zeker dat je de trigger wilt verwijderen?"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:586
+#: wp-live-chat-support-pro/includes/wplc_roi.php:546
+#: loco:5a194feac430fe51518b464f
+msgid "Cancel"
+msgstr "annuleer"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:72
+#: loco:5a194feac430fe51518b4650
+msgid "ROI Goals"
+msgstr "ROI Doelen"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:86
+#: loco:5a194feac430fe51518b4651
+msgid "WP Live Chat Support ROI Goals"
+msgstr "WP Live Chat Suport ROI doelen"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:129
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3873
+#: loco:5a194feac430fe51518b4652
+msgid "Overview"
+msgstr "Overzicht"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:131
+#: wp-live-chat-support/modules/api/wplc-api.php:76
+#: loco:5a194feac430fe51518b4653
+msgid "Value"
+msgstr "Waarde"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:146
+#: loco:5a194feac430fe51518b4654
+msgid "None"
+msgstr "Geen"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:153
+#: loco:5a194feac430fe51518b4655
+msgid "No ROI Goals Found..."
+msgstr "Geen ROI doelen gevonden ..."
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:212
+#: loco:5a194feac430fe51518b4656
+msgid "Goal Name"
+msgstr "Doel Naam"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:217
+#: loco:5a194feac430fe51518b4657
+msgid "Goal Overview"
+msgstr "Doeloverzicht"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:222
+#: loco:5a194feac430fe51518b4658
+msgid "Goal Page"
+msgstr "Doelpagina"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:231
+#: loco:5a194feac430fe51518b4659
+msgid "Goal Value"
+msgstr "Doelwaarde"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:377
+#: loco:5a194feac430fe51518b465a
+msgid "Goal has been edited."
+msgstr "Doel is bewerkt."
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:540
+#: loco:5a194feac430fe51518b465b
+msgid "Are you sure you would like to delete goal"
+msgstr "Weet je zeker dat je het doel wilt verwijderen?"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:622
+#: loco:5a194feac430fe51518b465c
+msgid "ROI Reporting"
+msgstr "ROI rapportage"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:636
+#: loco:5a194feac430fe51518b465d
+msgid "Goal Statistics"
+msgstr "Doelstatistieken"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:648
+#: loco:5a194feac430fe51518b465e
+msgid "No Goals Found"
+msgstr "Geen doelen gevonden"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:657
+#: loco:5a194feac430fe51518b465f
+msgid "Last 30 Days"
+msgstr "Laatste 30 dagen"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:658
+#: loco:5a194feac430fe51518b4660
+msgid "Last 15 Days"
+msgstr "Laatste 15 dagen"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:659
+#: loco:5a194feac430fe51518b4661
+msgid "Last 7 Days"
+msgstr "Laatste 7 dagen"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:660
+#: loco:5a194feac430fe51518b4662
+msgid "Last 24 Hours"
+msgstr "Laatste 24 uur"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:712
+#: loco:5a194feac430fe51518b4663
+msgid "Value Per Conversion"
+msgstr "Waarde per conversie"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:718
+#: loco:5a194feac430fe51518b4664
+msgid "Total Value"
+msgstr "Totale waarde"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:723
+#: loco:5a194feac430fe51518b4665
+msgid "Total Conversions"
+msgstr "Totaal aantal conversies"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:757
+#: loco:5a194feac430fe51518b4666
+msgid "Value By Date"
+msgstr "Waarde op datum"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:760
+#: loco:5a194feac430fe51518b4667
+msgid "Value By Agent"
+msgstr "Waarde per medewerker"
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:766
+#: loco:5a194feac430fe51518b4668
+msgid "No data available yet..."
+msgstr "Nog geen gegevens beschikbaar ..."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:511
+#: loco:5a194feac430fe51518b4669
+#, php-format
+msgid ""
+"WP Live Chat Support Pro <strong>requires WP Live Chat Support version 6+</"
+"strong> (basic version). Please <strong><a href=\"%1$s\">update the plugin</"
+"a></strong> in order for the plugin to continue working correctly."
+msgstr ""
+"WP Live Chat Support Pro vereist WP Live Chat Support versie 6 "
+"(basisversie). <a href=\"%1$s\">Update de plug-in</a> om ervoor te zorgen "
+"dat de plug-in correct blijft werken."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:597
+#: loco:5a194feac430fe51518b466a
+msgid "WP Live Chat Support Pro"
+msgstr "WP Live Chat Support Pro"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:710
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:721
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3201
+#: loco:5a194feac430fe51518b466b
+msgid "Quick Responses"
+msgstr "Snelle reacties"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:711
+#: loco:5a194feac430fe51518b466c
+msgid "Quick Response"
+msgstr "Snelle reactie"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:712
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:715
+#: loco:5a194feac430fe51518b466d
+msgid "New Quick Response"
+msgstr "Nieuwe snelle reactie"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:713
+#: loco:5a194feac430fe51518b466e
+msgid "Add New Quick Response"
+msgstr "Nieuwe snelle reactie toevoegen"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:714
+#: loco:5a194feac430fe51518b466f
+msgid "Edit Quick Response"
+msgstr "Bewerk snel antwoord"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:716
+#: loco:5a194feac430fe51518b4670
+msgid "All Quick Responses"
+msgstr "Alle snelle reacties"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:717
+#: loco:5a194feac430fe51518b4671
+msgid "View Quick Responses"
+msgstr "Bekijk snelle antwoorden"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:718
+#: loco:5a194feac430fe51518b4672
+msgid "Search Quick Responses"
+msgstr "Zoeken in snelle antwoorden"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:719
+#: loco:5a194feac430fe51518b4673
+msgid "No Quick Responses found"
+msgstr "Geen snelle reacties gevonden"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:720
+#: loco:5a194feac430fe51518b4674
+msgid "No Quick Responses found in the Trash"
+msgstr "Geen snelle reacties gevonden in de prullenbak"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:725
+#: loco:5a194feac430fe51518b4675
+msgid "Quick Responses for WP Live Chat Support Pro"
+msgstr "Snelle reacties voor WP Live Chat Support Pro"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:791
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:795
+#: wp-live-chat-support/wp-live-chat-support.php:2559
+#: loco:5a194feac430fe51518b4676
+msgid "Assign Quick Response"
+msgstr "Snelle reactie toewijzen"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:804
+#: loco:5a194feac430fe51518b4677
+msgid "What is this?"
+msgstr "Wat is dit?"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:841
+#: loco:5a194feac430fe51518b4678
+#, php-format
+msgid "Incoming chat from %s (%s) on %s"
+msgstr "Inkomende chat van %s (%s) op %s"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:847
+#: loco:5a194feac430fe51518b4679
+#, php-format
+msgid "%s (%s) wants to chat with you. <br /><br />Log in: %s"
+msgstr "%s (%s) wil met je chatten. Log in: %s"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:895
+#: wp-live-chat-support/includes/settings_page.php:239
+#: loco:5a194feac430fe51518b467a
+msgid "Display typing indicator"
+msgstr "Toon typ indicator"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:895
+#: loco:5a194feac430fe51518b467b
+msgid ""
+"Display the \"typing...\" animation in the chat window as soon as an agent "
+"or visitor is typing."
+msgstr ""
+"Geef de 'aan het typen ...' animatie weer in het chat venster zodra een "
+"medewerker of bezoeker typt."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:902
+#: loco:5a194feac430fe51518b467c
+#, php-format
+msgid ""
+"Please update your <a href='%s'>basic version</a> to make use of this "
+"feature."
+msgstr ""
+"Werk uw <a href='%s'>basisversie</a> bij om van deze functie gebruik te "
+"maken."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:910
+#: loco:5a194feac430fe51518b467d
+msgid ""
+"For non-cloud server users, please note that this will increase the amount "
+"of server resources required."
+msgstr ""
+"Voor niet-cloud-servergebruikers, houd er rekening mee dat hierdoor de "
+"hoeveelheid benodigde server opslag zal toenemen."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:927
+#: loco:5a194feac430fe51518b467e
+msgid "Use WordPress name instead"
+msgstr "Gebruik in plaats hiervan de WordPress-naam"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:930
+#: loco:5a194feac430fe51518b467f
+msgid "Note: 'Name' field will be ignored"
+msgstr "Opmerking: het veld 'Naam' wordt genegeerd"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:948
+#: loco:5a194feac430fe51518b4680
+msgid "Incoming chat ring tone"
+msgstr "Inkomende chat signaaltoon"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:952
+#: loco:5a194feac430fe51518b4681
+msgid "Default"
+msgstr "Standaard"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1001
+#: loco:5a194feac430fe51518b4682
+msgid "Recomended Size 60px x 60px"
+msgstr "Aanbevolen grootte 60px x 60px"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1043
+#: loco:5a194feac430fe51518b4683
+msgid "User Experience"
+msgstr "Gebruikerservaring"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1052
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1082
+#: loco:5a194feac430fe51518b4684
+#, php-format
+msgid ""
+"Please update your <a href='%s'>basic version</a> to make use of these "
+"features."
+msgstr ""
+"Update uw <a href='%s'>basisversie</a> om gebruik te maken van deze functies."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1059
+#: loco:5a194feac430fe51518b4685
+msgid "Enable Text Editor"
+msgstr "Tekst editor inschakelen"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1059
+#: loco:5a194feac430fe51518b4686
+msgid ""
+"Adds advanced text editor features, such as links, text styling, and more!"
+msgstr ""
+"Voegt geavanceerde teksteditor functies, zoals links, tekst styling, en nog "
+"veel meer!"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1063
+#: loco:5a194feac430fe51518b4687
+msgid "Enable File Sharing"
+msgstr "Bestandsdeling inschakelen"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1063
+#: loco:5a194feac430fe51518b4688
+msgid "Adds file sharing to your chat box!"
+msgstr "Voegt het delen van bestanden toe aan uw chat box!"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1067
+#: loco:5a194feac430fe51518b4689
+msgid "Enable Experience Ratings"
+msgstr "Ervaringsbeoordelingen inschakelen"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1067
+#: loco:5a194feac430fe51518b468a
+msgid "Allows users to rate the chat experience with an agent."
+msgstr ""
+"Hiermee kunnen gebruikers de chat ervaring met een medewerker beoordelen."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1073
+#: wp-live-chat-support/includes/settings_page.php:362
+#: loco:5a194feac430fe51518b468b
+msgid "Social"
+msgstr "Sociaal"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1090
+#: wp-live-chat-support/includes/settings_page.php:367
+#: loco:5a194feac430fe51518b468c
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1090
+#: wp-live-chat-support/includes/settings_page.php:367
+#: loco:5a194feac430fe51518b468d
+msgid "Link your Facebook page here. Leave blank to hide"
+msgstr "Link je Facebook-pagina hier. Leeg laten om te verbergen"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1091
+#: wp-live-chat-support/includes/settings_page.php:369
+#: loco:5a194feac430fe51518b468e
+msgid "Facebook URL..."
+msgstr "Facebook URL..."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1094
+#: wp-live-chat-support/includes/settings_page.php:380
+#: loco:5a194feac430fe51518b468f
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1094
+#: wp-live-chat-support/includes/settings_page.php:380
+#: loco:5a194feac430fe51518b4690
+msgid "Link your Twitter page here. Leave blank to hide"
+msgstr "Link je Twitter-pagina hier. Leeg laten om te verbergen"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1095
+#: wp-live-chat-support/includes/settings_page.php:382
+#: loco:5a194feac430fe51518b4691
+msgid "Twitter URL..."
+msgstr "Twitter URL..."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1118
+#: loco:5a194feac430fe51518b4692
+msgid "Admin"
+msgstr "Admin"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1612
+#: loco:5a194feac430fe51518b4693
+msgid "You are currently accepting chats"
+msgstr "U accepteert momenteel chats"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1613
+#: loco:5a194feac430fe51518b4694
+msgid "You are not accepting chats"
+msgstr "U accepteert geen chats"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1627
+#: loco:5a194feac430fe51518b4695
+msgid ""
+"You have set your status to offline. To view visitors and accept chats "
+"please set your status to online using the switch above."
+msgstr ""
+"U hebt uw status ingesteld op off line. Als u bezoekers wilt bekijken en "
+"chats wilt accepteren, stelt u uw status in op online met de bovenstaande "
+"schakeloptie."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1833
+#: loco:5a194feac430fe51518b4696
+msgid ""
+"Please note: Chat messages will only be encrypted and decreypted if you have "
+"inserted your WP Live Chat Support Pro API Key on the <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API Keys page</a>."
+msgstr ""
+"Let op: Chat berichten worden alleen gecodeerd en gedecodeerd als u uw WP "
+"live chat support Pro API-sleutel hebt ingevoegd op de API-sleutels pagina."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2119
+#: loco:5a194feac430fe51518b4697
+msgid "Exclude chat from 'Home' page:"
+msgstr "Chat uitsluiten van de 'Home'-pagina:"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2119
+#: loco:5a194feac430fe51518b4698
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your home "
+"page."
+msgstr ""
+"Als u dit niet aanvinkt, kan het chatvenster op uw startpagina worden "
+"weergegeven."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2127
+#: loco:5a194feac430fe51518b4699
+msgid "Exclude chat from 'Archive' pages:"
+msgstr "Chat uitsluiten van pagina's 'Archief':"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2127
+#: loco:5a194feac430fe51518b469a
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your archive "
+"pages."
+msgstr ""
+"Als u dit niet aanvinkt, kan het chatvenster op uw archiefpagina's worden "
+"weergegeven."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2458
+#: loco:5a194feac430fe51518b469b
+msgid "Attempting to open the chat window... Please be patient."
+msgstr "Poging om het chatvenster te openen ... Even geduld."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2516
+#: loco:5a194feac430fe51518b469c
+msgid ""
+"You are not a chat agent. Please make yourself a chat agent before trying to "
+"chat to visitors"
+msgstr ""
+"U bent geen chat medewerker. Maak uzelf een chat medewerker voordat u "
+"probeert te chatten met bezoekers"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2777
+#: loco:5a194feac430fe51518b469d
+msgid "This chat has already been answered by another agent."
+msgstr "Deze chat is al beantwoord door een andere medewerker."
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3084
+#: wp-live-chat-support/wp-live-chat-support.php:2220
+#: loco:5a194feac430fe51518b469e
+msgid "Agent(s) online"
+msgstr "Medewerker(s) online"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3202
+#: wp-live-chat-support/wp-live-chat-support.php:731
+#: loco:5a194feac430fe51518b469f
+msgid "Reporting"
+msgstr "Rapportering"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3203
+#: wp-live-chat-support/wp-live-chat-support.php:737
+#: loco:5a194feac430fe51518b46a0
+msgid "Triggers"
+msgstr "Triggers"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3679
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3687
+#: wp-live-chat-support/wp-live-chat-support.php:4298
+#: loco:5a194feac430fe51518b46a1
+msgid "Experience Rating"
+msgstr "Ervaringsbeoordeling"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3767
+#: loco:5a194feac430fe51518b46a2
+msgid "User Experience Ratings"
+msgstr "Beoordelingen van gebruikerservaringen"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3774
+#: loco:5a194feac430fe51518b46a3
+msgid "Agent Statistics"
+msgstr "Medewerkers Statistieken"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3820
+#: loco:5a194feac430fe51518b46a4
+msgid "Satisfaction Rating"
+msgstr "Tevredenheidscijfer"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3821
+#: loco:5a194feac430fe51518b46a5
+msgid "Rating Count"
+msgstr "Aantal Beoordelingen"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3821
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3835
+#: loco:5a194feac430fe51518b46a6
+msgid "Good"
+msgstr "Goed"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3821
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3835
+#: loco:5a194feac430fe51518b46a7
+msgid "Bad"
+msgstr "Slecht"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3829
+#: loco:5a194feac430fe51518b46a8
+msgid "No Ratings for this agent"
+msgstr "Geen beoordelingen voor deze medewerker"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3870
+#: wp-live-chat-support/wp-live-chat-support.php:4379
+#: wp-live-chat-support/wp-live-chat-support.php:4386
+#: loco:5a194feac430fe51518b46a9
+msgid "WP Live Chat Support Reporting"
+msgstr "WP Live Chat Support rapportering"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3874
+#: loco:5a194feac430fe51518b46aa
+msgid "Popular Pages"
+msgstr "Populaire pagina's"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3892
+#: loco:5a194feac430fe51518b46ab
+msgid "Total Agents"
+msgstr "Totaal aantal medewerkers"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3892
+#: loco:5a194feac430fe51518b46ac
+msgid "Total number of agents that used the live chat"
+msgstr "Totaal aantal medewerkers dat de live chat heeft gebruikt"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3893
+#: loco:5a194feac430fe51518b46ad
+msgid "Total Chats"
+msgstr "Totaal aantal chats"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3893
+#: loco:5a194feac430fe51518b46ae
+msgid "Total number of chats received"
+msgstr "Totaal aantal ontvangen chats"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3894
+#: loco:5a194feac430fe51518b46af
+msgid "Total URLs"
+msgstr "Totaal aantal URL's"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3894
+#: loco:5a194feac430fe51518b46b0
+msgid "Total number of URLs a chat was initiated on"
+msgstr "Totaal aantal URL's waarop een chat is gestart"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3895
+#: loco:5a194feac430fe51518b46b1
+msgid "Chats per day"
+msgstr "Chats per dag"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3896
+#: loco:5a194feac430fe51518b46b2
+msgid "Popular pages a chat was initiated on"
+msgstr "Populaire pagina's waarop een chat is gestart"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3972
+#: wp-live-chat-support/functions.php:1622
+#: wp-live-chat-support/wp-live-chat-support.php:3074
+#: loco:5a194feac430fe51518b46b3
+msgid "URL"
+msgstr "URL"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3973
+#: loco:5a194feac430fe51518b46b4
+msgid "Count"
+msgstr "Totaliteit"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3993
+#: loco:5a194feac430fe51518b46b5
+msgid "Disable initiate chat feature:"
+msgstr "Schakel chat-functie uit:"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3993
+#: loco:5a194feac430fe51518b46b6
+msgid ""
+"This will substantially improve performance. If you are experiencing "
+"performance issues on your site, you should disable the initiate chat "
+"feature and only enable it when you need it."
+msgstr ""
+"Dit zal de prestaties aanzienlijk verbeteren. Als u prestatieproblemen op uw "
+"site ondervindt, moet u de chatfunctie activeren en alleen inschakelen "
+"wanneer u deze nodig hebt."
+
+#: wp-live-chat-support/functions.php:451 loco:5a194feac430fe51518b46b7
+msgid "Only chat agents can accept chats"
+msgstr "Alleen chat medewerkers kunnen chats accepteren"
+
+#: wp-live-chat-support/functions.php:654
+#: wp-live-chat-support/wp-live-chat-support.php:567
+#: wp-live-chat-support/wp-live-chat-support.php:1588
+#: wp-live-chat-support/wp-live-chat-support.php:2697
+#: wp-live-chat-support/wp-live-chat-support.php:4268
+#: loco:5a194feac430fe51518b46b8
+msgid "Welcome. How may I help you?"
+msgstr "Welkom. Hoe kan ik u helpen?"
+
+#: wp-live-chat-support/functions.php:1003 loco:5a194feac430fe51518b46b9
+msgid "complete"
+msgstr "voltooid"
+
+#: wp-live-chat-support/functions.php:1006 loco:5a194feac430fe51518b46ba
+msgid "pending"
+msgstr "In afwachting"
+
+#: wp-live-chat-support/functions.php:1009 loco:5a194feac430fe51518b46bb
+msgid "active"
+msgstr "actief"
+
+#: wp-live-chat-support/functions.php:1012 loco:5a194feac430fe51518b46bc
+msgid "deleted"
+msgstr "verwijderd"
+
+#: wp-live-chat-support/functions.php:1015 loco:5a194feac430fe51518b46bd
+msgid "browsing"
+msgstr "browsing"
+
+#: wp-live-chat-support/functions.php:1018 loco:5a194feac430fe51518b46be
+msgid "requesting chat"
+msgstr "chat aanvragen"
+
+#: wp-live-chat-support/functions.php:1021 loco:5a194feac430fe51518b46bf
+msgid "Chat Ended - User still browsing"
+msgstr "Chatten beëindigd - Gebruiker bladert nog steeds"
+
+#: wp-live-chat-support/functions.php:1024 loco:5a194feac430fe51518b46c0
+msgid "User is browsing but doesn't want to chat"
+msgstr "De gebruiker bladert maar wil niet chatten"
+
+#: wp-live-chat-support/functions.php:1359 loco:5a194feac430fe51518b46c1
+msgid "Get Pro Add-on to accept more chats"
+msgstr "Ontvang Pro Add-on om meer chats te accepteren"
+
+#: wp-live-chat-support/functions.php:1597
+#: wp-live-chat-support/wp-live-chat-support.php:3036
+#: loco:5a194feac430fe51518b46c2
+msgid "Error: Could not delete chat"
+msgstr "Fout: kan de chat niet verwijderen"
+
+#: wp-live-chat-support/functions.php:1601
+#: wp-live-chat-support/wp-live-chat-support.php:3040
+#: loco:5a194feac430fe51518b46c3
+msgid "Chat Deleted"
+msgstr "Chat verwijderd"
+
+#: wp-live-chat-support/functions.php:1608
+#: wp-live-chat-support/wp-live-chat-support.php:3047
+#: loco:5a194feac430fe51518b46c4
+msgid "Are you sure you would like to delete this chat?"
+msgstr "Weet je zeker dat je deze chat wilt verwijderen?"
+
+#: wp-live-chat-support/functions.php:1650 loco:5a194feac430fe51518b46c5
+msgid "You have not missed any chat requests."
+msgstr "U hebt geen chat verzoeken gemist."
+
+#: wp-live-chat-support/functions.php:1843 loco:5a194feac430fe51518b46c6
+msgid "Open chat window via"
+msgstr "Open het chatvenster via"
+
+#: wp-live-chat-support/functions.php:1847 loco:5a194feac430fe51518b46c7
+msgid "Click"
+msgstr "Klik"
+
+#: wp-live-chat-support/functions.php:1848 loco:5a194feac430fe51518b46c8
+msgid "Hover"
+msgstr "Zweef over"
+
+#: wp-live-chat-support/functions.php:1850 loco:5a194feac430fe51518b46c9
+msgid "element with"
+msgstr "element met"
+
+#: wp-live-chat-support/functions.php:1852 loco:5a194feac430fe51518b46ca
+msgid "Class"
+msgstr "Classificatie"
+
+#: wp-live-chat-support/includes/deprecated.php:151
+#: wp-live-chat-support/includes/deprecated.php:348
+#: wp-live-chat-support/wp-live-chat-support.php:559
+#: wp-live-chat-support/wp-live-chat-support.php:1650
+#: wp-live-chat-support/wp-live-chat-support.php:2683
+#: wp-live-chat-support/wp-live-chat-support.php:4260
+#: loco:5a194feac430fe51518b46cb
+msgid "Questions?"
+msgstr "Vragen?"
+
+#: wp-live-chat-support/includes/deprecated.php:151
+#: wp-live-chat-support/includes/deprecated.php:348
+#: wp-live-chat-support/wp-live-chat-support.php:560
+#: wp-live-chat-support/wp-live-chat-support.php:1651
+#: wp-live-chat-support/wp-live-chat-support.php:2684
+#: wp-live-chat-support/wp-live-chat-support.php:4261
+#: loco:5a194feac430fe51518b46cc
+msgid "Chat with us"
+msgstr "Chat met ons"
+
+#: wp-live-chat-support/includes/deprecated.php:158
+#: wp-live-chat-support/includes/deprecated.php:355
+#: loco:5a194feac430fe51518b46cd
+msgid "Start Live Chat"
+msgstr "Start Live Chat"
+
+#: wp-live-chat-support/includes/deprecated.php:210
+#: wp-live-chat-support/includes/deprecated.php:410
+#: wp-live-chat-support/wp-live-chat-support.php:562
+#: wp-live-chat-support/wp-live-chat-support.php:2686
+#: wp-live-chat-support/wp-live-chat-support.php:4263
+#: loco:5a194feac430fe51518b46ce
+msgid "Start Chat"
+msgstr "Start Chat"
+
+#: wp-live-chat-support/includes/deprecated.php:213
+#: wp-live-chat-support/includes/deprecated.php:413
+#: loco:5a194feac430fe51518b46cf
+msgid "Connecting you to a sales person. Please be patient."
+msgstr "We verbinden u met een verkoopmedewerker. Wees alstublieft geduldig."
+
+#: wp-live-chat-support/includes/deprecated.php:216
+#: wp-live-chat-support/includes/deprecated.php:416
+#: wp-live-chat-support/wp-live-chat-support.php:566
+#: wp-live-chat-support/wp-live-chat-support.php:1784
+#: wp-live-chat-support/wp-live-chat-support.php:1835
+#: wp-live-chat-support/wp-live-chat-support.php:2690
+#: wp-live-chat-support/wp-live-chat-support.php:4267
+#: loco:5a194feac430fe51518b46d0
+msgid "Reactivating your previous chat..."
+msgstr "Uw vorige chat opnieuw activeren ..."
+
+#: wp-live-chat-support/includes/deprecated.php:221
+#: wp-live-chat-support/includes/deprecated.php:421
+#: wp-live-chat-support/wp-live-chat-support.php:568
+#: wp-live-chat-support/wp-live-chat-support.php:2558
+#: wp-live-chat-support/wp-live-chat-support.php:2696
+#: wp-live-chat-support/wp-live-chat-support.php:4269
+#: loco:5a194feac430fe51518b46d1
+msgid "Press ENTER to send your message"
+msgstr "Druk op ENTER om uw bericht te verzenden"
+
+#: wp-live-chat-support/includes/deprecated.php:225
+#: wp-live-chat-support/includes/deprecated.php:425
+#: wp-live-chat-support/wp-live-chat-support.php:1624
+#: wp-live-chat-support/wp-live-chat-support.php:2573
+#: loco:5a194feac430fe51518b46d2
+msgid "Send"
+msgstr "Verzenden"
+
+#: wp-live-chat-support/includes/feedback-page.php:6
+#: loco:5a194feac430fe51518b46d3
+msgid "WP Live Chat Support Feedback"
+msgstr "WP Live Chat Support Feedback"
+
+#: wp-live-chat-support/includes/feedback-page.php:11
+#: loco:5a194feac430fe51518b46d4
+msgid "Your Name"
+msgstr "Uw naam"
+
+#: wp-live-chat-support/includes/feedback-page.php:19
+#: loco:5a194feac430fe51518b46d5
+msgid "Your Email"
+msgstr "Uw e-mail"
+
+#: wp-live-chat-support/includes/feedback-page.php:27
+#: loco:5a194feac430fe51518b46d6
+msgid "Your Website"
+msgstr "Uw website"
+
+#: wp-live-chat-support/includes/feedback-page.php:35
+#: wp-live-chat-support/wp-live-chat-support.php:766
+#: loco:5a194feac430fe51518b46d7
+msgid "Feedback"
+msgstr "Feedback"
+
+#: wp-live-chat-support/includes/feedback-page.php:46
+#: loco:5a194feac430fe51518b46d8
+msgid "Send Feedback"
+msgstr "Verzend feedback"
+
+#: wp-live-chat-support/includes/settings_page.php:73
+#: loco:5a194feac430fe51518b46d9
+msgid "Agents"
+msgstr "Medewerkers"
+
+#: wp-live-chat-support/includes/settings_page.php:175
+#: loco:5a194feac430fe51518b46da
+msgid "Include chat window on the following pages"
+msgstr "Neem chatvenster op de volgende pagina's op"
+
+#: wp-live-chat-support/includes/settings_page.php:181
+#: wp-live-chat-support/includes/settings_page.php:196
+#: wp-live-chat-support/includes/settings_page.php:245
+#: wp-live-chat-support/includes/settings_page.php:262
+#: wp-live-chat-support/includes/settings_page.php:278
+#: wp-live-chat-support/includes/settings_page.php:294
+#: wp-live-chat-support/includes/settings_page.php:310
+#: wp-live-chat-support/includes/settings_page.php:327
+#: wp-live-chat-support/includes/settings_page.php:372
+#: wp-live-chat-support/includes/settings_page.php:385
+#: loco:5a194feac430fe51518b46db
+msgid "available in the"
+msgstr "beschikbaar in de"
+
+#: wp-live-chat-support/includes/settings_page.php:182
+#: wp-live-chat-support/includes/settings_page.php:197
+#: wp-live-chat-support/includes/settings_page.php:246
+#: wp-live-chat-support/includes/settings_page.php:263
+#: wp-live-chat-support/includes/settings_page.php:279
+#: wp-live-chat-support/includes/settings_page.php:295
+#: wp-live-chat-support/includes/settings_page.php:311
+#: wp-live-chat-support/includes/settings_page.php:328
+#: wp-live-chat-support/includes/settings_page.php:373
+#: wp-live-chat-support/includes/settings_page.php:386
+#: wp-live-chat-support/wp-live-chat-support.php:3153
+#: wp-live-chat-support/wp-live-chat-support.php:3945
+#: wp-live-chat-support/wp-live-chat-support.php:4013
+#: loco:5a194feac430fe51518b46dc
+msgid "Pro Add-on"
+msgstr "Pro toepassing"
+
+#: wp-live-chat-support/includes/settings_page.php:183
+#: wp-live-chat-support/includes/settings_page.php:198
+#: wp-live-chat-support/includes/settings_page.php:247
+#: wp-live-chat-support/includes/settings_page.php:264
+#: wp-live-chat-support/includes/settings_page.php:280
+#: wp-live-chat-support/includes/settings_page.php:296
+#: wp-live-chat-support/includes/settings_page.php:312
+#: wp-live-chat-support/includes/settings_page.php:329
+#: wp-live-chat-support/includes/settings_page.php:374
+#: wp-live-chat-support/includes/settings_page.php:387
+#: loco:5a194feac430fe51518b46dd
+msgid "only"
+msgstr "enkel"
+
+#: wp-live-chat-support/includes/settings_page.php:190
+#: loco:5a194feac430fe51518b46de
+msgid "Exclude chat window on the following pages"
+msgstr "Sluit het chatvenster op de volgende pagina's uit"
+
+#: wp-live-chat-support/includes/settings_page.php:239
+#: loco:5a194feac430fe51518b46df
+msgid "Display a typing animation as soon as someone starts typing."
+msgstr "Geef een type animatie weer zodra iemand begint te typen."
+
+#: wp-live-chat-support/includes/settings_page.php:324
+#: loco:5a194feac430fe51518b46e0
+msgid "Alert me via email as soon as someone wants to chat"
+msgstr "Waarschuw mij via e-mail zodra iemand wil chatten"
+
+#: wp-live-chat-support/includes/settings_page.php:551
+#: wp-live-chat-support/includes/settings_page.php:552
+#: loco:5a194feac430fe51518b46e1
+msgid "Classic"
+msgstr "Klassiek"
+
+#: wp-live-chat-support/includes/settings_page.php:555
+#: wp-live-chat-support/includes/settings_page.php:556
+#: loco:5a194feac430fe51518b46e2
+msgid "Modern"
+msgstr "Modern"
+
+#: wp-live-chat-support/includes/settings_page.php:572
+#: loco:5a194feac430fe51518b46e3
+msgid "Colour Scheme"
+msgstr "Kleurenschema"
+
+#: wp-live-chat-support/includes/settings_page.php:627
+#: loco:5a194feac430fe51518b46e4
+msgid "Choose"
+msgstr "Kiezen"
+
+#: wp-live-chat-support/includes/settings_page.php:628
+#: loco:5a194feac430fe51518b46e5
+msgid "Your"
+msgstr "uw"
+
+#: wp-live-chat-support/includes/settings_page.php:629
+#: loco:5a194feac430fe51518b46e6
+msgid "Colors"
+msgstr "Kleuren"
+
+#: wp-live-chat-support/includes/settings_page.php:630
+#: loco:5a194feac430fe51518b46e7
+msgid "Below"
+msgstr "Onderaan"
+
+#: wp-live-chat-support/includes/settings_page.php:652
+#: loco:5a194feac430fe51518b46e8
+msgid "Palette Color 1"
+msgstr "Kleurenpalet 1"
+
+#: wp-live-chat-support/includes/settings_page.php:658
+#: loco:5a194feac430fe51518b46e9
+msgid "Palette Color 2"
+msgstr "Kleurenpalet 2"
+
+#: wp-live-chat-support/includes/settings_page.php:664
+#: loco:5a194feac430fe51518b46ea
+msgid "Palette Color 3"
+msgstr "Kleurenpalet 3"
+
+#: wp-live-chat-support/includes/settings_page.php:670
+#: loco:5a194feac430fe51518b46eb
+msgid "Palette Color 4"
+msgstr "Kleurenpalet 4"
+
+#: wp-live-chat-support/includes/surveys.php:8
+#: wp-live-chat-support/includes/surveys.php:21
+#: wp-live-chat-support/includes/surveys.php:290
+#: wp-live-chat-support/wp-live-chat-support.php:726
+#: loco:5a194feac430fe51518b46ec
+msgid "Surveys"
+msgstr "Enquête"
+
+#: wp-live-chat-support/includes/surveys.php:24 loco:5a194feac430fe51518b46ed
+msgid "Enable Surveys"
+msgstr "Enquêtes inschakelen"
+
+#: wp-live-chat-support/includes/surveys.php:24 loco:5a194feac430fe51518b46ee
+msgid ""
+"Enable surveys within your live chat box, either before or after a live chat "
+"session."
+msgstr ""
+"Schakel enquêtes in uw live chatbox in, vóór of na een live chatsessie."
+
+#: wp-live-chat-support/includes/surveys.php:33 loco:5a194feac430fe51518b46ef
+#, php-format
+msgid ""
+"No surveys created. Please <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">create a survey and then refresh this page.</a>"
+msgstr ""
+"Geen enquêtes gemaakt. Maak een <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">enquête</a> en vernieuw deze pagina."
+
+#: wp-live-chat-support/includes/surveys.php:40 loco:5a194feac430fe51518b46f0
+msgid "Select a survey"
+msgstr "Selecteer een enquête"
+
+#: wp-live-chat-support/includes/surveys.php:66 loco:5a194feac430fe51518b46f1
+msgid "Display survey"
+msgstr "Toon enquête"
+
+#: wp-live-chat-support/includes/surveys.php:69 loco:5a194feac430fe51518b46f2
+msgid "Before chat"
+msgstr "Voor de chat"
+
+#: wp-live-chat-support/includes/surveys.php:70 loco:5a194feac430fe51518b46f3
+msgid "After chat"
+msgstr "Na de chat"
+
+#: wp-live-chat-support/includes/surveys.php:75 loco:5a194feac430fe51518b46f4
+msgid "Chat button text"
+msgstr "Chat-knoptekst"
+
+#: wp-live-chat-support/includes/surveys.php:81 loco:5a194feac430fe51518b46f5
+msgid "Change title of chat box when chat ended to"
+msgstr "Wijzig de titel van het chat vak wanneer de chat beëindigd is"
+
+#: wp-live-chat-support/includes/surveys.php:246
+#: wp-live-chat-support/wp-live-chat-support.php:563
+#: wp-live-chat-support/wp-live-chat-support.php:2687
+#: wp-live-chat-support/wp-live-chat-support.php:4264
+#: loco:5a194feac430fe51518b46f6
+msgid "Or chat to an agent now"
+msgstr "Of chat nu met een medewerker"
+
+#: wp-live-chat-support/includes/surveys.php:251
+#: wp-live-chat-support/wp-live-chat-support.php:1425
+#: loco:5a194feac430fe51518b46f7
+msgid "Leave a message"
+msgstr "Laat een bericht achter"
+
+#: wp-live-chat-support/includes/surveys.php:285 loco:5a194feac430fe51518b46f8
+msgid "WP Live Chat Surveys with Nimble Squirrel"
+msgstr "WP Live Chat Enquêtes met Nimble Squirrel"
+
+#: wp-live-chat-support/includes/surveys.php:291 loco:5a194feac430fe51518b46f9
+msgid ""
+"To view your responses, click the button below and log in to your "
+"NimbleSquirrel account."
+msgstr ""
+"Om uw antwoorden te bekijken, klikt u op de onderstaande knop en meldt u "
+"zich aan bij uw NimbleSquirrel-account."
+
+#: wp-live-chat-support/includes/surveys.php:294 loco:5a194feac430fe51518b46fa
+msgid ""
+"Need help? <a href='https://wp-livechat.com/contact-us/' "
+"target='_BLANK'>Contact us</a> and we'll get back to you as soon as possible!"
+msgstr ""
+"Hulp nodig? Neem contact met ons op en we nemen zo snel mogelijk contact met "
+"u op!"
+
+#: wp-live-chat-support/includes/surveys.php:304 loco:5a194feac430fe51518b46fb
+#, php-format
+msgid ""
+"Register on <a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel"
+"\">NimbleSquirrel</a> (It's free.)"
+msgstr ""
+"Registreer op <a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel"
+"\">NimbleSquirrel</a> (het is gratis.)"
+
+#: wp-live-chat-support/includes/surveys.php:307 loco:5a194feac430fe51518b46fc
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">Create a survey</"
+"a>."
+msgstr ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">'Maak een "
+"enquête'.</a>"
+
+#: wp-live-chat-support/includes/surveys.php:314 loco:5a194feac430fe51518b46fd
+msgid "Add a Survey to your live chat box"
+msgstr "Voeg een enquête toe aan uw live chatbox"
+
+#: wp-live-chat-support/includes/surveys.php:315 loco:5a194feac430fe51518b46fe
+msgid "Three simple steps:"
+msgstr "Drie eenvoudige stappen:"
+
+#: wp-live-chat-support/includes/surveys.php:319 loco:5a194feac430fe51518b46ff
+msgid ""
+"Enable surveys in your live chat <a href='admin.php?page=wplivechat-menu-"
+"settings'>settings page</a>."
+msgstr ""
+"Schakel enquêtes in op je instellingenpagina van wplivechat-menu-settings "
+"voor live chatten."
+
+#: wp-live-chat-support/includes/welcome_page.php:4
+#: loco:5a194feac430fe51518b4700
+msgid "Welcome to "
+msgstr "Welkom bij"
+
+#: wp-live-chat-support/includes/welcome_page.php:6
+#: loco:5a194feac430fe51518b4701
+msgid "Version 6"
+msgstr "Versie 6"
+
+#: wp-live-chat-support/includes/welcome_page.php:8
+#: loco:5a194feac430fe51518b4702
+msgid "The most popular live chat plugin!"
+msgstr "De meest populaire plug-in voor live chatten!"
+
+#: wp-live-chat-support/includes/welcome_page.php:11
+#: loco:5a194feac430fe51518b4703
+msgid "How did you find us?"
+msgstr "hoe heeft u ons gevonden?"
+
+#: wp-live-chat-support/includes/welcome_page.php:16
+#: loco:5a194feac430fe51518b4704
+msgid "WordPress.org plugin repository "
+msgstr "WordPress.org plugin repository"
+
+#: wp-live-chat-support/includes/welcome_page.php:19
+#: loco:5a194feac430fe51518b4705
+msgid "Search Term"
+msgstr "Zoekterm"
+
+#: wp-live-chat-support/includes/welcome_page.php:23
+#: loco:5a194feac430fe51518b4706
+msgid "Google or other search Engine"
+msgstr "Google of een andere zoekmachine"
+
+#: wp-live-chat-support/includes/welcome_page.php:29
+#: loco:5a194feac430fe51518b4707
+msgid "Friend recommendation"
+msgstr "Vriend aanbeveling"
+
+#: wp-live-chat-support/includes/welcome_page.php:35
+#: loco:5a194feac430fe51518b4708
+msgid "Other"
+msgstr "Andere"
+
+#: wp-live-chat-support/includes/welcome_page.php:39
+#: loco:5a194feac430fe51518b4709
+msgid "Please Explain"
+msgstr "Licht toe aub"
+
+#: wp-live-chat-support/includes/welcome_page.php:48
+#: loco:5a194feac430fe51518b470a
+msgid "Submit"
+msgstr "Verstuur"
+
+#: wp-live-chat-support/includes/welcome_page.php:50
+#: loco:5a194feac430fe51518b470b
+msgid "Skip"
+msgstr "Overslaan"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:44
+#: loco:5a194feac430fe51518b470c
+msgid "Rest API"
+msgstr "Rest API"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:62
+#: loco:5a194feac430fe51518b470d
+msgid ""
+"To make use of the REST API, please ensure you are using a version of "
+"WordPress with the REST API included."
+msgstr ""
+"Als u gebruik wilt maken van de REST-API, moet u ervoor zorgen dat u een "
+"versie van WordPress gebruikt met de REST API inbegrepen."
+
+#: wp-live-chat-support/modules/api/wplc-api.php:64
+#: loco:5a194feac430fe51518b470e
+msgid ""
+"Alternatively, please install the official Rest API plugin from WordPress."
+msgstr "U kunt ook de officiële Rest API-plug-in van WordPress installeren."
+
+#: wp-live-chat-support/modules/api/wplc-api.php:71
+#: loco:5a194feac430fe51518b470f
+msgid "REST API"
+msgstr "REST API"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:75
+#: loco:5a194feac430fe51518b4710
+msgid "Option"
+msgstr "Optie"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:82
+#: loco:5a194feac430fe51518b4711
+msgid "Secret Token"
+msgstr "Geheime token"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:85
+#: loco:5a194feac430fe51518b4712
+msgid "No secret token found"
+msgstr "Geen geheim token gevonden"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:86
+#: loco:5a194feac430fe51518b4713
+msgid "Generate New"
+msgstr "Nieuw genereren"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:91
+#: loco:5a194feac430fe51518b4714
+msgid "Supported API Calls"
+msgstr "Ondersteunde API oproepen"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:95
+#: wp-live-chat-support/modules/api/wplc-api.php:103
+#: wp-live-chat-support/modules/api/wplc-api.php:111
+#: wp-live-chat-support/modules/api/wplc-api.php:119
+#: wp-live-chat-support/modules/api/wplc-api.php:127
+#: wp-live-chat-support/modules/api/wplc-api.php:136
+#: loco:5a194feac430fe51518b4715
+msgid "Try"
+msgstr "Probeer"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:144
+#: loco:5a194feac430fe51518b4716
+msgid "API Response Codes"
+msgstr "API Response Codes"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:288
+#: loco:5a194feac430fe51518b4717
+msgid "Rest Console "
+msgstr "Rest Console "
+
+#: wp-live-chat-support/modules/api/wplc-api.php:295
+#: loco:5a194feac430fe51518b4718
+msgid "Try it!"
+msgstr "Probeer het!"
+
+#: wp-live-chat-support/wp-live-chat-support.php:554
+#: wp-live-chat-support/wp-live-chat-support.php:1667
+#: wp-live-chat-support/wp-live-chat-support.php:2691
+#: wp-live-chat-support/wp-live-chat-support.php:4255
+#: loco:5a194feac430fe51518b4719
+msgid "Chat offline. Leave a message"
+msgstr "Chat offline. Laat een bericht achter"
+
+#: wp-live-chat-support/wp-live-chat-support.php:555
+#: wp-live-chat-support/wp-live-chat-support.php:1509
+#: wp-live-chat-support/wp-live-chat-support.php:2692
+#: wp-live-chat-support/wp-live-chat-support.php:4256
+#: loco:5a194feac430fe51518b471a
+msgid "Hello. Please input your details so that I may help you."
+msgstr "Hallo. Voer uw gegevens in zodat ik u kan helpen."
+
+#: wp-live-chat-support/wp-live-chat-support.php:556
+#: wp-live-chat-support/wp-live-chat-support.php:956
+#: wp-live-chat-support/wp-live-chat-support.php:1522
+#: wp-live-chat-support/wp-live-chat-support.php:2693
+#: wp-live-chat-support/wp-live-chat-support.php:4257
+#: loco:5a194feac430fe51518b471b
+msgid ""
+"We are currently offline. Please leave a message and we'll get back to you "
+"shortly."
+msgstr ""
+"We zijn momenteel offline. Laat een bericht achter en we nemen zo snel "
+"mogelijk contact met u op."
+
+#: wp-live-chat-support/wp-live-chat-support.php:557
+#: wp-live-chat-support/wp-live-chat-support.php:957
+#: wp-live-chat-support/wp-live-chat-support.php:2694
+#: wp-live-chat-support/wp-live-chat-support.php:4258
+#: loco:5a194feac430fe51518b471c
+msgid "Sending message..."
+msgstr "Bericht verzenden..."
+
+#: wp-live-chat-support/wp-live-chat-support.php:558
+#: wp-live-chat-support/wp-live-chat-support.php:958
+#: wp-live-chat-support/wp-live-chat-support.php:2695
+#: wp-live-chat-support/wp-live-chat-support.php:4259
+#: loco:5a194feac430fe51518b471d
+msgid "Thank you for your message. We will be in contact soon."
+msgstr "Bedankt voor je bericht. We nemen snel contact met u op."
+
+#: wp-live-chat-support/wp-live-chat-support.php:561
+#: wp-live-chat-support/wp-live-chat-support.php:2685
+#: wp-live-chat-support/wp-live-chat-support.php:4262
+#: loco:5a194feac430fe51518b471e
+msgid "Start live chat"
+msgstr "Start live chat"
+
+#: wp-live-chat-support/wp-live-chat-support.php:564
+#: wp-live-chat-support/wp-live-chat-support.php:2688
+#: wp-live-chat-support/wp-live-chat-support.php:4265
+#: loco:5a194feac430fe51518b471f
+msgid "Chat ended"
+msgstr "Chat beëindigd"
+
+#: wp-live-chat-support/wp-live-chat-support.php:565
+#: wp-live-chat-support/wp-live-chat-support.php:1559
+#: wp-live-chat-support/wp-live-chat-support.php:1584
+#: wp-live-chat-support/wp-live-chat-support.php:2689
+#: wp-live-chat-support/wp-live-chat-support.php:4266
+#: loco:5a194feac430fe51518b4720
+msgid "Connecting. Please be patient..."
+msgstr "Verbinden. Wees alstublieft geduldig..."
+
+#: wp-live-chat-support/wp-live-chat-support.php:602
+#: wp-live-chat-support/wp-live-chat-support.php:2663
+#: loco:5a194feac430fe51518b4721
+msgid "Please click \\'Start Chat\\' to initiate a chat with an agent"
+msgstr "Klik op 'Chat starten' om een ​​chat met een medewerker te starten"
+
+#: wp-live-chat-support/wp-live-chat-support.php:724
+#: loco:5a194feac430fe51518b4722
+msgid "Live Chat"
+msgstr "Live Chat"
+
+#: wp-live-chat-support/wp-live-chat-support.php:725
+#: loco:5a194feac430fe51518b4723
+msgid "Settings"
+msgstr "Instellingen"
+
+#: wp-live-chat-support/wp-live-chat-support.php:743
+#: loco:5a194feac430fe51518b4724
+msgid "History"
+msgstr "Geschiedenis"
+
+#: wp-live-chat-support/wp-live-chat-support.php:744
+#: loco:5a194feac430fe51518b4725
+msgid "Missed Chats"
+msgstr "Gemiste oproepen"
+
+#: wp-live-chat-support/wp-live-chat-support.php:767
+#: wp-live-chat-support/wp-live-chat-support.php:3656
+#: loco:5a194feac430fe51518b4726
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: wp-live-chat-support/wp-live-chat-support.php:768
+#: loco:5a194feac430fe51518b4727
+msgid "Extensions"
+msgstr "Extensies"
+
+#: wp-live-chat-support/wp-live-chat-support.php:778
+#: loco:5a194feac430fe51518b4728
+msgid "API Keys"
+msgstr "API sleutels"
+
+#: wp-live-chat-support/wp-live-chat-support.php:784
+#: loco:5a194feac430fe51518b4729
+msgid "Premium Extension API Keys"
+msgstr "Premium extensie API sleutels"
+
+#: wp-live-chat-support/wp-live-chat-support.php:785
+#: loco:5a194feac430fe51518b472a
+msgid ""
+"To find and manage your premium API keys, please visit your <a "
+"target='_BLANK' href='https://wp-livechat.com/my-account/'>my account</a> "
+"page."
+msgstr ""
+"Ga naar uw wp-livechat.com account op uw accountpagina om uw premium API-"
+"sleutels te vinden en te beheren."
+
+#: wp-live-chat-support/wp-live-chat-support.php:1264
+#: wp-live-chat-support/wp-live-chat-support.php:1274
+#: loco:5a194feac430fe51518b472b
+msgid "close"
+msgstr "Sluiten"
+
+#: wp-live-chat-support/wp-live-chat-support.php:1400
+#: wp-live-chat-support/wp-live-chat-support.php:1419
+#: loco:5a194feac430fe51518b472c
+msgid "Start chat"
+msgstr "Start chat"
+
+#: wp-live-chat-support/wp-live-chat-support.php:1493
+#: loco:5a194feac430fe51518b472d
+msgid "Send message"
+msgstr "Bericht verzenden"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2078
+#: loco:5a194feac430fe51518b472e
+msgid "New chat received"
+msgstr "Nieuwe chat ontvangen"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2080
+#: loco:5a194feac430fe51518b472f
+msgid ""
+"A new chat has been received. Please go the 'Live Chat' page to accept the "
+"chat"
+msgstr ""
+"Er is een nieuwe chat ontvangen. Ga alstublieft naar de 'Live Chat'-pagina "
+"om de chat te accepteren"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2143
+#: loco:5a194feac430fe51518b4730
+msgid ""
+"You are using an outdated version of <strong>WP Live Chat Support Pro</"
+"strong>. Please"
+msgstr ""
+"U gebruikt een verouderde versie van WP Live Chat Support Pro. alsjeblieft"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2143
+#: loco:5a194feac430fe51518b4731
+msgid "update to at least version"
+msgstr "update minimaal naar versie"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2143
+#: loco:5a194feac430fe51518b4732
+msgid "to ensure all functionality is in working order"
+msgstr "om ervoor te zorgen dat alle functionaliteit werken"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2144
+#: loco:5a194feac430fe51518b4733
+msgid ""
+"You're live chat box on your website has been temporarily disabled until the "
+"Pro plugin has been updated. This is to ensure a smooth and hassle-free user "
+"experience for both yourself and your visitors."
+msgstr ""
+"De live chatbox op uw website is tijdelijk uitgeschakeld totdat de Pro-plug-"
+"in is bijgewerkt. Dit is om te zorgen voor een soepele en probleemloze "
+"gebruikerservaring voor zowel uzelf als uw bezoekers."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2145
+#: wp-live-chat-support/wp-live-chat-support.php:2165
+#: loco:5a194feac430fe51518b4734
+msgid ""
+"You can update your plugin <a href='./update-core.php'>here</a>, <a href='./"
+"plugins.php'>here</a> or <a href='https://wp-livechat.com/get-updated-"
+"version/' target='_BLANK'>here</a>."
+msgstr ""
+"U kunt uw plug-in <a href='./update-core.php'>hier</a>, <a href='./plugins."
+"php'>hier</a> of <a href = 'https: bijwerken //wp-livechat.com/get-updated-"
+"version/ 'target =' _ BLANK '>hier</a>."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2146
+#: wp-live-chat-support/wp-live-chat-support.php:2166
+#: loco:5a194feac430fe51518b4735
+msgid "If you are having difficulty updating the plugin, please contact"
+msgstr ""
+"Als u problemen ondervindt bij het bijwerken van de plug-in, neemt u contact "
+"op met"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2158
+#: loco:5a194feac430fe51518b4736
+msgid ""
+"You are using an outdated version of <strong>WP Live Chat Support Pro</"
+"strong>."
+msgstr ""
+"U gebruikt een verouderde versie van <strong>WP Live Chat Support Pro</ "
+"strong>."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2160
+#: loco:5a194feac430fe51518b4737
+msgid "Please update to the latest version of WP Live Chat Support Pro"
+msgstr "Werk bij naar de nieuwste versie van WP Live Chat Support Pro"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2161
+#: loco:5a194feac430fe51518b4738
+msgid "Version 5.0.1"
+msgstr "Versie 5.0.1"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2162
+#: loco:5a194feac430fe51518b4739
+msgid "to ensure everything is working correctly."
+msgstr "om ervoor te zorgen dat alles correct werkt."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2194
+#: loco:5a194feac430fe51518b473a
+msgid "Congratulations"
+msgstr "Proficiat"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2195
+#: loco:5a194feac430fe51518b473b
+msgid "You are now accepting live chat requests on your site."
+msgstr "U accepteert nu live chat verzoeken op uw site."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2196
+#: loco:5a194feac430fe51518b473c
+msgid "The live chat box has automatically been enabled on your website."
+msgstr "De live chatbox is automatisch ingeschakeld op uw website."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2197
+#: loco:5a194feac430fe51518b473d
+msgid "Chat notifications will start appearing once visitors send a request."
+msgstr ""
+"Chatmeldingen verschijnen zodra bezoekers een verzoek hebben verzonden."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2198
+#: loco:5a194feac430fe51518b473e
+msgid ""
+"You may <a href='?page=wplivechat-menu-settings' target='_BLANK'>modify your "
+"chat box settings here."
+msgstr ""
+"Je kunt hier <a href='?page=wplivechat-menu-settings' target='BLANK'> je "
+"instellingen voor de chatbox aanpassen."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2199
+#: loco:5a194feac430fe51518b473f
+msgid "Experiencing issues?"
+msgstr "Ervaart u problemen?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2199
+#: loco:5a194feac430fe51518b4740
+msgid "Visit our troubleshooting section."
+msgstr "Ga naar ons gedeelte over het oplossen van problemen."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2201
+#: loco:5a194feac430fe51518b4741
+msgid "Hide"
+msgstr "Verberg"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2236
+#: wp-live-chat-support/wp-live-chat-support.php:3676
+#: wp-live-chat-support/wp-live-chat-support.php:3677
+#: loco:5a194feac430fe51518b4742
+msgid "With the Pro add-on of WP Live Chat Support, you can"
+msgstr "Met de Pro-add-on van WP Live Chat Support, kunt u"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2237
+#: wp-live-chat-support/wp-live-chat-support.php:3676
+#: loco:5a194feac430fe51518b4743
+msgid "see who's online and initiate chats"
+msgstr "kijken wie er online is en chats starten"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2238
+#: wp-live-chat-support/wp-live-chat-support.php:3676
+#: loco:5a194feac430fe51518b4744
+msgid "initiate chats"
+msgstr "chats starten"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2239
+#: wp-live-chat-support/wp-live-chat-support.php:3676
+#: loco:5a194feac430fe51518b4745
+msgid "with your online visitors with the click of a button."
+msgstr "met uw online bezoekers met één klik op de knop."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2240
+#: wp-live-chat-support/wp-live-chat-support.php:2242
+#: loco:5a194feac430fe51518b4746
+msgid "Buy the Pro add-on now."
+msgstr "Koop nu de Pro-add-on."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2296
+#: loco:5a194feac430fe51518b4747
+msgid ""
+"Please note: This window must be open in order to receive new chat "
+"notifications."
+msgstr ""
+"Let op: dit venster moet open zijn om nieuwe chat meldingen te ontvangen."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2307
+#: loco:5a194feac430fe51518b4748
+msgid "Visitors online"
+msgstr "Bezoekers online"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2319
+#: loco:5a194feac430fe51518b4749
+msgid "Visitor"
+msgstr "Bezoeker"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2320
+#: loco:5a194feac430fe51518b474a
+msgid "Time"
+msgstr "Tijd"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2322
+#: loco:5a194feac430fe51518b474b
+msgid "Device"
+msgstr "Toestel"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2323
+#: loco:5a194feac430fe51518b474c
+msgid "Data"
+msgstr "Data"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2361
+#: loco:5a194feac430fe51518b474d
+msgid "Chat Dashboard"
+msgstr "Chat Dashboard"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2364
+#: loco:5a194feac430fe51518b474e
+msgid "Oh no!"
+msgstr "Oh no!"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2367
+#: loco:5a194feac430fe51518b474f
+msgid ""
+"You do not have access to this page as <strong>you are not a chat agent</"
+"strong>."
+msgstr ""
+"Je hebt geen toegang tot deze pagina als <strong> je bent geen chat "
+"medewerker </ strong>."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2479
+#: loco:5a194feac430fe51518b4750
+msgid "Previous"
+msgstr "Vorige"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2481
+#: loco:5a194feac430fe51518b4751
+msgid "Active"
+msgstr "Actief"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2490
+#: loco:5a194feac430fe51518b4752
+msgid "Chat with"
+msgstr "Chat met"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2493
+#: loco:5a194feac430fe51518b4753
+msgid "End chat"
+msgstr "Einde chat"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2539
+#: wp-live-chat-support/wp-live-chat-support.php:3491
+#: loco:5a194feac430fe51518b4754
+msgid "Add-ons"
+msgstr "Add-ons"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2541
+#: loco:5a194feac430fe51518b4755
+msgid "Get more add-ons"
+msgstr "Krijg meer add-ons"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2559
+#: loco:5a194feac430fe51518b4756
+msgid "Add Quick Responses to your Live Chat"
+msgstr "Voeg snelle antwoorden toe aan je live chat"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2559
+#: loco:5a194feac430fe51518b4757
+msgid "Pro version only"
+msgstr "Enkel Pro versie"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2567
+#: loco:5a194feac430fe51518b4758
+msgid "type here..."
+msgstr "type hier..."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2645
+#: loco:5a194feac430fe51518b4759
+msgid "User has opened the chat window"
+msgstr "Gebruiker heeft het chatvenster geopend"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2646
+#: loco:5a194feac430fe51518b475a
+msgid "User has minimized the chat window"
+msgstr "Gebruiker heeft het chatvenster geminimaliseerd"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2647
+#: loco:5a194feac430fe51518b475b
+msgid "User has maximized the chat window"
+msgstr "Gebruiker heeft het chatvenster gemaximaliseerd"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2648
+#: loco:5a194feac430fe51518b475c
+msgid "The chat has been ended"
+msgstr "De chat is beëindigd"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3065
+#: loco:5a194feac430fe51518b475d
+msgid "Delete History"
+msgstr "Verwijder geschiedenis"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3082
+#: loco:5a194feac430fe51518b475e
+msgid "No chats available at the moment"
+msgstr "Geen chats beschikbaar op dit moment"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3093
+#: loco:5a194feac430fe51518b475f
+msgid "View Chat History"
+msgstr "Bekijk de chat geschiedenis"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3093
+#: loco:5a194feac430fe51518b4760
+msgid "Download Chat History"
+msgstr "Chat geschiedenis downloaden"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3115
+#: loco:5a194feac430fe51518b4761
+msgid "WP Live Chat History"
+msgstr "WP Live chat geschiedenis"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3135
+#: loco:5a194feac430fe51518b4762
+msgid "WP Live Chat Missed Chats"
+msgstr "WP Live Chat gemiste chats"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3150
+#: loco:5a194feac430fe51518b4763
+msgid ""
+"Please update to the latest version of WP Live Chat Support Pro to start "
+"recording any offline messages."
+msgstr ""
+"Update naar de nieuwste versie van WP Live Chat Support Pro om offline-"
+"berichten te registreren."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3153
+#: loco:5a194feac430fe51518b4764
+msgid "This option is only available in the "
+msgstr "Deze optie is alleen beschikbaar in de"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3165
+#: loco:5a194feac430fe51518b4765
+msgid "WP Live Chat Offline Messages"
+msgstr "WP Live Chat offline berichten"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3186
+#: loco:5a194feac430fe51518b4766
+msgid "Actions"
+msgstr "Acties"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3204
+#: loco:5a194feac430fe51518b4767
+msgid "Delete Message"
+msgstr "Verwijder bericht"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3298
+#: loco:5a194feac430fe51518b4768
+msgid "Please click 'Start Chat' to initiate a chat with an agent"
+msgstr "Klik op 'Chat starten' om een ​​chat met een agent te starten"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3394
+#: loco:5a194feac430fe51518b4769
+msgid "Your settings have been saved."
+msgstr "Je instellingen zijn opgeslagen."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3409
+#: loco:5a194feac430fe51518b476a
+msgid "Thank You for your feedback!"
+msgstr "Bedankt voor uw feedback!"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3413
+#: wp-live-chat-support/wp-live-chat-support.php:3426
+#: loco:5a194feac430fe51518b476b
+msgid "Thank you for your feedback. We will be in touch soon"
+msgstr "Bedankt voor je feedback. We nemen snel contact met je op"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3429
+#: loco:5a194feac430fe51518b476c
+msgid "There was a problem sending your feedback. Please log your feedback on "
+msgstr ""
+"Er is een probleem opgetreden bij het verzenden van uw feedback. Log "
+"alstublieft uw feedback in"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3463
+#: loco:5a194feac430fe51518b476d
+msgid ""
+"WPLC: set_time_limit() is not enabled on this server. You may experience "
+"issues while using WP Live Chat Support as a result of this. Please get in "
+"contact your host to get this function enabled."
+msgstr ""
+"WPLC: set_time_limit () is niet ingeschakeld op deze server. U kunt hierdoor "
+"problemen ondervinden tijdens het gebruik van WP Live Chat-ondersteuning. "
+"Neem alstublieft contact op met uw beheerder om deze functie ingeschakeld te "
+"krijgen."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3469
+#: loco:5a194feac430fe51518b476e
+msgid ""
+"WPLC: Safe mode is enabled on this server. You may experience issues while "
+"using WP Live Chat Support as a result of this. Please contact your host to "
+"get safe mode disabled."
+msgstr ""
+"WPLC: Veilige modus is ingeschakeld op deze server. U kunt hierdoor "
+"problemen ondervinden tijdens het gebruik van WP Live Chat-ondersteuning. "
+"Neem contact op met uw host om de veilige modus uitgeschakeld te krijgen."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3491
+#: loco:5a194feac430fe51518b476f
+msgid "Suggested Plugins"
+msgstr "Voorgestelde plug-ins"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3502
+#: wp-live-chat-support/wp-live-chat-support.php:3503
+#: wp-live-chat-support/wp-live-chat-support.php:3504
+#: wp-live-chat-support/wp-live-chat-support.php:3509
+#: loco:5a194feac430fe51518b4770
+msgid "Sola Support Tickets"
+msgstr "Sola Support Tickets"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3507
+#: loco:5a194feac430fe51518b4771
+msgid ""
+"The easiest to use Help Desk & Support Ticket plugin. Create a support help "
+"desk quickly and easily with Sola Support Tickets."
+msgstr ""
+"De eenvoudigst te gebruiken Help Desk & Support Ticket-plugin. Creëer snel "
+"en eenvoudig een support helpdesk met Sola Support Tickets."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3509
+#: wp-live-chat-support/wp-live-chat-support.php:3520
+#: loco:5a194feac430fe51518b4772
+msgid "Get this Plugin"
+msgstr "Download deze plug-in"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3513
+#: wp-live-chat-support/wp-live-chat-support.php:3514
+#: wp-live-chat-support/wp-live-chat-support.php:3515
+#: wp-live-chat-support/wp-live-chat-support.php:3520
+#: loco:5a194feac430fe51518b4773
+msgid "Nifty Newsletters"
+msgstr "Handige nieuwsbrieven"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3518
+#: loco:5a194feac430fe51518b4774
+msgid ""
+"Create and send newsletters, automatic post notifications and autoresponders "
+"that are modern and beautiful with Nifty Newsletters."
+msgstr ""
+"Creëer en verzend nieuwsbrieven, automatische bericht meldingen en "
+"autoresponders die modern en mooi zijn met handige nieuwsbrieven."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3552
+#: loco:5a194feac430fe51518b4775
+msgid "Price:"
+msgstr "Prijs:"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3554
+#: loco:5a194feac430fe51518b4776
+msgid "Free"
+msgstr "Gratis"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3555
+#: loco:5a194feac430fe51518b4777
+msgid "Paid"
+msgstr "Betalend"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3558
+#: loco:5a194feac430fe51518b4778
+msgid "For:"
+msgstr "Voor:"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3559
+#: loco:5a194feac430fe51518b4779
+msgid "Both"
+msgstr "Beide"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3560
+#: loco:5a194feac430fe51518b477a
+msgid "Free version"
+msgstr "Gratis versie"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3561
+#: loco:5a194feac430fe51518b477b
+msgid "Pro version"
+msgstr "Pro versie"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3597
+#: loco:5a194feac430fe51518b477c
+msgid "Already installed"
+msgstr "Al geïnstalleerd"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3624
+#: loco:5a194feac430fe51518b477d
+msgid "WP Live Chat Support"
+msgstr "WP Live Chat-ondersteuning"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3627
+#: loco:5a194feac430fe51518b477e
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3629
+#: loco:5a194feac430fe51518b477f
+msgid ""
+"Getting started? Read through some of these articles to help you along your "
+"way."
+msgstr ""
+"Aan de slag? Lees enkele van deze artikelen door om u op weg te helpen."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3630
+#: loco:5a194feac430fe51518b4780
+msgid "Documentation:"
+msgstr "Documentatie:"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3632
+#: loco:5a194feac430fe51518b4781
+msgid "Minimum System Requirements"
+msgstr "Minimale systeemvereisten"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3633
+#: loco:5a194feac430fe51518b4782
+msgid "Do I have to be logged into the dashboard to chat with visitors?"
+msgstr "Moet ik ingelogd zijn op het dashboard om met bezoekers te chatten?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3634
+#: loco:5a194feac430fe51518b4783
+msgid "What are Quick Responses?"
+msgstr "Wat zijn snelle reacties?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3635
+#: loco:5a194feac430fe51518b4784
+msgid "Can I use this plugin on my multi-site?"
+msgstr "Kan ik deze plugin gebruiken op mijn multi-site?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3636
+#: loco:5a194feac430fe51518b4785
+msgid "How do I disable APC Object Cache?"
+msgstr "Hoe schakel ik de APC-object cache uit?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3637
+#: loco:5a194feac430fe51518b4786
+msgid "Do you have a mobile app?"
+msgstr "Heeft u een mobiele app?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3638
+#: loco:5a194feac430fe51518b4787
+msgid "How do I check for JavaScript errors on my site?"
+msgstr "Hoe kan ik mijn site controleren op JavaScript-fouten?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3642
+#: loco:5a194feac430fe51518b4788
+msgid "Troubleshooting"
+msgstr "Probleemoplossing"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3644
+#: loco:5a194feac430fe51518b4789
+msgid ""
+"WP Live Chat Support  has a diverse and wide range of features which may, "
+"from time to time, run into conflicts with the thousands of themes and other "
+"plugins on the market."
+msgstr ""
+"WP Live Chat Support heeft een gevarieerd en breed scala aan functies die "
+"van tijd tot tijd in conflict kunnen komen met de duizenden thema's en "
+"andere plug-ins op de markt."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3645
+#: loco:5a194feac430fe51518b478a
+msgid "Common issues:"
+msgstr "Gebruikelijke problemen:"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3647
+#: loco:5a194feac430fe51518b478b
+msgid "The chat box doesnt show up"
+msgstr "Het chat vak verschijnt niet"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3648
+#: loco:5a194feac430fe51518b478c
+msgid "The chat window disappears when I logout or go offline"
+msgstr "Het chatvenster verdwijnt wanneer ik me afmeld of offline ga"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3649
+#: loco:5a194feac430fe51518b478d
+msgid "This chat has already been answered. Please close the chat window"
+msgstr "Deze chat is al beantwoord. Sluit het chatvenster"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3650
+#: loco:5a194feac430fe51518b478e
+msgid "Messages only show when I refresh the chat window"
+msgstr ""
+"Berichten worden alleen weergegeven wanneer ik het chatvenster vernieuw"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3651
+#: loco:5a194feac430fe51518b478f
+msgid "I'm not getting any notifications of a new chat"
+msgstr "Ik krijg geen meldingen van een nieuwe chat"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3652
+#: loco:5a194feac430fe51518b4790
+msgid "The chat window never goes offline"
+msgstr "Het chatvenster gaat nooit offline"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3658
+#: loco:5a194feac430fe51518b4791
+msgid "Still need help? Use one of these links below."
+msgstr "Nog steeds hulp nodig? Gebruik een van de onderstaande links."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3660
+#: loco:5a194feac430fe51518b4792
+msgid "Support desk"
+msgstr "Helpdesk"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3661
+#: loco:5a194feac430fe51518b4793
+msgid "Contact us"
+msgstr "Contacteer ons"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3676
+#: loco:5a194feac430fe51518b4794
+msgid "Initiate Chats"
+msgstr "Chat starten"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3676
+#: wp-live-chat-support/wp-live-chat-support.php:3677
+#: loco:5a194feac430fe51518b4795
+msgid "Buy the Pro add-on now (once off payment)."
+msgstr "Koop nu de Pro-add-on (eenmalig zonder betaling)."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3677
+#: loco:5a194feac430fe51518b4796
+msgid "Multiple Chats"
+msgstr "Meerdere chats"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3677
+#: loco:5a194feac430fe51518b4797
+msgid "accept and handle multiple chats."
+msgstr "accepteer en behandel meerdere chats."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3678
+#: loco:5a194feac430fe51518b4798
+msgid "Add unlimited agents"
+msgstr "Voeg onbeperkt aantal medewerkers toe"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3678
+#: loco:5a194feac430fe51518b4799
+msgid " with the Pro add-on of WP Live Chat Support"
+msgstr "met de Pro-add-on van WP Live Chat-ondersteuning"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3678
+#: loco:5a194feac430fe51518b479a
+msgid "(once off payment)."
+msgstr "(eenmalige betaling)."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3692
+#: loco:5a194feac430fe51518b479b
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%1$s\" target=\"_blank\">WP Live Chat Support</"
+"a>! Please <a href=\"%2$s\" target=\"_blank\">rate us</a> on <a href=\"%2$s"
+"\" target=\"_blank\">WordPress.org</a>"
+msgstr ""
+"Bedankt voor het gebruik van <a href=\"%1$s\" target=\"_blank\">WP Live Chat-"
+"ondersteuning</a>! <a href=\"%2$s\" target=\"_blank\">Beoordeel ons</a> op "
+"<a href=\"%2$s\" target=\"_blank\">WordPress.org</a>"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3697
+#: loco:5a194feac430fe51518b479c
+msgid "WP Live Chat Support is a product of"
+msgstr "WP Live Chat-ondersteuning is een product van"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3801
+#: loco:5a194feac430fe51518b479d
+msgid "Add as many agents as you need with the "
+msgstr "Voeg zoveel medewerkers toe als je nodig hebt met de"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3801
+#: loco:5a194feac430fe51518b479e
+msgid "Pro version."
+msgstr "Pro versie."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3805
+#: loco:5a194feac430fe51518b479f
+#, php-format
+msgid "Change the default chat agent from <strong>%1$s</strong> to "
+msgstr "Wijzig de standaard chat-agent van <strong>%1$s</strong> naar"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3904
+#: loco:5a194feac430fe51518b47a0
+msgid "Verify"
+msgstr "Verifieer"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3907
+#: loco:5a194feac430fe51518b47a1
+msgid "Status: "
+msgstr "Status:"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3910
+#: loco:5a194feac430fe51518b47a2
+msgid "Valid"
+msgstr "Geldig"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3911
+#: wp-live-chat-support/wp-live-chat-support.php:3915
+#: loco:5a194feac430fe51518b47a3
+msgid "Manage this extension"
+msgstr "Beheer deze extensie"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3914
+#: loco:5a194feac430fe51518b47a4
+msgid "Invalid"
+msgstr "Ongeldig"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3920
+#: loco:5a194feac430fe51518b47a5
+msgid "Linked Domains"
+msgstr "Gelinkte domeinen"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3954
+#: wp-live-chat-support/wp-live-chat-support.php:4022
+#: loco:5a194feac430fe51518b47a6
+msgid ""
+"Get unlimited agents, initiate chats, advanced chat box control, encryption "
+"and more with the Pro add-on."
+msgstr ""
+"Krijg onbeperkt aantal medewerkers, start chats, geavanceerd chatbox beheer, "
+"codering en meer met de Pro-add-on."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3956
+#: wp-live-chat-support/wp-live-chat-support.php:3978
+#: wp-live-chat-support/wp-live-chat-support.php:3999
+#: wp-live-chat-support/wp-live-chat-support.php:4024
+#: loco:5a194feac430fe51518b47a7
+msgid "Get this extension"
+msgstr "Download deze extensie"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3967
+#: loco:5a194feac430fe51518b47a8
+msgid "Mobile & Desktop App"
+msgstr "Mobiele & Desktop-app"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3976
+#: loco:5a194feac430fe51518b47a9
+msgid ""
+"Answer chats directly from your mobile phone or desktop with our mobile app "
+"and desktop client"
+msgstr ""
+"Beantwoord chats rechtstreeks vanaf uw mobiele telefoon of desktop met onze "
+"mobiele app en desktopclient"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3997
+#: loco:5a194feac430fe51518b47aa
+msgid ""
+"Reduce the resources required by your server - use our cloud server to host "
+"your chats."
+msgstr ""
+"Beperk de resources die uw server nodig heeft - gebruik onze cloud server om "
+"uw chats te hosten."
+
+#: wp-live-chat-support/wp-live-chat-support.php:4045
+#: wp-live-chat-support/wp-live-chat-support.php:4066
+#: loco:5a194feac430fe51518b47ab
+msgid "Relevant Extensions"
+msgstr "Relevante extensies"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4085
+#: loco:5a194feac430fe51518b47ac
+msgid "Powered By WP Live Chat Support"
+msgstr "Mede mogelijk gemaakt door WP Live Chat"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4231
+#: loco:5a194feac430fe51518b47ad
+msgid ""
+"Your API Key is Invalid. You are not eligible for future updates. Please "
+"enter your API key <a href=\"admin.php?page=wplivechat-menu-api-keys-page"
+"\">here</a>."
+msgstr ""
+"Uw API-sleutel is ongeldig. U komt niet in aanmerking voor toekomstige "
+"updates. Voer uw API-code <a href='admin.php?page=wplivechat-menu-api-keys-"
+"page'> hier </a> in."
+
+#: wp-live-chat-support/wp-live-chat-support.php:4317
+#: loco:5a194feac430fe51518b47ae
+msgid "Advanced settings"
+msgstr "Geavanceerde instellingen"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4326
+#: loco:5a194feac430fe51518b47af
+msgid "Only change these settings if you are experiencing performance issues."
+msgstr ""
+"Wijzig deze instellingen alleen als u problemen met de prestaties ondervindt."
+
+#: wp-live-chat-support/wp-live-chat-support.php:4336
+#: loco:5a194feac430fe51518b47b0
+msgid "What type of environment are you on?"
+msgstr "In welk soort IT-omgeving bevindt u zich?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4340
+#: loco:5a194feac430fe51518b47b1
+msgid "Shared hosting - low level plan"
+msgstr "Gedeelde hosting - plan op laag niveau"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4341
+#: loco:5a194feac430fe51518b47b2
+msgid "Shared hosting - normal plan"
+msgstr "Gedeelde hosting - normaal plan"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4342
+#: loco:5a194feac430fe51518b47b3
+msgid "VPS"
+msgstr "VPS"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4343
+#: loco:5a194feac430fe51518b47b4
+msgid "Dedicated server"
+msgstr "Dedicated server"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4349
+#: loco:5a194feac430fe51518b47b5
+msgid "Long poll setup"
+msgstr "Lange poll-opstelling"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4349
+#: loco:5a194feac430fe51518b47b6
+msgid ""
+"Only change these if you are an experienced developer or if you have "
+"received these figures from the Code Cabin Support team."
+msgstr ""
+"Wijzig deze alleen als u een ervaren ontwikkelaar bent of als u deze cijfers "
+"hebt ontvangen van het Code Cabin Support-team."
+
+#: wp-live-chat-support/wp-live-chat-support.php:4357
+#: loco:5a194feac430fe51518b47b7
+msgid "Iterations"
+msgstr "herhalingen"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4361
+#: loco:5a194feac430fe51518b47b8
+msgid "Sleep between iterations"
+msgstr "Slaap tussen herhalingen"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4364
+#: loco:5a194feac430fe51518b47b9
+msgid "microseconds"
+msgstr "microseconden"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4387
+#: loco:5a194feac430fe51518b47ba
+msgid "View comprehensive reports regarding your chat and agent activity."
+msgstr ""
+"Bekijk uitgebreide rapporten met betrekking tot uw chat- en medewerker "
+"activiteit."
+
+#: wp-live-chat-support/wp-live-chat-support.php:4390
+#: loco:5a194feac430fe51518b47bb
+msgid "Reports"
+msgstr "rapporten"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4392
+#: loco:5a194feac430fe51518b47bc
+msgid "Chat statistics"
+msgstr "Chat statistieken"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4393
+#: loco:5a194feac430fe51518b47bd
+msgid "Popular pages"
+msgstr "Populaire pagina's"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4394
+#: loco:5a194feac430fe51518b47be
+msgid ""
+"ROI reporting and tracking (identify which agents produce the most sales)"
+msgstr ""
+"ROI-rapportering en -tracering (identificeer welke medewerkers de meeste "
+"verkopen genereren)"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4395
+#: loco:5a194feac430fe51518b47bf
+msgid ""
+"User experience ratings (identify which agents produce the happiest "
+"customers)"
+msgstr ""
+"Beoordelingen van gebruikerservaringen (identificeer welke medewerkers de "
+"gelukkigste klanten produceren)"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4405
+#: wp-live-chat-support/wp-live-chat-support.php:4467
+#: loco:5a194feac430fe51518b47c0
+msgid "Get all this and more in the "
+msgstr "Krijg dit alles en meer in de"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4405
+#: wp-live-chat-support/wp-live-chat-support.php:4467
+#: loco:5a194feac430fe51518b47c1
+msgid "Pro add-on"
+msgstr "Pro-add-on"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4406
+#: wp-live-chat-support/wp-live-chat-support.php:4468
+#: loco:5a194feac430fe51518b47c2
+msgid "Upgrade Now"
+msgstr "Upgrade nu"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4449
+#: loco:5a194feac430fe51518b47c3
+msgid ""
+"Create custom data triggers when users view a certain page, spend a certain "
+"amount of time on a page, scroll past a certain point or when their mouse "
+"leaves the window."
+msgstr ""
+"Aangepaste gegevens triggers maken wanneer gebruikers een bepaalde pagina "
+"bekijken, een bepaalde tijd op een pagina doorbrengen, langs een bepaald "
+"punt scrollen of wanneer de muis het venster verlaat."
+
+#: wp-live-chat-support/wp-live-chat-support.php:4452
+#: loco:5a194feac430fe51518b47c4
+msgid "Trigger Types"
+msgstr "Trigger Types"

@@ -1,0 +1,117 @@
+
+.mb-board .wrapper,.mb-board .mb-carousel {
+    margin: 0 auto !important;
+}
+.mb-board .jcarousel-wrapper {
+    position: relative;    
+	overflow: hidden;
+	border: 1px solid #F5F5F5;
+}
+
+/** Carousel **/
+
+.mb-board .jcarousel {
+    position: relative;
+    width: 100%;
+	max-width:1000px;
+	overflow: hidden;	
+	margin:0 auto;	
+}
+.mb-mobile .mb-board .jcarousel {
+	max-width:745px;
+}
+.mb-board .jcarousel ul {
+    width: 20000em;
+    position: relative;
+    list-style: none !important;
+    margin: 0;
+    padding: 0;
+}
+
+.mb-board .jcarousel li {
+    float: left;    	
+	text-align:center;
+	margin:0 !important;
+	padding:0 !important;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.mb-board .jcarousel img {
+    display: block;
+    max-width: 100%;
+	margin: 0 auto  !important;
+}
+
+/** Carousel Controls **/
+
+.mb-board .jcarousel-control-prev,
+.mb-board .jcarousel-control-next {
+    position: absolute;
+    top: 50%;
+    margin-top: -15px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    background: #4E443C;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 0 1px #000;
+    font: 24px/27px Arial, sans-serif;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    -webkit-box-shadow: 0 0 4px #F0EFE7;
+    -moz-box-shadow: 0 0 4px #F0EFE7;
+    box-shadow: 0 0 4px #F0EFE7;
+}
+
+.mb-board .jcarousel-control-prev {
+    left: 15px;
+}
+
+.mb-board .jcarousel-control-next {
+    right: 15px;
+}
+
+/** Carousel Pagination **/
+
+.mb-board .jcarousel-pagination {
+    position: absolute;
+    bottom: 3px;
+    left: 53%;
+    -webkit-transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+    margin: 0;
+}
+
+.mb-board .jcarousel-pagination a {
+    text-decoration: none;
+    display: inline-block;
+
+    font-size: 11px;
+    height: 8px;
+    width: 8px;
+    line-height: 8px;
+
+    background: #DDD !important;
+    color: #4E443C;
+    border-radius: 10px;
+    text-indent: -9999px;
+    margin-right: 7px;
+
+    -webkit-box-shadow: 0 0 2px #4E443C;
+    -moz-box-shadow: 0 0 2px #4E443C;
+    box-shadow: 0 0 2px #4E443C;
+}
+
+.mb-board .jcarousel-pagination a.active {
+    background: #ff6633 !important;
+    color: #fff;
+
+    -webkit-box-shadow: 0 0 2px #ff6633;
+    -moz-box-shadow: 0 0 2px #ff6633;
+    box-shadow: 0 0 2px #ff6633;
+}

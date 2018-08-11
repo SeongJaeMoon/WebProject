@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 14:31+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: learnpress-prerequisites-courses.php:52
+#, php-format
+msgid ""
+"<strong>%s</strong> addon version %s requires %s version %s or higher is "
+"<strong>installed</strong> and <strong>activated</strong>."
+msgstr ""
+
+#: learnpress-prerequisites-courses.php:53
+msgid "LearnPress Prerequisites Courses"
+msgstr ""
+
+#: learnpress-prerequisites-courses.php:55
+msgid "LearnPress"
+msgstr ""
+
+#: inc/load.php:82
+msgid "Allow Purchase"
+msgstr ""
+
+#: inc/load.php:85
+msgid "Allow purchase course without finish prerequisites."
+msgstr ""
+
+#: inc/load.php:89
+msgid "Prerequisites Courses"
+msgstr ""
+
+#: inc/load.php:94
+msgid "Courses you have to finish before you can enroll to this course."
+msgstr ""
+
+#: inc/load.php:95
+msgid "Select courses"
+msgstr ""
+
+#: inc/load.php:139
+msgid "There is no course to select."
+msgstr ""
+
+#: inc/load.php:279
+msgid "NOTE: You have to pass these courses before you can enroll this course."
+msgstr ""

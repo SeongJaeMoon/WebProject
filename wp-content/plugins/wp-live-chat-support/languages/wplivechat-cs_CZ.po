@@ -1,0 +1,3372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Live Chat Support v4.1.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-18 14:38+0200\n"
+"PO-Revision-Date: 2016-10-18 14:38+0200\n"
+"Last-Translator: admin <info@iLoveFoto.cz>\n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n"
+"+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: wp-live-chat-support\n"
+"X-Poedit-SearchPath-1: wp-live-chat-support-cloud-server\n"
+"X-Poedit-SearchPath-2: wp-live-chat-support-mobile-and-desktop-app\n"
+"X-Poedit-SearchPath-3: wp-live-chat-support-pro\n"
+
+#: wp-live-chat-support-cloud-server/includes/update_control.php:43
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:59
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:371
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:393
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:98
+#: wp-live-chat-support/wp-live-chat-support.php:3989
+msgid "Cloud Server"
+msgstr ""
+
+#: wp-live-chat-support-cloud-server/includes/update_control.php:118
+#: wp-live-chat-support/includes/update_control.class.php:122
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: wp-live-chat-support-cloud-server/includes/update_control.php:123
+#: wp-live-chat-support/includes/update_control.class.php:127
+msgid "An unknown error occurred"
+msgstr ""
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:73
+msgid "Chat functionality has been paused."
+msgstr ""
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:74
+msgid ""
+"Please enter your verified API key in the <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API Keys page</a> to activate the cloud "
+"based functionality."
+msgstr ""
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:90
+msgid "Are you sure you would like to delete chat history?"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:92
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:108
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:135
+#: wp-live-chat-support/functions.php:1609
+#: wp-live-chat-support/includes/settings_page.php:97
+#: wp-live-chat-support/wp-live-chat-support.php:3049
+msgid "Yes"
+msgstr "Ano"
+
+# @ wplivechat
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:93
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:109
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:138
+#: wp-live-chat-support/functions.php:1609
+#: wp-live-chat-support/includes/settings_page.php:98
+#: wp-live-chat-support/wp-live-chat-support.php:3049
+msgid "No"
+msgstr "Ne"
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:106
+msgid "Are you sure you would like to delete all missed chats?"
+msgstr ""
+
+#: wp-live-chat-support-cloud-server/wp-live-chat-support-cloud-server.php:374
+msgid ""
+"You are currently using our <strong>cloud server</strong> to handle your "
+"chat requests and live chat sessions.<br /><br />To disable this, please "
+"deactivate the WP Live Chat Support - Cloud Server plugin."
+msgstr ""
+
+#: wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:47
+msgid "Mobile and Desktop App"
+msgstr ""
+
+#: wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:99
+msgid "Mobile and Desktop App Settings"
+msgstr ""
+
+#: wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:102
+msgid "Enable mobile and desktop app"
+msgstr ""
+
+#: wp-live-chat-support-mobile-and-desktop-app/wp-live-chat-support-mobile-and-desktop-app.php:124
+msgid "App"
+msgstr ""
+
+#: wp-live-chat-support-pro/ajax-pro.php:269
+msgid "Guest"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/ajax-pro.php:341
+#: wp-live-chat-support/ajax_new.php:286
+msgid "Admin has closed and ended the chat"
+msgstr "Administrátor uzavřel a ukončil chat"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/ajax-pro.php:376
+#: wp-live-chat-support/ajax_new.php:310
+msgid "There is No Answer. Please Try Again Later"
+msgstr "Zatím žádná odpověď. Prosím, zkuste to později."
+
+#: wp-live-chat-support-pro/functions-pro.php:54
+#: wp-live-chat-support-pro/functions-pro.php:173
+#: wp-live-chat-support-pro/functions-pro.php:325
+#: wp-live-chat-support/functions.php:294
+#: wp-live-chat-support/functions.php:486
+#: wp-live-chat-support/modules/api/wplc-api-functions.php:458
+#: wp-live-chat-support/wp-live-chat-support.php:2486
+msgid "IP Address not recorded"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:56
+#: wp-live-chat-support-pro/functions-pro.php:175
+#: wp-live-chat-support-pro/functions-pro.php:327
+#: wp-live-chat-support/functions.php:296
+#: wp-live-chat-support/functions.php:488
+#: wp-live-chat-support/wp-live-chat-support.php:2488
+msgid "Whois for"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/functions-pro.php:61
+#: wp-live-chat-support-pro/functions-pro.php:333
+#: wp-live-chat-support/functions.php:301
+#: wp-live-chat-support/functions.php:443
+#: wp-live-chat-support/functions.php:1359
+msgid "Accept Chat"
+msgstr "Přijmout chat"
+
+#: wp-live-chat-support-pro/functions-pro.php:63
+#: wp-live-chat-support-pro/functions-pro.php:335
+#: wp-live-chat-support/functions.php:303
+msgid "Incoming Chat"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:63
+#: wp-live-chat-support-pro/functions-pro.php:335
+#: wp-live-chat-support/functions.php:303
+msgid "You have an incoming chat."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/functions-pro.php:67
+#: wp-live-chat-support/functions.php:448
+#, fuzzy
+msgid "Open Chat"
+msgstr "Otevřít chat-ovací okno"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/functions-pro.php:69
+#: wp-live-chat-support-pro/functions-pro.php:347
+#: wp-live-chat-support/functions.php:309
+#, fuzzy
+msgid "Chat Active"
+msgstr "Aktivní"
+
+#: wp-live-chat-support-pro/functions-pro.php:69
+#: wp-live-chat-support-pro/functions-pro.php:347
+#: wp-live-chat-support/functions.php:309
+msgid "This chat is active"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/functions-pro.php:74
+#: wp-live-chat-support-pro/functions-pro.php:160
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2349
+#: wp-live-chat-support/wp-live-chat-support.php:1691
+#, fuzzy
+msgid "Initiate Chat"
+msgstr "Začít diskusi"
+
+#: wp-live-chat-support-pro/functions-pro.php:76
+#: wp-live-chat-support-pro/functions-pro.php:162
+msgid "You must be a chat agent to initiate chats"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:99
+#: wp-live-chat-support/functions.php:511
+#: wp-live-chat-support/modules/api/wplc-api-functions.php:474
+msgid "New"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:101
+#: wp-live-chat-support/functions.php:513
+#: wp-live-chat-support/modules/api/wplc-api-functions.php:476
+msgid "Returning"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:143
+msgid "Visitors on site"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:207
+#: wp-live-chat-support-pro/functions-pro.php:377
+#: wp-live-chat-support/functions.php:332
+#: wp-live-chat-support/wp-live-chat-support.php:2523
+msgid "Site Info"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/functions-pro.php:209
+#: wp-live-chat-support-pro/functions-pro.php:379
+#: wp-live-chat-support/functions.php:334
+#: wp-live-chat-support/wp-live-chat-support.php:2525
+#, fuzzy
+msgid "Chat initiated on:"
+msgstr "Upozornění na chat"
+
+#: wp-live-chat-support-pro/functions-pro.php:213
+#: wp-live-chat-support-pro/functions-pro.php:383
+#: wp-live-chat-support/functions.php:338
+#: wp-live-chat-support/wp-live-chat-support.php:2529
+msgid "Advanced Info"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:215
+#: wp-live-chat-support-pro/functions-pro.php:385
+#: wp-live-chat-support/functions.php:340
+#: wp-live-chat-support/wp-live-chat-support.php:2531
+msgid "Browser:"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/functions-pro.php:216
+#: wp-live-chat-support-pro/functions-pro.php:386
+#: wp-live-chat-support/functions.php:341
+#: wp-live-chat-support/wp-live-chat-support.php:2532
+#, fuzzy
+msgid "IP Address:"
+msgstr "Emailová adresa"
+
+#: wp-live-chat-support-pro/functions-pro.php:259
+msgid "No visitors on-line at the moment"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/functions-pro.php:302
+#: wp-live-chat-support/functions.php:277
+msgid "No chat sessions available at the moment"
+msgstr "V tuto chvíli neprobíhá žádná diskuse"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/functions-pro.php:304
+#: wp-live-chat-support/functions.php:279
+#, fuzzy
+msgid "Active Chats"
+msgstr "Live Chat"
+
+#: wp-live-chat-support-pro/functions-pro.php:339
+msgid "You must be a chat agent to answer chats"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/functions-pro.php:345
+#: wp-live-chat-support/functions.php:307
+msgid "Open Chat Window"
+msgstr "Otevřít chat-ovací okno"
+
+#: wp-live-chat-support-pro/functions-pro.php:349
+msgid "Chat has been answered by another agent"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:350
+msgid "Chat answered by another agent"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:409
+#: wp-live-chat-support/functions.php:1205
+msgid "WP Live Chat Support - Offline Message from "
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/functions-pro.php:410
+#: wp-live-chat-support-pro/functions-pro.php:969
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:441
+#: wp-live-chat-support-pro/includes/wplc_roi.php:128
+#: wp-live-chat-support/functions.php:1206
+#: wp-live-chat-support/functions.php:1620
+#: wp-live-chat-support/includes/deprecated.php:192
+#: wp-live-chat-support/includes/deprecated.php:391
+#: wp-live-chat-support/includes/settings_page.php:256
+#: wp-live-chat-support/wp-live-chat-support.php:1372
+#: wp-live-chat-support/wp-live-chat-support.php:1530
+#: wp-live-chat-support/wp-live-chat-support.php:3073
+#: wp-live-chat-support/wp-live-chat-support.php:3184
+msgid "Name"
+msgstr "Jméno"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/functions-pro.php:410
+#: wp-live-chat-support-pro/functions-pro.php:970
+#: wp-live-chat-support/functions.php:1207
+#: wp-live-chat-support/functions.php:1621
+#: wp-live-chat-support/includes/deprecated.php:193
+#: wp-live-chat-support/includes/deprecated.php:392
+#: wp-live-chat-support/wp-live-chat-support.php:1373
+#: wp-live-chat-support/wp-live-chat-support.php:1531
+#: wp-live-chat-support/wp-live-chat-support.php:3074
+#: wp-live-chat-support/wp-live-chat-support.php:3185
+msgid "Email"
+msgstr "Email"
+
+#: wp-live-chat-support-pro/functions-pro.php:410
+#: wp-live-chat-support-pro/functions-pro.php:971
+#: wp-live-chat-support-pro/functions-pro.php:1546
+#: wp-live-chat-support/functions.php:1208
+#: wp-live-chat-support/wp-live-chat-support.php:1532
+#: wp-live-chat-support/wp-live-chat-support.php:3186
+#: wp-live-chat-support/wp-live-chat-support.php:4128
+#: wp-live-chat-support/wp-live-chat-support.php:4178
+msgid "Message"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:410
+#: wp-live-chat-support/functions.php:1209
+msgid "Via WP Live Chat Support"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:480
+msgid "Alert: Someone wants to chat with you on "
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:481
+msgid "Someone wants to chat with you on your website"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:481
+msgid "Log in"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:748
+#: wp-live-chat-support-pro/functions-pro.php:764
+#: wp-live-chat-support-pro/functions-pro.php:779
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2725
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2741
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2756
+msgid "Chat Agent"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:753
+#: wp-live-chat-support-pro/functions-pro.php:769
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2730
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2746
+msgid "Make this user a chat agent"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:783
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2760
+msgid "Your user role does not allow you to make yourself a chat agent."
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:784
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2761
+msgid "Please contact the administrator of this website to change this."
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:869
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3145
+msgid "Chat Agent Online"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:871
+#: wp-live-chat-support-pro/functions-pro.php:876
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3147
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3152
+msgid "Chat Agents Online"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:968
+#: wp-live-chat-support/functions.php:1619
+#: wp-live-chat-support/wp-live-chat-support.php:3072
+#: wp-live-chat-support/wp-live-chat-support.php:3183
+msgid "Date"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:985
+#: wp-live-chat-support/wp-live-chat-support.php:3197
+msgid "You have not received any offline messages."
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:1410
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:788
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3500
+#: wp-live-chat-support/wp-live-chat-support.php:3771
+msgid "Administrator"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:1411
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:794
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3506
+#: wp-live-chat-support/wp-live-chat-support.php:3780
+msgid "Editor"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:1412
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:800
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3512
+#: wp-live-chat-support/wp-live-chat-support.php:3789
+msgid "Author"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:1413
+msgid "Contributor"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:1414
+msgid "Subscriber"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:1544
+#: wp-live-chat-support/wp-live-chat-support.php:4126
+#: wp-live-chat-support/wp-live-chat-support.php:4176
+msgid "Chat ID"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:1545
+#: wp-live-chat-support/wp-live-chat-support.php:4127
+#: wp-live-chat-support/wp-live-chat-support.php:4177
+msgid "From"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:1547
+#: wp-live-chat-support/wp-live-chat-support.php:4129
+#: wp-live-chat-support/wp-live-chat-support.php:4179
+msgid "Timestamp"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:1548
+#: wp-live-chat-support/wp-live-chat-support.php:4130
+#: wp-live-chat-support/wp-live-chat-support.php:4180
+msgid "Origin"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:1560
+#: wp-live-chat-support/wp-live-chat-support.php:4135
+#: wp-live-chat-support/wp-live-chat-support.php:4185
+msgid "user"
+msgstr ""
+
+#: wp-live-chat-support-pro/functions-pro.php:1562
+#: wp-live-chat-support/wp-live-chat-support.php:4137
+#: wp-live-chat-support/wp-live-chat-support.php:4187
+msgid "agent"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:48
+#: wp-live-chat-support/includes/settings_page.php:26
+msgid "WP Live Chat Support Settings"
+msgstr "Nastavení WP Live Chat Support"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:71
+#: wp-live-chat-support/wp-live-chat-support.php:2143
+#: wp-live-chat-support/wp-live-chat-support.php:2158
+msgid "Dear Pro User"
+msgstr "Milý uživateli Pro verze"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:72
+msgid ""
+"Please enter a valid API key on the 'Live Chat' -> 'Settings' page. Failing "
+"to do this will result in you no longer receiving updates for this plugin."
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:73
+msgid "You can obtain a copy of your API key "
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:73
+msgid "here"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:73
+msgid ""
+"An account has been created for you while purchasing the plugin. If you have "
+"lost your password, please reset it "
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:74
+msgid ""
+"If you feel you are getting this message in error, please try refreshing the "
+"page."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:83
+#: wp-live-chat-support/includes/settings_page.php:53
+msgid "General Settings"
+msgstr "Všeobecné nastavení"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:84
+#: wp-live-chat-support/includes/settings_page.php:58
+msgid "Chat Box"
+msgstr "Okno Chat-u"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:85
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:383
+#: wp-live-chat-support/includes/settings_page.php:63
+#: wp-live-chat-support/includes/settings_page.php:400
+#: wp-live-chat-support/wp-live-chat-support.php:758
+#: wp-live-chat-support/wp-live-chat-support.php:761
+msgid "Offline Messages"
+msgstr "Offline zprávy"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:86
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:485
+#: wp-live-chat-support/includes/settings_page.php:68
+#: wp-live-chat-support/includes/settings_page.php:541
+msgid "Styling"
+msgstr "Styl"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:87
+msgid "Chat Agents"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:88
+#: wp-live-chat-support/includes/settings_page.php:78
+msgid "Blocked Visitors"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:89
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:830
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:836
+msgid "Chat Experience Ratings"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:90
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1857
+#, fuzzy
+msgid "Encryption"
+msgstr "Aktivita"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:93
+#: wp-live-chat-support/includes/settings_page.php:91
+msgid "Main Settings"
+msgstr "Hlavní nastavení"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:96
+msgid "Find out more."
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:103
+msgid "Use our server to host your chat server."
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:107
+#: wp-live-chat-support/wp-live-chat-support.php:3902
+msgid "API Key"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:112
+msgid "This API key is "
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:115
+msgid "valid"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:118
+msgid "invalid"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:122
+msgid ""
+"A valid API key means that you will be able to get the latest version of the "
+"plugin as and when it is released, as well as get access to support should "
+"you require it."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:130
+#: wp-live-chat-support/includes/settings_page.php:94
+msgid "Chat enabled"
+msgstr "Chat aktivní"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:144
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1693
+msgid "Choose when I want to be online"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:144
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1693
+msgid ""
+"Checking this will allow you to change your status to Online or Offline on "
+"the Live Chat page."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:154
+#: wp-live-chat-support/includes/settings_page.php:116
+msgid "Hide Chat"
+msgstr "Skrýt chat"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:154
+#: wp-live-chat-support/includes/settings_page.php:116
+msgid "Hides chat for 24hrs when user clicks X"
+msgstr "Chat se skryje na 24 hodin, když uživatel klikne na x"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:162
+#: wp-live-chat-support/includes/settings_page.php:125
+msgid "Require Name And Email"
+msgstr "Požadované jméno a e-mail"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:162
+#: wp-live-chat-support/includes/settings_page.php:125
+msgid ""
+"Users will have to enter their Name and Email Address when starting a chat"
+msgstr ""
+"Uživatelé budou muset zadat své jméno a emailovou adresu při zahájení "
+"konverzace"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:172
+#: wp-live-chat-support/includes/settings_page.php:133
+msgid "Input Field Replacement Text"
+msgstr "Vstupní pole Replacement Text"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:172
+#: wp-live-chat-support/includes/settings_page.php:133
+msgid "This is the text that will show in place of the Name And Email fields"
+msgstr "Toto je text, který se zobrazí v místě  Jméno a Email pole"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:182
+#: wp-live-chat-support/includes/settings_page.php:141
+msgid "Use Logged In User Details"
+msgstr "Použije přihlášeného uživatele jméno"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:182
+#: wp-live-chat-support/includes/settings_page.php:141
+msgid ""
+"A user's Name and Email Address will be used by default if they are logged "
+"in."
+msgstr ""
+"Uživatelovo Jméno a E-mailová adresa bude použita jako výchozí, pokud je "
+"uživatel přihlášen."
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:193
+#: wp-live-chat-support/includes/settings_page.php:149
+msgid "Enable On Mobile Devices"
+msgstr "Povolit na mobilních zařízeních"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:193
+#: wp-live-chat-support/includes/settings_page.php:149
+msgid ""
+"Disabling this will mean that the Chat Box will not be displayed on mobile "
+"devices. (Smartphones and Tablets)"
+msgstr ""
+"Vypnutí tohoto bude znamenat, že Chat Box se nebude zobrazovat na mobilních "
+"zařízeních. (Smartphonech a Tabletech)"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:203
+#: wp-live-chat-support/includes/settings_page.php:157
+msgid "Record a visitor's IP Address"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:203
+#: wp-live-chat-support/includes/settings_page.php:157
+msgid "Disable this to enable anonymity for your visitors"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:213
+#: wp-live-chat-support/includes/settings_page.php:165
+msgid "Play a sound when a new message is received"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:213
+#: wp-live-chat-support/includes/settings_page.php:165
+msgid ""
+"Disable this to mute the sound that is played when a new chat message is "
+"received"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:222
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2135
+msgid "Include chat window on the following pages:"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:222
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2135
+#: wp-live-chat-support/includes/settings_page.php:175
+msgid ""
+"Show the chat window on the following pages. Leave blank to show on all. "
+"(Use comma-separated Page ID's)"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:232
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2143
+msgid "Exclude chat window on the following pages:"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:232
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2143
+#: wp-live-chat-support/includes/settings_page.php:190
+msgid ""
+"Do not show the chat window on the following pages. Leave blank to show on "
+"all. (Use comma-separated Page ID's)"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:242
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2151
+msgid "Allow any user to make themselves a chat agent"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:242
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2151
+msgid ""
+"Checking this will allow any of your users to make themselves a chat agent "
+"when editing their profile."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:255
+#: wp-live-chat-support/includes/settings_page.php:213
+msgid "Chat Window Settings"
+msgstr "Nastavení okna chat-u"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:258
+#: wp-live-chat-support/includes/settings_page.php:216
+msgid "Chat box alignment"
+msgstr "Zarovnání okna chat-u"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:263
+#: wp-live-chat-support/includes/settings_page.php:219
+msgid "Bottom left"
+msgstr "Vlevo dole"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:266
+#: wp-live-chat-support/includes/settings_page.php:220
+msgid "Bottom right"
+msgstr "Vpravo dole"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:269
+#: wp-live-chat-support/includes/settings_page.php:221
+msgid "Left"
+msgstr "Vlevo"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:272
+#: wp-live-chat-support/includes/settings_page.php:222
+msgid "Right"
+msgstr "Vpravo"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:278
+#: wp-live-chat-support/includes/settings_page.php:228
+msgid "Auto Pop-up"
+msgstr "Automatické otevření"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:278
+#: wp-live-chat-support/includes/settings_page.php:228
+msgid ""
+"Expand the chat box automatically (prompts the user to enter their name and "
+"email address)."
+msgstr ""
+"Otevřít okno chatu automaticky (vyzve uživatele k zadání svého jména a e-"
+"mailové adresy)."
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:289
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:919
+msgid "Name "
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:303
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:990
+#: wp-live-chat-support/includes/settings_page.php:272
+msgid "Picture"
+msgstr "Obrázek"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:311
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:998
+#: wp-live-chat-support/includes/settings_page.php:275
+#: wp-live-chat-support/includes/settings_page.php:291
+msgid "Upload Image"
+msgstr "Nahrát obrázek"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:313
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1000
+msgid "Remove Image"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:314
+msgid "Recomended Size 40px x 40px"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:320
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1008
+#: wp-live-chat-support/includes/settings_page.php:288
+msgid "Logo"
+msgstr "Logo"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:328
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1016
+msgid "Upload Logo"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:330
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1018
+msgid "Remove Logo"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:331
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1019
+msgid "Recomended Size 250px x 40px"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:337
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1025
+#: wp-live-chat-support/includes/settings_page.php:304
+msgid "Chat delay (seconds)"
+msgstr "Zpoždění chat-u (v sekundách)"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:337
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1025
+msgid "How long it takes for your chat window to pop up"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:346
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1034
+#: wp-live-chat-support/includes/settings_page.php:320
+msgid "Chat notifications"
+msgstr "Upozornění na chat"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:346
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1034
+msgid "Alert me via email as soon as someone wants to chat (while online only)"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:356
+#: wp-live-chat-support/includes/settings_page.php:338
+msgid "Display name and avatar in chat"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:356
+#: wp-live-chat-support/includes/settings_page.php:338
+msgid "Display the agent and user name above each message in the chat window."
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:368
+#: wp-live-chat-support/includes/settings_page.php:348
+msgid "Only show the chat window to users that are logged in"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:368
+#: wp-live-chat-support/includes/settings_page.php:348
+msgid ""
+"By checking this, only users that are logged in will be able to chat with "
+"you."
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:387
+#: wp-live-chat-support/includes/settings_page.php:404
+msgid "Do not allow users to send offline messages"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:387
+#: wp-live-chat-support/includes/settings_page.php:404
+msgid ""
+"The chat window will be hidden when it is offline. Users will not be able to "
+"send offline messages to you"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:399
+#: wp-live-chat-support/includes/settings_page.php:416
+msgid "Email Address"
+msgstr "Emailová adresa"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:399
+#: wp-live-chat-support/includes/settings_page.php:416
+msgid ""
+"Email address where offline messages are delivered to. Use comma separated "
+"email addresses to send to more than one email address"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:412
+#: wp-live-chat-support/includes/settings_page.php:428
+msgid "Sending Method"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:413
+#: wp-live-chat-support/includes/settings_page.php:429
+msgid "WP Mail"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:414
+#: wp-live-chat-support/includes/settings_page.php:430
+msgid "PHP Mailer"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:430
+#: wp-live-chat-support/includes/settings_page.php:446
+msgid "Host"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:438
+#: wp-live-chat-support/includes/settings_page.php:454
+msgid "Port"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:446
+#: wp-live-chat-support/includes/settings_page.php:462
+msgid "Username"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:454
+#: wp-live-chat-support/includes/settings_page.php:470
+msgid "Password"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:463
+#: wp-live-chat-support/includes/settings_page.php:479
+msgid "Offline Chat Box Title"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:471
+#: wp-live-chat-support/includes/settings_page.php:487
+msgid "Offline Text Fields"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:504
+#: wp-live-chat-support/includes/settings_page.php:546
+msgid "Choose a theme"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:509
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:512
+msgid "Theme 1"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:515
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:518
+msgid "Theme 2"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:521
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:524
+msgid "Theme 3"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:527
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:530
+msgid "Theme 4"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:533
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:536
+msgid "Theme 5"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:539
+msgid "Theme 6"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:542
+msgid "Custom. Enter Colour Values Below"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:568
+msgid "Chat box fill color"
+msgstr "Barva výplně okýnka chatu"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:574
+msgid "Chat box font color"
+msgstr "Barva textu okýnka chatu"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:581
+#: wp-live-chat-support/includes/settings_page.php:677
+msgid "I'm using a localization plugin"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:584
+msgid "documentation"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:589
+msgid ""
+"You will only be able to edit the strings shown in the chat window of the "
+"code now. <br/> This has been done to accommodate as many localization "
+"plugins as possible. <br/> For more information on how to change these "
+"strings, please consult the "
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:594
+#: wp-live-chat-support/includes/settings_page.php:685
+msgid "First Section Text"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:601
+#: wp-live-chat-support/includes/settings_page.php:692
+msgid "Intro Text"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:607
+#: wp-live-chat-support/includes/settings_page.php:698
+msgid "Second Section Text"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:614
+#: wp-live-chat-support/includes/settings_page.php:705
+msgid "Reactivate Chat Section Text"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:622
+#: wp-live-chat-support/includes/settings_page.php:713
+msgid "User chat welcome"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:628
+#: wp-live-chat-support/includes/settings_page.php:719
+msgid "Other text"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:630
+#: wp-live-chat-support/includes/settings_page.php:721
+msgid "This text is shown above the user chat input field"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:662
+msgid ""
+"You are using an outdated version of WP Live Chat Support Basic. Please "
+"update your plugin to allow for animations to function"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:666
+#: wp-live-chat-support/includes/settings_page.php:749
+msgid "Choose an animation"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:674
+#: wp-live-chat-support/includes/settings_page.php:757
+msgid "Slide Up"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:680
+#: wp-live-chat-support/includes/settings_page.php:763
+msgid "Slide From The Side"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:686
+#: wp-live-chat-support/includes/settings_page.php:769
+msgid "Fade In"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:692
+#: wp-live-chat-support/includes/settings_page.php:775
+msgid "No Animation"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:750
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3462
+#: wp-live-chat-support/wp-live-chat-support.php:3740
+msgid "Current Users that are Chat Agents"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:761
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3473
+#: wp-live-chat-support/wp-live-chat-support.php:3750
+msgid "Online"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:771
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3331
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3483
+#: wp-live-chat-support/wp-live-chat-support.php:2124
+msgid "Remove"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:780
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3492
+#: wp-live-chat-support/wp-live-chat-support.php:3800
+msgid "Add New Agent"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:782
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:798
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3494
+#: wp-live-chat-support/wp-live-chat-support.php:2560
+#: wp-live-chat-support/wp-live-chat-support.php:3765
+msgid "Select"
+msgstr "Vybrat"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:804
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3516
+#: wp-live-chat-support/wp-live-chat-support.php:3801
+#, fuzzy
+msgid "Add Agent"
+msgstr "Agenti / referenti"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:810
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3522
+msgid ""
+"Should you wish to add a user that has a role less than 'Author', please go "
+"to the <a href='./users.php'>Users</a> page, select the relevant user, click "
+"Edit and scroll to the bottom of the page and enable the 'Chat Agent' "
+"checkbox."
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:811
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3523
+msgid "If there are no chat agents online, the chat will show as offline"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:815
+#: wp-live-chat-support/includes/settings_page.php:802
+msgid "Blocked Visitors - Based on IP Address"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:816
+#: wp-live-chat-support/includes/settings_page.php:803
+msgid "Enter each IP Address you would like to block on a new line"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:827
+#: wp-live-chat-support/includes/settings_page.php:814
+msgid ""
+"Blocking a user's IP Address here will hide the chat window from them, "
+"preventing them from chatting with you. Each IP Address must be on a new line"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:836
+msgid ""
+"are only available in the WP Live Chat Support Chat Experience Ratings add-on"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:840
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1821
+#, fuzzy
+msgid "Chat Encryption"
+msgstr "Upozornění na chat"
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:843
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1824
+msgid "Enable Encryption"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:843
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1824
+msgid ""
+"All messages will be encrypted when being sent to and from the user and "
+"agent."
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:851
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1834
+msgid ""
+"Once enabled, all messages sent will be encrypted. This cannot be undone."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/settings_page_pro.php:857
+#: wp-live-chat-support/includes/settings_page.php:822
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:5
+#: wp-live-chat-support-pro/includes/wplc_roi.php:83
+msgid "Add New"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:8
+#: wp-live-chat-support/wp-live-chat-support.php:4419
+#: wp-live-chat-support/wp-live-chat-support.php:4449
+msgid "WP Live Chat Support Triggers"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:16
+#: wp-live-chat-support-pro/includes/wplc_roi.php:110
+#: wp-live-chat-support/wp-live-chat-support.php:4403
+#: wp-live-chat-support/wp-live-chat-support.php:4465
+msgid "Update now"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:68
+msgid "Trigger Name"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:73
+msgid "Trigger Type"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:77
+#: wp-live-chat-support/wp-live-chat-support.php:4455
+msgid "Page Trigger"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:78
+#: wp-live-chat-support/wp-live-chat-support.php:4456
+msgid "Time Trigger"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:79
+#: wp-live-chat-support/wp-live-chat-support.php:4457
+msgid "Scroll Trigger"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:80
+#: wp-live-chat-support/wp-live-chat-support.php:4458
+msgid "Page Leave Trigger"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:81
+msgid ""
+"Note: When using page trigger with a the basic theme, no hovercard is shown "
+"by default. We suggest using the time trigger for this instead."
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:87
+msgid "Page ID"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:88
+msgid "Note: Leave empty for 'all' pages"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:92
+msgid "Show After"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:93
+msgid "Seconds"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:97
+msgid "Show After Scrolled"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:98
+msgid "(%) Percent of page height"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:102
+msgid "Content Replacement"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:114
+msgid "Replace Content"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:119
+msgid "Enable Trigger"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:125
+#: wp-live-chat-support-pro/includes/wplc_roi.php:237
+msgid "Close"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:134
+#: wp-live-chat-support-pro/includes/wplc_roi.php:246
+msgid "Please review your submission"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:275
+msgid "Trigger has been edited."
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:428
+msgid "Conflict with page"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:430
+msgid "Trigger ID: "
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:440
+#: wp-live-chat-support-pro/includes/wplc_roi.php:127
+#: wp-live-chat-support/functions.php:1853
+msgid "ID"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:442
+#: wp-live-chat-support/wp-live-chat-support.php:2322
+msgid "Type"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:443
+#: wp-live-chat-support-pro/includes/wplc_roi.php:130
+msgid "Page"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:444
+msgid "Content"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:445
+#: wp-live-chat-support/wp-live-chat-support.php:2325
+#: wp-live-chat-support/wp-live-chat-support.php:3076
+msgid "Status"
+msgstr "Stav"
+
+# @ wplivechat
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:446
+#: wp-live-chat-support-pro/includes/wplc_roi.php:132
+#: wp-live-chat-support/functions.php:1623
+#: wp-live-chat-support/wp-live-chat-support.php:2326
+#: wp-live-chat-support/wp-live-chat-support.php:3077
+msgid "Action"
+msgstr "Aktivita"
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:453
+#: wp-live-chat-support-pro/includes/wplc_roi.php:139
+msgid "Edit"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:454
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:585
+#: wp-live-chat-support-pro/includes/wplc_roi.php:140
+#: wp-live-chat-support-pro/includes/wplc_roi.php:545
+msgid "Delete"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:462
+#: wp-live-chat-support-pro/includes/wplc_roi.php:656
+#: wp-live-chat-support/wp-live-chat-support.php:3554
+msgid "All"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:466
+msgid "Click to change trigger status"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:476
+msgid "No Triggers Found..."
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:580
+msgid "Are you sure you would like to delete trigger"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_data_triggers.php:586
+#: wp-live-chat-support-pro/includes/wplc_roi.php:546
+msgid "Cancel"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:72
+msgid "ROI Goals"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:86
+msgid "WP Live Chat Support ROI Goals"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:129
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3873
+msgid "Overview"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:131
+#: wp-live-chat-support/modules/api/wplc-api.php:76
+msgid "Value"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:146
+msgid "None"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:153
+msgid "No ROI Goals Found..."
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:212
+msgid "Goal Name"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:217
+msgid "Goal Overview"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:222
+msgid "Goal Page"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:231
+msgid "Goal Value"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:377
+msgid "Goal has been edited."
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:540
+msgid "Are you sure you would like to delete goal"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:622
+msgid "ROI Reporting"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:636
+msgid "Goal Statistics"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:648
+msgid "No Goals Found"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:657
+msgid "Last 30 Days"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:658
+msgid "Last 15 Days"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:659
+msgid "Last 7 Days"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:660
+msgid "Last 24 Hours"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:712
+msgid "Value Per Conversion"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:718
+msgid "Total Value"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:723
+msgid "Total Conversions"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:757
+msgid "Value By Date"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:760
+msgid "Value By Agent"
+msgstr ""
+
+#: wp-live-chat-support-pro/includes/wplc_roi.php:766
+msgid "No data available yet..."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:511
+#, php-format
+msgid ""
+"WP Live Chat Support Pro <strong>requires WP Live Chat Support version 6+</"
+"strong> (basic version). Please <strong><a href=\"%1$s\">update the plugin</"
+"a></strong> in order for the plugin to continue working correctly."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:597
+msgid "WP Live Chat Support Pro"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:710
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:721
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3201
+msgid "Quick Responses"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:711
+msgid "Quick Response"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:712
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:715
+msgid "New Quick Response"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:713
+msgid "Add New Quick Response"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:714
+msgid "Edit Quick Response"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:716
+msgid "All Quick Responses"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:717
+msgid "View Quick Responses"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:718
+msgid "Search Quick Responses"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:719
+msgid "No Quick Responses found"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:720
+msgid "No Quick Responses found in the Trash"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:725
+msgid "Quick Responses for WP Live Chat Support Pro"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:791
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:795
+#: wp-live-chat-support/wp-live-chat-support.php:2560
+msgid "Assign Quick Response"
+msgstr "Přiřadit rychlou odezvu"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:804
+msgid "What is this?"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:841
+#, php-format
+msgid "Incoming chat from %s (%s) on %s"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:847
+#, php-format
+msgid "%s (%s) wants to chat with you. <br /><br />Log in: %s"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:895
+#: wp-live-chat-support/includes/settings_page.php:239
+msgid "Display typing indicator"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:895
+msgid ""
+"Display the \"typing...\" animation in the chat window as soon as an agent "
+"or visitor is typing."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:902
+#, php-format
+msgid ""
+"Please update your <a href='%s'>basic version</a> to make use of this "
+"feature."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:910
+msgid ""
+"For non-cloud server users, please note that this will increase the amount "
+"of server resources required."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:927
+msgid "Use WordPress name instead"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:930
+msgid "Note: 'Name' field will be ignored"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:948
+msgid "Incoming chat ring tone"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:952
+msgid "Default"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1001
+msgid "Recomended Size 60px x 60px"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1043
+msgid "User Experience"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1052
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1082
+#, php-format
+msgid ""
+"Please update your <a href='%s'>basic version</a> to make use of these "
+"features."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1059
+msgid "Enable Text Editor"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1059
+msgid ""
+"Adds advanced text editor features, such as links, text styling, and more!"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1063
+msgid "Enable File Sharing"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1063
+msgid "Adds file sharing to your chat box!"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1067
+msgid "Enable Experience Ratings"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1067
+msgid "Allows users to rate the chat experience with an agent."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1073
+#: wp-live-chat-support/includes/settings_page.php:362
+msgid "Social"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1090
+#: wp-live-chat-support/includes/settings_page.php:367
+msgid "Facebook URL"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1090
+#: wp-live-chat-support/includes/settings_page.php:367
+msgid "Link your Facebook page here. Leave blank to hide"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1091
+#: wp-live-chat-support/includes/settings_page.php:369
+msgid "Facebook URL..."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1094
+#: wp-live-chat-support/includes/settings_page.php:380
+msgid "Twitter URL"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1094
+#: wp-live-chat-support/includes/settings_page.php:380
+msgid "Link your Twitter page here. Leave blank to hide"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1095
+#: wp-live-chat-support/includes/settings_page.php:382
+msgid "Twitter URL..."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1118
+msgid "Admin"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1612
+msgid "You are currently accepting chats"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1613
+msgid "You are not accepting chats"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1627
+msgid ""
+"You have set your status to offline. To view visitors and accept chats "
+"please set your status to online using the switch above."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:1833
+msgid ""
+"Please note: Chat messages will only be encrypted and decreypted if you have "
+"inserted your WP Live Chat Support Pro API Key on the <a href=\"admin.php?"
+"page=wplivechat-menu-api-keys-page\">API Keys page</a>."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2119
+msgid "Exclude chat from 'Home' page:"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2119
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your home "
+"page."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2127
+msgid "Exclude chat from 'Archive' pages:"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2127
+msgid ""
+"Leaving this unchecked will allow the chat window to display on your archive "
+"pages."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2458
+msgid "Attempting to open the chat window... Please be patient."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2516
+msgid ""
+"You are not a chat agent. Please make yourself a chat agent before trying to "
+"chat to visitors"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:2777
+msgid "This chat has already been answered by another agent."
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3084
+#: wp-live-chat-support/wp-live-chat-support.php:2221
+msgid "Agent(s) online"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3202
+#: wp-live-chat-support/wp-live-chat-support.php:732
+msgid "Reporting"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3203
+#: wp-live-chat-support/wp-live-chat-support.php:738
+msgid "Triggers"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3679
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3687
+#: wp-live-chat-support/wp-live-chat-support.php:4299
+msgid "Experience Rating"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3767
+msgid "User Experience Ratings"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3774
+msgid "Agent Statistics"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3820
+msgid "Satisfaction Rating"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3821
+msgid "Rating Count"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3821
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3835
+msgid "Good"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3821
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3835
+msgid "Bad"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3829
+msgid "No Ratings for this agent"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3870
+#: wp-live-chat-support/wp-live-chat-support.php:4380
+#: wp-live-chat-support/wp-live-chat-support.php:4387
+msgid "WP Live Chat Support Reporting"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3874
+msgid "Popular Pages"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3892
+msgid "Total Agents"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3892
+msgid "Total number of agents that used the live chat"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3893
+msgid "Total Chats"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3893
+msgid "Total number of chats received"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3894
+msgid "Total URLs"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3894
+msgid "Total number of URLs a chat was initiated on"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3895
+msgid "Chats per day"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3896
+msgid "Popular pages a chat was initiated on"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3972
+#: wp-live-chat-support/functions.php:1622
+#: wp-live-chat-support/wp-live-chat-support.php:3075
+msgid "URL"
+msgstr "URL adresa stránky"
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3973
+msgid "Count"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3993
+msgid "Disable initiate chat feature:"
+msgstr ""
+
+#: wp-live-chat-support-pro/wp-live-chat-support-pro.php:3993
+msgid ""
+"This will substantially improve performance. If you are experiencing "
+"performance issues on your site, you should disable the initiate chat "
+"feature and only enable it when you need it."
+msgstr ""
+
+#: wp-live-chat-support/functions.php:451
+msgid "Only chat agents can accept chats"
+msgstr ""
+
+#: wp-live-chat-support/functions.php:654
+#: wp-live-chat-support/wp-live-chat-support.php:568
+#: wp-live-chat-support/wp-live-chat-support.php:1589
+#: wp-live-chat-support/wp-live-chat-support.php:2698
+#: wp-live-chat-support/wp-live-chat-support.php:4269
+msgid "Welcome. How may I help you?"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/functions.php:1003
+msgid "complete"
+msgstr "ukončená"
+
+# @ wplivechat
+#: wp-live-chat-support/functions.php:1006
+msgid "pending"
+msgstr "probíhající"
+
+# @ wplivechat
+#: wp-live-chat-support/functions.php:1009
+msgid "active"
+msgstr "aktivní"
+
+# @ wplivechat
+#: wp-live-chat-support/functions.php:1012
+msgid "deleted"
+msgstr "zrušená"
+
+# @ wplivechat
+#: wp-live-chat-support/functions.php:1015
+msgid "browsing"
+msgstr "procházející web (browsing)"
+
+# @ wplivechat
+#: wp-live-chat-support/functions.php:1018
+msgid "requesting chat"
+msgstr "požadující chat"
+
+# @ wplivechat
+#: wp-live-chat-support/functions.php:1021
+msgid "Chat Ended - User still browsing"
+msgstr "Diskuse ukončená - Uživatel si prohlíží stránku"
+
+# @ wplivechat
+#: wp-live-chat-support/functions.php:1024
+msgid "User is browsing but doesn't want to chat"
+msgstr "Uživatel si prohlíží stránku, ale nepřeje si chat"
+
+# @ wplivechat
+#: wp-live-chat-support/functions.php:1359
+msgid "Get Pro Add-on to accept more chats"
+msgstr "Kupte si Pro Add-on verzi, aby jste mohli přijmout více chat-ů"
+
+#: wp-live-chat-support/functions.php:1597
+#: wp-live-chat-support/wp-live-chat-support.php:3037
+msgid "Error: Could not delete chat"
+msgstr ""
+
+#: wp-live-chat-support/functions.php:1601
+#: wp-live-chat-support/wp-live-chat-support.php:3041
+msgid "Chat Deleted"
+msgstr ""
+
+#: wp-live-chat-support/functions.php:1608
+#: wp-live-chat-support/wp-live-chat-support.php:3048
+msgid "Are you sure you would like to delete this chat?"
+msgstr ""
+
+#: wp-live-chat-support/functions.php:1650
+msgid "You have not missed any chat requests."
+msgstr ""
+
+#: wp-live-chat-support/functions.php:1843
+msgid "Open chat window via"
+msgstr ""
+
+#: wp-live-chat-support/functions.php:1847
+msgid "Click"
+msgstr ""
+
+#: wp-live-chat-support/functions.php:1848
+msgid "Hover"
+msgstr ""
+
+#: wp-live-chat-support/functions.php:1850
+msgid "element with"
+msgstr ""
+
+#: wp-live-chat-support/functions.php:1852
+msgid "Class"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/includes/deprecated.php:151
+#: wp-live-chat-support/includes/deprecated.php:348
+#: wp-live-chat-support/wp-live-chat-support.php:560
+#: wp-live-chat-support/wp-live-chat-support.php:1651
+#: wp-live-chat-support/wp-live-chat-support.php:2684
+#: wp-live-chat-support/wp-live-chat-support.php:4261
+msgid "Questions?"
+msgstr "Máte otázky?"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/deprecated.php:151
+#: wp-live-chat-support/includes/deprecated.php:348
+#: wp-live-chat-support/wp-live-chat-support.php:561
+#: wp-live-chat-support/wp-live-chat-support.php:1652
+#: wp-live-chat-support/wp-live-chat-support.php:2685
+#: wp-live-chat-support/wp-live-chat-support.php:4262
+msgid "Chat with us"
+msgstr "Ptejte se nás, klikněte zde"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/deprecated.php:158
+#: wp-live-chat-support/includes/deprecated.php:355
+msgid "Start Live Chat"
+msgstr "Začít Live Chat"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/deprecated.php:210
+#: wp-live-chat-support/includes/deprecated.php:410
+#: wp-live-chat-support/wp-live-chat-support.php:563
+#: wp-live-chat-support/wp-live-chat-support.php:2687
+#: wp-live-chat-support/wp-live-chat-support.php:4264
+msgid "Start Chat"
+msgstr "Začít diskusi"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/deprecated.php:213
+#: wp-live-chat-support/includes/deprecated.php:413
+msgid "Connecting you to a sales person. Please be patient."
+msgstr "Spojujeme Vás s našim referentem, prosíme o chvíli strpení."
+
+# @ wplivechat
+#: wp-live-chat-support/includes/deprecated.php:216
+#: wp-live-chat-support/includes/deprecated.php:416
+#: wp-live-chat-support/wp-live-chat-support.php:567
+#: wp-live-chat-support/wp-live-chat-support.php:1785
+#: wp-live-chat-support/wp-live-chat-support.php:1836
+#: wp-live-chat-support/wp-live-chat-support.php:2691
+#: wp-live-chat-support/wp-live-chat-support.php:4268
+msgid "Reactivating your previous chat..."
+msgstr "Znovu se aktivuje Váš předešlý chat...  "
+
+# @ wplivechat
+#: wp-live-chat-support/includes/deprecated.php:221
+#: wp-live-chat-support/includes/deprecated.php:421
+#: wp-live-chat-support/wp-live-chat-support.php:569
+#: wp-live-chat-support/wp-live-chat-support.php:2559
+#: wp-live-chat-support/wp-live-chat-support.php:2697
+#: wp-live-chat-support/wp-live-chat-support.php:4270
+msgid "Press ENTER to send your message"
+msgstr "Stisknutím klávesy ENTER odešlete vaši zprávu"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/deprecated.php:225
+#: wp-live-chat-support/includes/deprecated.php:425
+#: wp-live-chat-support/wp-live-chat-support.php:1625
+#: wp-live-chat-support/wp-live-chat-support.php:2574
+msgid "Send"
+msgstr "Odeslat"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/feedback-page.php:6
+msgid "WP Live Chat Support Feedback"
+msgstr "WP Live Chat Podpora Zpětná vazba"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/feedback-page.php:11
+msgid "Your Name"
+msgstr "Vaše jméno"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/feedback-page.php:19
+msgid "Your Email"
+msgstr "Vaše Emailová adresa"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/feedback-page.php:27
+msgid "Your Website"
+msgstr "Vaše web stránka"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/feedback-page.php:35
+#: wp-live-chat-support/wp-live-chat-support.php:767
+msgid "Feedback"
+msgstr "Zpětná vazba - Feedback"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/feedback-page.php:46
+msgid "Send Feedback"
+msgstr "Pošlete zpětnou vazbu"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/settings_page.php:73
+msgid "Agents"
+msgstr "Agenti / referenti"
+
+#: wp-live-chat-support/includes/settings_page.php:175
+msgid "Include chat window on the following pages"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/includes/settings_page.php:181
+#: wp-live-chat-support/includes/settings_page.php:196
+#: wp-live-chat-support/includes/settings_page.php:245
+#: wp-live-chat-support/includes/settings_page.php:262
+#: wp-live-chat-support/includes/settings_page.php:278
+#: wp-live-chat-support/includes/settings_page.php:294
+#: wp-live-chat-support/includes/settings_page.php:310
+#: wp-live-chat-support/includes/settings_page.php:327
+#: wp-live-chat-support/includes/settings_page.php:372
+#: wp-live-chat-support/includes/settings_page.php:385
+msgid "available in the"
+msgstr "k dispozici v"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/settings_page.php:182
+#: wp-live-chat-support/includes/settings_page.php:197
+#: wp-live-chat-support/includes/settings_page.php:246
+#: wp-live-chat-support/includes/settings_page.php:263
+#: wp-live-chat-support/includes/settings_page.php:279
+#: wp-live-chat-support/includes/settings_page.php:295
+#: wp-live-chat-support/includes/settings_page.php:311
+#: wp-live-chat-support/includes/settings_page.php:328
+#: wp-live-chat-support/includes/settings_page.php:373
+#: wp-live-chat-support/includes/settings_page.php:386
+#: wp-live-chat-support/wp-live-chat-support.php:3154
+#: wp-live-chat-support/wp-live-chat-support.php:3946
+#: wp-live-chat-support/wp-live-chat-support.php:4014
+msgid "Pro Add-on"
+msgstr "Pro Add-on verze"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/settings_page.php:183
+#: wp-live-chat-support/includes/settings_page.php:198
+#: wp-live-chat-support/includes/settings_page.php:247
+#: wp-live-chat-support/includes/settings_page.php:264
+#: wp-live-chat-support/includes/settings_page.php:280
+#: wp-live-chat-support/includes/settings_page.php:296
+#: wp-live-chat-support/includes/settings_page.php:312
+#: wp-live-chat-support/includes/settings_page.php:329
+#: wp-live-chat-support/includes/settings_page.php:374
+#: wp-live-chat-support/includes/settings_page.php:387
+msgid "only"
+msgstr "jen"
+
+#: wp-live-chat-support/includes/settings_page.php:190
+msgid "Exclude chat window on the following pages"
+msgstr ""
+
+#: wp-live-chat-support/includes/settings_page.php:239
+msgid "Display a typing animation as soon as someone starts typing."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/includes/settings_page.php:324
+msgid "Alert me via email as soon as someone wants to chat"
+msgstr ""
+"Upozornit mě prostřednictvím emailu ihned, jak bude chtít někdo chat-ovat"
+
+#: wp-live-chat-support/includes/settings_page.php:551
+#: wp-live-chat-support/includes/settings_page.php:552
+msgid "Classic"
+msgstr ""
+
+#: wp-live-chat-support/includes/settings_page.php:555
+#: wp-live-chat-support/includes/settings_page.php:556
+msgid "Modern"
+msgstr ""
+
+#: wp-live-chat-support/includes/settings_page.php:572
+msgid "Colour Scheme"
+msgstr ""
+
+#: wp-live-chat-support/includes/settings_page.php:627
+msgid "Choose"
+msgstr ""
+
+#: wp-live-chat-support/includes/settings_page.php:628
+msgid "Your"
+msgstr ""
+
+#: wp-live-chat-support/includes/settings_page.php:629
+msgid "Colors"
+msgstr ""
+
+#: wp-live-chat-support/includes/settings_page.php:630
+msgid "Below"
+msgstr ""
+
+#: wp-live-chat-support/includes/settings_page.php:652
+msgid "Palette Color 1"
+msgstr ""
+
+#: wp-live-chat-support/includes/settings_page.php:658
+msgid "Palette Color 2"
+msgstr ""
+
+#: wp-live-chat-support/includes/settings_page.php:664
+msgid "Palette Color 3"
+msgstr ""
+
+#: wp-live-chat-support/includes/settings_page.php:670
+msgid "Palette Color 4"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:8
+#: wp-live-chat-support/includes/surveys.php:21
+#: wp-live-chat-support/includes/surveys.php:290
+#: wp-live-chat-support/wp-live-chat-support.php:727
+msgid "Surveys"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:24
+msgid "Enable Surveys"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:24
+msgid ""
+"Enable surveys within your live chat box, either before or after a live chat "
+"session."
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:33
+#, php-format
+msgid ""
+"No surveys created. Please <a href=\"%s\" target=\"_BLANK\" title="
+"\"NimbleSquirrel\">create a survey and then refresh this page.</a>"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:40
+msgid "Select a survey"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:66
+msgid "Display survey"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:69
+msgid "Before chat"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:70
+msgid "After chat"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:75
+msgid "Chat button text"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:81
+msgid "Change title of chat box when chat ended to"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:246
+#: wp-live-chat-support/wp-live-chat-support.php:564
+#: wp-live-chat-support/wp-live-chat-support.php:2688
+#: wp-live-chat-support/wp-live-chat-support.php:4265
+msgid "Or chat to an agent now"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:251
+#: wp-live-chat-support/wp-live-chat-support.php:1426
+msgid "Leave a message"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:285
+msgid "WP Live Chat Surveys with Nimble Squirrel"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:291
+msgid ""
+"To view your responses, click the button below and log in to your "
+"NimbleSquirrel account."
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:294
+msgid ""
+"Need help? <a href='https://wp-livechat.com/contact-us/' "
+"target='_BLANK'>Contact us</a> and we'll get back to you as soon as possible!"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:304
+#, php-format
+msgid ""
+"Register on <a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel"
+"\">NimbleSquirrel</a> (It's free.)"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:307
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">Create a survey</"
+"a>."
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:314
+msgid "Add a Survey to your live chat box"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:315
+msgid "Three simple steps:"
+msgstr ""
+
+#: wp-live-chat-support/includes/surveys.php:319
+msgid ""
+"Enable surveys in your live chat <a href='admin.php?page=wplivechat-menu-"
+"settings'>settings page</a>."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/includes/welcome_page.php:4
+msgid "Welcome to "
+msgstr "Vítejte v"
+
+#: wp-live-chat-support/includes/welcome_page.php:6
+msgid "Version 6"
+msgstr ""
+
+#: wp-live-chat-support/includes/welcome_page.php:8
+msgid "The most popular live chat plugin!"
+msgstr ""
+
+#: wp-live-chat-support/includes/welcome_page.php:11
+msgid "How did you find us?"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/includes/welcome_page.php:16
+msgid "WordPress.org plugin repository "
+msgstr "depozitář WordPress.org plugin-ů"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/welcome_page.php:19
+msgid "Search Term"
+msgstr "Hledejte výraz"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/welcome_page.php:23
+msgid "Google or other search Engine"
+msgstr "Google a nebo jiný vyhledávač"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/welcome_page.php:29
+msgid "Friend recommendation"
+msgstr "Doporučení přítele"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/welcome_page.php:35
+msgid "Other"
+msgstr "Ostatní"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/welcome_page.php:39
+msgid "Please Explain"
+msgstr "Prosím vysvětlete"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/welcome_page.php:48
+msgid "Submit"
+msgstr "Poslat"
+
+# @ wplivechat
+#: wp-live-chat-support/includes/welcome_page.php:50
+msgid "Skip"
+msgstr "Přeskočit"
+
+#: wp-live-chat-support/modules/api/wplc-api.php:44
+msgid "Rest API"
+msgstr ""
+
+#: wp-live-chat-support/modules/api/wplc-api.php:62
+msgid ""
+"To make use of the REST API, please ensure you are using a version of "
+"WordPress with the REST API included."
+msgstr ""
+
+#: wp-live-chat-support/modules/api/wplc-api.php:64
+msgid ""
+"Alternatively, please install the official Rest API plugin from WordPress."
+msgstr ""
+
+#: wp-live-chat-support/modules/api/wplc-api.php:71
+msgid "REST API"
+msgstr ""
+
+#: wp-live-chat-support/modules/api/wplc-api.php:75
+msgid "Option"
+msgstr ""
+
+#: wp-live-chat-support/modules/api/wplc-api.php:82
+msgid "Secret Token"
+msgstr ""
+
+#: wp-live-chat-support/modules/api/wplc-api.php:85
+msgid "No secret token found"
+msgstr ""
+
+#: wp-live-chat-support/modules/api/wplc-api.php:86
+msgid "Generate New"
+msgstr ""
+
+#: wp-live-chat-support/modules/api/wplc-api.php:91
+msgid "Supported API Calls"
+msgstr ""
+
+#: wp-live-chat-support/modules/api/wplc-api.php:95
+#: wp-live-chat-support/modules/api/wplc-api.php:103
+#: wp-live-chat-support/modules/api/wplc-api.php:111
+#: wp-live-chat-support/modules/api/wplc-api.php:119
+#: wp-live-chat-support/modules/api/wplc-api.php:127
+#: wp-live-chat-support/modules/api/wplc-api.php:136
+msgid "Try"
+msgstr ""
+
+#: wp-live-chat-support/modules/api/wplc-api.php:144
+msgid "API Response Codes"
+msgstr ""
+
+#: wp-live-chat-support/modules/api/wplc-api.php:288
+msgid "Rest Console "
+msgstr ""
+
+#: wp-live-chat-support/modules/api/wplc-api.php:295
+msgid "Try it!"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:555
+#: wp-live-chat-support/wp-live-chat-support.php:1668
+#: wp-live-chat-support/wp-live-chat-support.php:2692
+#: wp-live-chat-support/wp-live-chat-support.php:4256
+msgid "Chat offline. Leave a message"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:556
+#: wp-live-chat-support/wp-live-chat-support.php:1510
+#: wp-live-chat-support/wp-live-chat-support.php:2693
+#: wp-live-chat-support/wp-live-chat-support.php:4257
+msgid "Hello. Please input your details so that I may help you."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:557
+#: wp-live-chat-support/wp-live-chat-support.php:957
+#: wp-live-chat-support/wp-live-chat-support.php:1523
+#: wp-live-chat-support/wp-live-chat-support.php:2694
+#: wp-live-chat-support/wp-live-chat-support.php:4258
+msgid ""
+"We are currently offline. Please leave a message and we'll get back to you "
+"shortly."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:558
+#: wp-live-chat-support/wp-live-chat-support.php:958
+#: wp-live-chat-support/wp-live-chat-support.php:2695
+#: wp-live-chat-support/wp-live-chat-support.php:4259
+msgid "Sending message..."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:559
+#: wp-live-chat-support/wp-live-chat-support.php:959
+#: wp-live-chat-support/wp-live-chat-support.php:2696
+#: wp-live-chat-support/wp-live-chat-support.php:4260
+msgid "Thank you for your message. We will be in contact soon."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:562
+#: wp-live-chat-support/wp-live-chat-support.php:2686
+#: wp-live-chat-support/wp-live-chat-support.php:4263
+msgid "Start live chat"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:565
+#: wp-live-chat-support/wp-live-chat-support.php:2689
+#: wp-live-chat-support/wp-live-chat-support.php:4266
+msgid "Chat ended"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:566
+#: wp-live-chat-support/wp-live-chat-support.php:1560
+#: wp-live-chat-support/wp-live-chat-support.php:1585
+#: wp-live-chat-support/wp-live-chat-support.php:2690
+#: wp-live-chat-support/wp-live-chat-support.php:4267
+msgid "Connecting. Please be patient..."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:603
+#: wp-live-chat-support/wp-live-chat-support.php:2664
+msgid "Please click \\'Start Chat\\' to initiate a chat with an agent"
+msgstr "Prosím, klikněte na \\'Spustit chat \\' zahájit chat s referentem"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:725
+msgid "Live Chat"
+msgstr "Live Chat"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:726
+msgid "Settings"
+msgstr "Nastavení"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:744
+msgid "History"
+msgstr "Historie"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:745
+#, fuzzy
+msgid "Missed Chats"
+msgstr "Skrýt chat"
+
+#: wp-live-chat-support/wp-live-chat-support.php:768
+#: wp-live-chat-support/wp-live-chat-support.php:3657
+msgid "Support"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:769
+#, fuzzy
+msgid "Extensions"
+msgstr "Máte otázky?"
+
+#: wp-live-chat-support/wp-live-chat-support.php:779
+msgid "API Keys"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:785
+msgid "Premium Extension API Keys"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:786
+msgid ""
+"To find and manage your premium API keys, please visit your <a "
+"target='_BLANK' href='https://wp-livechat.com/my-account/'>my account</a> "
+"page."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:1265
+#: wp-live-chat-support/wp-live-chat-support.php:1275
+msgid "close"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:1401
+#: wp-live-chat-support/wp-live-chat-support.php:1420
+msgid "Start chat"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:1494
+msgid "Send message"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:2079
+msgid "New chat received"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:2081
+msgid ""
+"A new chat has been received. Please go the 'Live Chat' page to accept the "
+"chat"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2144
+msgid ""
+"You are using an outdated version of <strong>WP Live Chat Support Pro</"
+"strong>. Please"
+msgstr ""
+"Používáte zastaralou verzi <strong> WP Live Chat Support Pro </ strong>. "
+"Prosím"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2144
+msgid "update to at least version"
+msgstr "aktualizujte na aktuální verzi"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2144
+msgid "to ensure all functionality is in working order"
+msgstr "k zajištění funkčnosti všech funkcí"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2145
+msgid ""
+"You're live chat box on your website has been temporarily disabled until the "
+"Pro plugin has been updated. This is to ensure a smooth and hassle-free user "
+"experience for both yourself and your visitors."
+msgstr ""
+"Váš live chat box na vašich webových stránkách byl dočasně zastaven, dokud "
+"nebude aktualizován Pro plugin. To zajistí hladký a bezproblémový "
+"uživatelský komfort jak pro vás tak pro vaše návštěvníky."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2146
+#: wp-live-chat-support/wp-live-chat-support.php:2166
+msgid ""
+"You can update your plugin <a href='./update-core.php'>here</a>, <a href='./"
+"plugins.php'>here</a> or <a href='https://wp-livechat.com/get-updated-"
+"version/' target='_BLANK'>here</a>."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2147
+#: wp-live-chat-support/wp-live-chat-support.php:2167
+msgid "If you are having difficulty updating the plugin, please contact"
+msgstr "Pokud máte potíže s aktualizací plugin-u, prosím kontaktujte"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2159
+#, fuzzy
+msgid ""
+"You are using an outdated version of <strong>WP Live Chat Support Pro</"
+"strong>."
+msgstr ""
+"Používáte zastaralou verzi <strong> WP Live Chat Support Pro </ strong>. "
+"Prosím"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2161
+#, fuzzy
+msgid "Please update to the latest version of WP Live Chat Support Pro"
+msgstr ""
+"Používáte zastaralou verzi <strong> WP Live Chat Support Pro </ strong>. "
+"Prosím"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2162
+msgid "Version 5.0.1"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2163
+#, fuzzy
+msgid "to ensure everything is working correctly."
+msgstr "k zajištění funkčnosti všech funkcí"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2195
+msgid "Congratulations"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:2196
+msgid "You are now accepting live chat requests on your site."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:2197
+msgid "The live chat box has automatically been enabled on your website."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:2198
+msgid "Chat notifications will start appearing once visitors send a request."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:2199
+msgid ""
+"You may <a href='?page=wplivechat-menu-settings' target='_BLANK'>modify your "
+"chat box settings here."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:2200
+msgid "Experiencing issues?"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:2200
+msgid "Visit our troubleshooting section."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2202
+#, fuzzy
+msgid "Hide"
+msgstr "Skrýt chat"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2237
+#: wp-live-chat-support/wp-live-chat-support.php:3677
+#: wp-live-chat-support/wp-live-chat-support.php:3678
+msgid "With the Pro add-on of WP Live Chat Support, you can"
+msgstr "S verzí Pro add-on of WP Live Chat Support, "
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2238
+#: wp-live-chat-support/wp-live-chat-support.php:3677
+msgid "see who's online and initiate chats"
+msgstr "uvidíte, kdo je on-line a můžete zahájit chat"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2239
+#: wp-live-chat-support/wp-live-chat-support.php:3677
+msgid "initiate chats"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2240
+#: wp-live-chat-support/wp-live-chat-support.php:3677
+msgid "with your online visitors with the click of a button."
+msgstr "s on-line návštěvníky vaší stránky jediným kliknutím."
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2241
+#: wp-live-chat-support/wp-live-chat-support.php:2243
+#, fuzzy
+msgid "Buy the Pro add-on now."
+msgstr ""
+"Kupte si verzi \\\"Pro add-on\\\" jen za jednorázový poplatek $29.95. "
+"Aktualizace je zdarma, bez časového omezení."
+
+#: wp-live-chat-support/wp-live-chat-support.php:2297
+msgid ""
+"Please note: This window must be open in order to receive new chat "
+"notifications."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2308
+#, fuzzy
+msgid "Visitors online"
+msgstr "Návštěvníci stránky"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2320
+#, fuzzy
+msgid "Visitor"
+msgstr "Návštěvníci stránky"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2321
+msgid "Time"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:2323
+msgid "Device"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2324
+#, fuzzy
+msgid "Data"
+msgstr "Uživatelova data"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2362
+#, fuzzy
+msgid "Chat Dashboard"
+msgstr "Chat aktivní"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2365
+msgid "Oh no!"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:2368
+msgid ""
+"You do not have access to this page as <strong>you are not a chat agent</"
+"strong>."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2480
+msgid "Previous"
+msgstr "Předešlý"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2482
+msgid "Active"
+msgstr "Aktivní"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2491
+#, fuzzy
+msgid "Chat with"
+msgstr "Ptejte se nás, klikněte zde"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2494
+msgid "End chat"
+msgstr "Ukončit chat"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2540
+#: wp-live-chat-support/wp-live-chat-support.php:3492
+#, fuzzy
+msgid "Add-ons"
+msgstr "Pro Add-on verze"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2542
+msgid "Get more add-ons"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2560
+msgid "Add Quick Responses to your Live Chat"
+msgstr "Přidat rychlé odpovědi pro Váš Live Chat"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2560
+msgid "Pro version only"
+msgstr "pouze Pro verze"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2568
+msgid "type here..."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2646
+msgid "User has opened the chat window"
+msgstr "Uživatel otevřel okno chat-u"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2647
+msgid "User has minimized the chat window"
+msgstr "Uživatel minimalizoval okno chat-u"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:2648
+msgid "User has maximized the chat window"
+msgstr "Uživatel maximalizoval okno chat-u"
+
+#: wp-live-chat-support/wp-live-chat-support.php:2649
+msgid "The chat has been ended"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3066
+msgid "Delete History"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3083
+msgid "No chats available at the moment"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3094
+msgid "View Chat History"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3094
+msgid "Download Chat History"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3116
+msgid "WP Live Chat History"
+msgstr "WP Live Chat historie"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3136
+#, fuzzy
+msgid "WP Live Chat Missed Chats"
+msgstr "WP Live Chat historie"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3151
+#, fuzzy
+msgid ""
+"Please update to the latest version of WP Live Chat Support Pro to start "
+"recording any offline messages."
+msgstr ""
+"Používáte zastaralou verzi <strong> WP Live Chat Support Pro </ strong>. "
+"Prosím"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3154
+#, fuzzy
+msgid "This option is only available in the "
+msgstr "k dispozici v"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3166
+#, fuzzy
+msgid "WP Live Chat Offline Messages"
+msgstr "Offline zprávy"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3187
+msgid "Actions"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3205
+msgid "Delete Message"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3299
+msgid "Please click 'Start Chat' to initiate a chat with an agent"
+msgstr ""
+"Prosím, klikněte na tlačítko \\\"Spustit chat\\\", zahájit chat s referentem"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3395
+msgid "Your settings have been saved."
+msgstr "Vaše nastavení bylo uloženo."
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3410
+msgid "Thank You for your feedback!"
+msgstr "Děkujeme za vaši zpětnou vazbu!"
+
+# @ wplc
+#: wp-live-chat-support/wp-live-chat-support.php:3414
+#: wp-live-chat-support/wp-live-chat-support.php:3427
+msgid "Thank you for your feedback. We will be in touch soon"
+msgstr ""
+
+# @ wplc
+#: wp-live-chat-support/wp-live-chat-support.php:3430
+msgid "There was a problem sending your feedback. Please log your feedback on "
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3464
+msgid ""
+"WPLC: set_time_limit() is not enabled on this server. You may experience "
+"issues while using WP Live Chat Support as a result of this. Please get in "
+"contact your host to get this function enabled."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3470
+msgid ""
+"WPLC: Safe mode is enabled on this server. You may experience issues while "
+"using WP Live Chat Support as a result of this. Please contact your host to "
+"get safe mode disabled."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3492
+msgid "Suggested Plugins"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3503
+#: wp-live-chat-support/wp-live-chat-support.php:3504
+#: wp-live-chat-support/wp-live-chat-support.php:3505
+#: wp-live-chat-support/wp-live-chat-support.php:3510
+msgid "Sola Support Tickets"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3508
+msgid ""
+"The easiest to use Help Desk & Support Ticket plugin. Create a support help "
+"desk quickly and easily with Sola Support Tickets."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3510
+#: wp-live-chat-support/wp-live-chat-support.php:3521
+msgid "Get this Plugin"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3514
+#: wp-live-chat-support/wp-live-chat-support.php:3515
+#: wp-live-chat-support/wp-live-chat-support.php:3516
+#: wp-live-chat-support/wp-live-chat-support.php:3521
+msgid "Nifty Newsletters"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3519
+msgid ""
+"Create and send newsletters, automatic post notifications and autoresponders "
+"that are modern and beautiful with Nifty Newsletters."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3553
+msgid "Price:"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3555
+msgid "Free"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3556
+msgid "Paid"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3559
+msgid "For:"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3560
+msgid "Both"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3561
+#, fuzzy
+msgid "Free version"
+msgstr "pouze Pro verze"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3562
+#, fuzzy
+msgid "Pro version"
+msgstr "pouze Pro verze"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3598
+msgid "Already installed"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3625
+#, fuzzy
+msgid "WP Live Chat Support"
+msgstr "WP Live Chat Podpora Zpětná vazba"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3628
+#, fuzzy
+msgid "Documentation"
+msgstr "Prozkoumejte dokumentaci."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3630
+msgid ""
+"Getting started? Read through some of these articles to help you along your "
+"way."
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3631
+#, fuzzy
+msgid "Documentation:"
+msgstr "Prozkoumejte dokumentaci."
+
+#: wp-live-chat-support/wp-live-chat-support.php:3633
+msgid "Minimum System Requirements"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3634
+msgid "Do I have to be logged into the dashboard to chat with visitors?"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3635
+#, fuzzy
+msgid "What are Quick Responses?"
+msgstr "Přiřadit rychlou odezvu"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3636
+msgid "Can I use this plugin on my multi-site?"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3637
+msgid "How do I disable APC Object Cache?"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3638
+msgid "Do you have a mobile app?"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3639
+msgid "How do I check for JavaScript errors on my site?"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3643
+msgid "Troubleshooting"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3645
+msgid ""
+"WP Live Chat Support  has a diverse and wide range of features which may, "
+"from time to time, run into conflicts with the thousands of themes and other "
+"plugins on the market."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3646
+msgid "Common issues:"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3648
+msgid "The chat box doesnt show up"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3649
+msgid "The chat window disappears when I logout or go offline"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3650
+msgid "This chat has already been answered. Please close the chat window"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3651
+#, fuzzy
+msgid "Messages only show when I refresh the chat window"
+msgstr "Uživatel otevřel okno chat-u"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3652
+msgid "I'm not getting any notifications of a new chat"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3653
+msgid "The chat window never goes offline"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3659
+msgid "Still need help? Use one of these links below."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3661
+msgid "Support desk"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3662
+msgid "Contact us"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3677
+#, fuzzy
+msgid "Initiate Chats"
+msgstr "Začít diskusi"
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3677
+#: wp-live-chat-support/wp-live-chat-support.php:3678
+#, fuzzy
+msgid "Buy the Pro add-on now (once off payment)."
+msgstr ""
+"Kupte si verzi \\\"Pro add-on\\\" jen za jednorázový poplatek $29.95. "
+"Aktualizace je zdarma, bez časového omezení."
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3678
+#, fuzzy
+msgid "Multiple Chats"
+msgstr "Více agentů / referentů"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3678
+msgid "accept and handle multiple chats."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3679
+msgid "Add unlimited agents"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3679
+#, fuzzy
+msgid " with the Pro add-on of WP Live Chat Support"
+msgstr "S verzí Pro add-on of WP Live Chat Support, "
+
+#: wp-live-chat-support/wp-live-chat-support.php:3679
+msgid "(once off payment)."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3693
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%1$s\" target=\"_blank\">WP Live Chat Support</"
+"a>! Please <a href=\"%2$s\" target=\"_blank\">rate us</a> on <a href=\"%2$s"
+"\" target=\"_blank\">WordPress.org</a>"
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:3698
+#, fuzzy
+msgid "WP Live Chat Support is a product of"
+msgstr "WP Live Chat Podpora Zpětná vazba"
+
+#: wp-live-chat-support/wp-live-chat-support.php:3802
+msgid "Add as many agents as you need with the "
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3802
+msgid "Pro version."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3806
+#, php-format
+msgid "Change the default chat agent from <strong>%1$s</strong> to "
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3905
+msgid "Verify"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3908
+msgid "Status: "
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3911
+msgid "Valid"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3912
+#: wp-live-chat-support/wp-live-chat-support.php:3916
+msgid "Manage this extension"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3915
+msgid "Invalid"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3921
+msgid "Linked Domains"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3955
+#: wp-live-chat-support/wp-live-chat-support.php:4023
+msgid ""
+"Get unlimited agents, initiate chats, advanced chat box control, encryption "
+"and more with the Pro add-on."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3957
+#: wp-live-chat-support/wp-live-chat-support.php:3979
+#: wp-live-chat-support/wp-live-chat-support.php:4000
+#: wp-live-chat-support/wp-live-chat-support.php:4025
+msgid "Get this extension"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3968
+msgid "Mobile & Desktop App"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3977
+msgid ""
+"Answer chats directly from your mobile phone or desktop with our mobile app "
+"and desktop client"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:3998
+msgid ""
+"Reduce the resources required by your server - use our cloud server to host "
+"your chats."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4046
+#: wp-live-chat-support/wp-live-chat-support.php:4067
+msgid "Relevant Extensions"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4086
+msgid "Powered By WP Live Chat Support"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4232
+msgid ""
+"Your API Key is Invalid. You are not eligible for future updates. Please "
+"enter your API key <a href=\"admin.php?page=wplivechat-menu-api-keys-page"
+"\">here</a>."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4318
+msgid "Advanced settings"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4327
+msgid "Only change these settings if you are experiencing performance issues."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4337
+msgid "What type of environment are you on?"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4341
+msgid "Shared hosting - low level plan"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4342
+msgid "Shared hosting - normal plan"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4343
+msgid "VPS"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4344
+msgid "Dedicated server"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4350
+msgid "Long poll setup"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4350
+msgid ""
+"Only change these if you are an experienced developer or if you have "
+"received these figures from the Code Cabin Support team."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4358
+msgid "Iterations"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4362
+msgid "Sleep between iterations"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4365
+msgid "microseconds"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4388
+msgid "View comprehensive reports regarding your chat and agent activity."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4391
+msgid "Reports"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4393
+msgid "Chat statistics"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4394
+msgid "Popular pages"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4395
+msgid ""
+"ROI reporting and tracking (identify which agents produce the most sales)"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4396
+msgid ""
+"User experience ratings (identify which agents produce the happiest "
+"customers)"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4406
+#: wp-live-chat-support/wp-live-chat-support.php:4468
+msgid "Get all this and more in the "
+msgstr ""
+
+# @ wplivechat
+#: wp-live-chat-support/wp-live-chat-support.php:4406
+#: wp-live-chat-support/wp-live-chat-support.php:4468
+#, fuzzy
+msgid "Pro add-on"
+msgstr "Pro Add-on verze"
+
+#: wp-live-chat-support/wp-live-chat-support.php:4407
+#: wp-live-chat-support/wp-live-chat-support.php:4469
+msgid "Upgrade Now"
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4450
+msgid ""
+"Create custom data triggers when users view a certain page, spend a certain "
+"amount of time on a page, scroll past a certain point or when their mouse "
+"leaves the window."
+msgstr ""
+
+#: wp-live-chat-support/wp-live-chat-support.php:4453
+msgid "Trigger Types"
+msgstr ""
+
+# @ wplivechat
+#~ msgid "We'd love to hear your comments and/or suggestions"
+#~ msgstr ""
+#~ "Byli by jsme rádi, kdyby jste nám poslali vaše návrhy a/nebo komentáře"
+
+# @ wplivechat
+#~ msgid "Get offline messages with the "
+#~ msgstr "Obdržte offline zprávy z "
+
+# @ wplivechat
+#~ msgid "Offline text"
+#~ msgstr "Offline text"
+
+# @ wplivechat
+#~ msgid "Edit these text fields using the "
+#~ msgstr "Upravte tato textová pole a použijte"
+
+# @ wplivechat
+#~ msgid "First section text"
+#~ msgstr "Text první sekce"
+
+# @ wplivechat
+#~ msgid "Second section text"
+#~ msgstr "Text druhé sekce"
+
+# @ wplivechat
+#~ msgid "Reactivate chat section text"
+#~ msgstr " Znovu se aktivuje chat textová část"
+
+# @ wplivechat
+#, fuzzy
+#~ msgid "Pro version for only $19.95 once off."
+#~ msgstr "pouze Pro verze"
+
+# @ wplivechat
+#, fuzzy
+#~ msgid "Provide Instant Live Chat Support!"
+#~ msgstr "WP Live Chat Podpora Zpětná vazba"
+
+# @ wplivechat
+#~ msgid ""
+#~ "You can update your plugin <a href='./update-core.php'>here</a>, <a "
+#~ "href='./plugins.php'>here</a> or <a href='http://wp-livechat.com/get-"
+#~ "updated-version/' target='_BLANK'>here</a>."
+#~ msgstr ""
+#~ "Můžete aktualizovat svůj plugin <a href='./update-core.php'>here</a>, <a "
+#~ "href='./plugins.php'>here</a> or <a href='http://wp-livechat.com/get-"
+#~ "updated-version/' target='_BLANK'>zde</a>."
+
+# @ wplivechat
+#~ msgid "User has closed and ended the chat"
+#~ msgstr "Uživatel zavřel okno a ukončil chat"
+
+# @ wplivechat
+#~ msgid "Get"
+#~ msgstr "Obdržte"
+
+# @ wplivechat
+#~ msgid "Multiple agent support"
+#~ msgstr "Podpora více agentů / referentů"
+
+# @ wplivechat
+#~ msgid "Experiencing problems with the plugin?"
+#~ msgstr "Dochází k problémům s plugin-em?"
+
+# @ wplivechat
+#~ msgid "Or ask a question on our"
+#~ msgstr "a nebo se obraťte na"
+
+# @ wplivechat
+#~ msgid ""
+#~ "Buy the Pro add-on now for only $29.95 once off. Free Updates Forever."
+#~ msgstr ""
+#~ "Kupte si verzi \\\"Pro add-on\\\" jen za jednorázový poplatek $29.95. "
+#~ "Aktualizace je zdarma, bez časového omezení."

@@ -1,0 +1,27 @@
+{
+    "name": "onepageexpress/wp-companion",
+    "description": "OnePageExpress themes companion plugin",
+    "type": "library",
+    "license": "GPL2",
+    "authors": [
+        {
+            "name": "Horea Radu",
+            "email": "horea.radu@extendstudio.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "extra": {
+        "installer-paths": {
+            "vendor/{$name}": [
+                "type:wordpress-plugin"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "OnePageExpress\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-07 13:22+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: learnpress-buddypress.php:51
+#, php-format
+msgid ""
+"<strong>%s</strong> addon version %s requires %s version %s or higher is "
+"<strong>installed</strong> and <strong>activated</strong>."
+msgstr ""
+
+#: learnpress-buddypress.php:52
+msgid "LearnPress BuddyPress"
+msgstr ""
+
+#: learnpress-buddypress.php:54
+msgid "LearnPress"
+msgstr ""
+
+#: inc/functions.php:59
+msgid "<"
+msgstr ""
+
+#: inc/functions.php:60
+msgid ">"
+msgstr ""
+
+#: inc/load.php:61 inc/load.php:105
+msgid "Courses"
+msgstr ""
+
+#: inc/load.php:69
+msgid "Quizzes"
+msgstr ""
+
+#: inc/load.php:77
+msgid "Orders"
+msgstr ""
+
+#: inc/load.php:117
+msgid "All courses"
+msgstr ""
+
+#: inc/load.php:344
+#, php-format
+msgid ""
+"<strong>BuddyPress</strong> addon for <strong>LearnPress</strong> requires "
+"%s plugin is <strong>installed</strong> and <strong>activated</strong>."
+msgstr ""
+
+#: templates/profile/courses.php:26
+msgid "Own"
+msgstr ""
+
+#: templates/profile/courses.php:27
+msgid "Purchased"
+msgstr ""
+
+#: templates/profile/courses.php:44
+msgid "You haven't got any courses yet!"
+msgstr ""
+
+#: templates/profile/courses.php:67
+msgid "Course"
+msgstr ""
+
+#: templates/profile/courses.php:68 templates/profile/quizzes.php:31
+msgid "Date"
+msgstr ""
+
+#: templates/profile/courses.php:69
+msgid "Passing Grade"
+msgstr ""
+
+#: templates/profile/courses.php:70 templates/profile/quizzes.php:32
+msgid "Progress"
+msgstr ""
+
+#: templates/profile/courses.php:116
+msgid "No courses!"
+msgstr ""
+
+#: templates/profile/quizzes.php:30
+msgid "Quiz"
+msgstr ""
+
+#: templates/profile/quizzes.php:33
+msgid "Interval"
+msgstr ""
+
+#: templates/profile/quizzes.php:75
+msgid "No quizzes!"
+msgstr ""

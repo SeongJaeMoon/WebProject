@@ -1,0 +1,151 @@
+/**/
+.moxie-shim.moxie-shim-html5{
+	width: 0 !important;
+	height: 0 !important;
+}
+#import-uploader-select{
+	display: inline-block;
+	height: 40px;
+	border: 3px dashed #DDD;
+	text-decoration: none;
+	text-align: center;
+	line-height: 36px;
+	font-size: 20px;
+	color: #AAA;
+	padding: 0 20px;
+	outline: none;
+	box-shadow: none;
+}
+#import-uploader-select.has-file{
+	border-color: #0073aa;
+}
+#import-uploader-select:hover{
+	border: 3px dashed #008ec2;
+}
+#import-start-upload,
+#import-start-upload:before{
+	display: inline-block;
+	width: 46px;
+	height: 46px;
+	background: #dddddd;
+	font-size: 30px;
+	line-height: 42px;
+	color: #FFF;
+	box-shadow: none;
+	outline: none;
+}
+#import-start-upload.has-file,
+#import-start-upload.has-file:before{
+	background: #0073aa;
+}
+#import-start-upload:hover,
+#import-start-upload:hover:before{
+	background: #008ec2;
+}
+
+.list-export-courses {
+
+}
+
+.list-export-courses th,
+.list-export-courses td {
+	text-align: left;
+	padding: 5px 20px 5px 0;
+}
+
+.lpie-error-message {
+	color: #FF0000;
+}
+
+#lpie-button-cancel,
+#lpie-button-back-step {
+}
+
+#lpie-button-cancel:hover,
+#lpie-button-back-step:hover {
+	opacity: 1;
+}
+
+.learn-press-export-import {
+
+}
+
+.learn-press-export-import > li {
+	float: left;
+	width: 50%;
+}
+
+.learn-press-export-import > li.import-section > form {
+	margin-left: 10px;
+}
+
+.learn-press-export-import > li.export-section > form {
+	margin-right: 10px;
+}
+
+.learn-press-export-import > li.import-section {
+	float: right;
+}
+
+.learn-press-export-import:after {
+	display: block;
+	content: '';
+	clear: both;
+}
+
+.learn-press-export-import > li fieldset {
+	border: 1px solid #DDD;
+	padding: 20px;
+	background-color: #FFF;
+}
+
+.learn-press-export-import > li legend {
+	font-size: 18px;
+	font-weight: bold;
+	color: #999;
+}
+
+.form-options {
+
+}
+
+.form-options > li {
+	margin: 0 0 15px 0;
+}
+
+.form-options > li > label {
+	display: block;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+#learn-press-remove-files {
+	text-decoration: none;
+	font-weight: bold;
+	color: #FF0000;
+	margin-left: 5px;
+}
+
+#learn-press-check-all-files {
+	margin: 2px 0 0 0;
+}
+
+#lpr-import-upload-form {
+	display: none;
+	border: 1px solid #DDD;
+	padding: 20px;
+	background-color: #FFF;
+	margin: 0 0 10px;
+	border-radius: 4px;
+	position: relative;
+}
+
+#lpr-import-upload-form > a {
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	font-size: 40px;
+	text-decoration: none;
+	font-weight: normal;
+	color: red;
+}

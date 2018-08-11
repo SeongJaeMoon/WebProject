@@ -1,0 +1,982 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Live Chat Support\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-24 09:55+0000\n"
+"PO-Revision-Date: 2016-11-24 13:32+0000\n"
+"Last-Translator: mbresa <teuta@zetta.tech>\n"
+"Language-Team: Albanian\n"
+"Language: sq\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ajax_new.php:286
+msgid "Admin has closed and ended the chat"
+msgstr "Admini e ka mbyllur dhe përfunduar bisedën"
+
+#: ajax_new.php:310
+msgid "There is No Answer. Please Try Again Later"
+msgstr "Nuk ka përgjigje. Ju lutem provoni përsëri më vonë"
+
+#: functions.php:277
+msgid "No chat sessions available at the moment"
+msgstr ""
+"\n"
+"Asnje seancë e bisedës nuk është në dispozicion në këtë moment"
+
+#: functions.php:279
+msgid "Active Chats"
+msgstr "Bisedat Aktive"
+
+#: functions.php:294 functions.php:486 modules/api/wplc-api-functions.php:458
+msgid "IP Address not recorded"
+msgstr "IP Adresat nuk janë regjistruar"
+
+#: functions.php:296 functions.php:488
+msgid "Whois for"
+msgstr "Kush është për  "
+
+#: functions.php:301 functions.php:443 functions.php:1359
+msgid "Accept Chat"
+msgstr "Pranoj Bisedë "
+
+#: functions.php:303 functions.php:303
+msgid "Incoming Chat"
+msgstr "Bisedë hyrëse"
+
+#: functions.php:303
+msgid "You have an incoming chat."
+msgstr "Ju keni një bisedë hyrëse"
+
+#: functions.php:307
+msgid "Open Chat Window"
+msgstr "Hap Dritaren e Bisedës"
+
+#: functions.php:309 functions.php:309
+msgid "Chat Active"
+msgstr "Biseda Aktive "
+
+#: functions.php:309
+msgid "This chat is active"
+msgstr "Kjo bisedë është aktive"
+
+#: functions.php:332
+msgid "Site Info"
+msgstr "Info e Faqes"
+
+#: functions.php:334
+msgid "Chat initiated on:"
+msgstr "Biseda ka filluar në:"
+
+#: functions.php:338
+msgid "Advanced Info"
+msgstr "Info e Avancuar"
+
+#: functions.php:340
+msgid "Browser:"
+msgstr "Shfletuesi:"
+
+#: functions.php:341
+msgid "IP Address:"
+msgstr "IP Adresa:"
+
+#: functions.php:448
+msgid "Open Chat"
+msgstr "Hap Bisedën"
+
+#: functions.php:451
+msgid "Only chat agents can accept chats"
+msgstr "Vetëm agjentat e bisedës mund të pranojnë bisedë "
+
+#: functions.php:511 modules/api/wplc-api-functions.php:474
+msgid "New"
+msgstr "Tjetër"
+
+#: functions.php:513 modules/api/wplc-api-functions.php:476
+msgid "Returning"
+msgstr "Duke kthyer"
+
+#: functions.php:654
+msgid "Welcome. How may I help you?"
+msgstr "Mirë se vini. Si mund të ju ndihmojmë?"
+
+#: functions.php:1003
+msgid "complete"
+msgstr "e kryer"
+
+#: functions.php:1006
+msgid "pending"
+msgstr ""
+"\n"
+"në pritje"
+
+#: functions.php:1009
+msgid "active"
+msgstr "aktive"
+
+#: functions.php:1012
+msgid "deleted"
+msgstr "e fshirë"
+
+#: functions.php:1015
+msgid "browsing"
+msgstr "duke shfletuar"
+
+#: functions.php:1018
+msgid "requesting chat"
+msgstr "duke kërkuar bisedën"
+
+#: functions.php:1021
+msgid "Chat Ended - User still browsing"
+msgstr "Biseda ka Përfunduar - Përdoruesi ende po shfleton"
+
+#: functions.php:1024
+msgid "User is browsing but doesn't want to chat"
+msgstr "Përdoruesi është duke shfletuar por nuk dëshiron të bisedojë"
+
+#: functions.php:1205
+msgid "WP Live Chat Support - Offline Message from "
+msgstr "Ndihma e WP Live Chat - Mesazhet në linjë nga "
+
+#: functions.php:1206 functions.php:1620 includes/deprecated.php:192 
+#: includes/deprecated.php:391 includes/settings_page.php:256
+msgid "Name"
+msgstr "Emri"
+
+#: functions.php:1207 functions.php:1621 includes/deprecated.php:193 
+#: includes/deprecated.php:392
+msgid "Email"
+msgstr ""
+"\n"
+"Email"
+
+#: functions.php:1208
+msgid "Message"
+msgstr "Mesazhi"
+
+#: functions.php:1209
+msgid "Via WP Live Chat Support"
+msgstr "Nëpërmjet ndihmës WP Live Chat"
+
+#: functions.php:1359
+msgid "Get Pro Add-on to accept more chats"
+msgstr "Merrni Pro Add-on për të pranuar më shumë biseda"
+
+#: functions.php:1597
+msgid "Error: Could not delete chat"
+msgstr "Gabim: Nuk mund të fshni bisedën"
+
+#: functions.php:1601
+msgid "Chat Deleted"
+msgstr "Biseda është fshirë"
+
+#: functions.php:1608
+msgid "Are you sure you would like to delete this chat?"
+msgstr "A jeni të sigurtë që doni të fshini këtë bisedë"
+
+#: functions.php:1609 includes/settings_page.php:97
+msgid "Yes"
+msgstr "Po"
+
+#: functions.php:1609 includes/settings_page.php:98
+msgid "No"
+msgstr "Jo"
+
+#: functions.php:1619
+msgid "Date"
+msgstr "Data"
+
+#: functions.php:1622
+msgid "URL"
+msgstr "URL"
+
+#: functions.php:1623
+msgid "Action"
+msgstr "Veprim"
+
+#: functions.php:1650
+msgid "You have not missed any chat requests."
+msgstr "Nuk keni humbur asnjë kërkesë të bisedës"
+
+#: functions.php:1843
+msgid "Open chat window via"
+msgstr "Hapni dritaren e bisedës nëpërmjet"
+
+#: functions.php:1847
+msgid "Click"
+msgstr "Kliko"
+
+#: functions.php:1848
+msgid "Hover"
+msgstr "Pezull"
+
+#: functions.php:1850
+msgid "element with"
+msgstr "elementi me"
+
+#: functions.php:1852
+msgid "Class"
+msgstr "Klasa"
+
+#: functions.php:1853
+msgid "ID"
+msgstr "ID"
+
+#: includes/deprecated.php:151 includes/deprecated.php:348
+msgid "Questions?"
+msgstr "Pyetjet?"
+
+#: includes/deprecated.php:151 includes/deprecated.php:348
+msgid "Chat with us"
+msgstr "Bisedo me ne"
+
+#: includes/deprecated.php:158 includes/deprecated.php:355
+msgid "Start Live Chat"
+msgstr "Fillo Bisedë Direkte"
+
+#: includes/deprecated.php:210 includes/deprecated.php:410
+msgid "Start Chat"
+msgstr "Fillo bisedën"
+
+#: includes/deprecated.php:213 includes/deprecated.php:413
+msgid "Connecting you to a sales person. Please be patient."
+msgstr ""
+"\n"
+"Duke ju lidhur me një person të shitjes. Ju lutemi bëhuni të durueshëm."
+
+#: includes/deprecated.php:216 includes/deprecated.php:416
+msgid "Reactivating your previous chat..."
+msgstr "Duke riaktivizuar bisedën e mëparshme..."
+
+#: includes/deprecated.php:221 includes/deprecated.php:421
+msgid "Press ENTER to send your message"
+msgstr "Shtypni ENTER për të dërguar mesazhin"
+
+#: includes/deprecated.php:225 includes/deprecated.php:425
+msgid "Send"
+msgstr "Dërgo"
+
+#: includes/feedback-page.php:6
+msgid "WP Live Chat Support Feedback"
+msgstr "Reagimet e WP Live Chat Support"
+
+#: includes/feedback-page.php:11
+msgid "Your Name"
+msgstr "Emri Juaj"
+
+#: includes/feedback-page.php:19
+msgid "Your Email"
+msgstr "Email-i Juaj"
+
+#: includes/feedback-page.php:27
+msgid "Your Website"
+msgstr "Webfaqja Juaj"
+
+#: includes/feedback-page.php:35
+msgid "Feedback"
+msgstr "Reagim"
+
+#: includes/feedback-page.php:46
+msgid "Send Feedback"
+msgstr "Dërgo Reagim"
+
+#: includes/settings_page.php:26
+msgid "WP Live Chat Support Settings"
+msgstr "Suazat e WP Live Chat Support"
+
+#: includes/settings_page.php:53
+msgid "General Settings"
+msgstr "Suazat E Përgjithshme"
+
+#: includes/settings_page.php:58
+msgid "Chat Box"
+msgstr "Kutia e Bisedës"
+
+#: includes/settings_page.php:63 includes/settings_page.php:400
+msgid "Offline Messages"
+msgstr "Mesazhet në Linjë"
+
+#: includes/settings_page.php:68 includes/settings_page.php:541
+msgid "Styling"
+msgstr "Duke Stiluar"
+
+#: includes/settings_page.php:73
+msgid "Agents"
+msgstr "Agjentët"
+
+#: includes/settings_page.php:78
+msgid "Blocked Visitors"
+msgstr "Vizitorët e Bllokuar"
+
+#: includes/settings_page.php:91
+msgid "Main Settings"
+msgstr "Suazat Kryesore"
+
+#: includes/settings_page.php:94
+msgid "Chat enabled"
+msgstr "Biseda u mundësua"
+
+#: includes/settings_page.php:116
+msgid "Hide Chat"
+msgstr "Mbyll Bisedën"
+
+#: includes/settings_page.php:116
+msgid "Hides chat for 24hrs when user clicks X"
+msgstr "E fsheh bisedën për 24 orë kur përdoruesi klikon X"
+
+#: includes/settings_page.php:125
+msgid "Require Name And Email"
+msgstr "Kërkohet Emri dhe Emali-i"
+
+#: includes/settings_page.php:125
+msgid ""
+"Users will have to enter their Name and Email Address when starting a chat"
+msgstr ""
+"Përdoruesi duhet të shkruaj Emrin edhe Email Adresën  kur të fillon bisedën"
+
+#: includes/settings_page.php:133
+msgid "Input Field Replacement Text"
+msgstr "Fushë Input e Zëvendësimit të Tekstit"
+
+#: includes/settings_page.php:133
+msgid "This is the text that will show in place of the Name And Email fields"
+msgstr ""
+"Ky është teksti që do të shfaqet në vend të fushës së Emrit dhe Email-it"
+
+#: includes/settings_page.php:141
+msgid "Use Logged In User Details"
+msgstr "Përdor Logged In User Details"
+
+#: includes/settings_page.php:141
+msgid ""
+"A user's Name and Email Address will be used by default if they are logged "
+"in."
+msgstr ""
+"Emri edhe Email Adresa e Përdoruesit do të shfrytëzohen nëse ato jane të "
+"kyqur."
+
+#: includes/settings_page.php:149
+msgid "Enable On Mobile Devices"
+msgstr "Aktivizoje në pajisjet mobile"
+
+#: includes/settings_page.php:149
+msgid ""
+"Disabling this will mean that the Chat Box will not be displayed on mobile "
+"devices. (Smartphones and Tablets)"
+msgstr ""
+"Nëse nuk e mundësoni këtë don të thotë që Kutia e Bisedës nuk do të shfaqet "
+"në pajisjet mobile.(Telefona të Menqur dhe Tableta)"
+
+#: includes/settings_page.php:157
+msgid "Record a visitor's IP Address"
+msgstr "Regjistro IP Adresën e Vizitorit"
+
+#: includes/settings_page.php:157
+msgid "Disable this to enable anonymity for your visitors"
+msgstr "Pamundëso këtë për të mundësuar anonimitetin për vizitorët tuaj"
+
+#: includes/settings_page.php:165
+msgid "Play a sound when a new message is received"
+msgstr "Lësho zë kur të arrijë mesazhi i ri"
+
+#: includes/settings_page.php:165
+msgid ""
+"Disable this to mute the sound that is played when a new chat message is "
+"received"
+msgstr "Pamundësoje këtë  për të ndalur zërin kur të arrijë mesazhi i ri"
+
+#: includes/settings_page.php:175
+msgid "Include chat window on the following pages"
+msgstr "Përfshije dritaren e bisedës në faqet vijuese"
+
+#: includes/settings_page.php:175
+msgid ""
+"Show the chat window on the following pages. Leave blank to show on all. "
+"(Use comma-separated Page ID's)"
+msgstr "Shfaqe dritaren e bisedës në faqet vijuese"
+
+#: includes/settings_page.php:181 includes/settings_page.php:196 
+#: includes/settings_page.php:245 includes/settings_page.php:262 
+#: includes/settings_page.php:278 includes/settings_page.php:294 
+#: includes/settings_page.php:310 includes/settings_page.php:327 
+#: includes/settings_page.php:372 includes/settings_page.php:385
+msgid "available in the"
+msgstr "Mundësohet në"
+
+#: includes/settings_page.php:182 includes/settings_page.php:182 
+#: includes/settings_page.php:197 includes/settings_page.php:197 
+#: includes/settings_page.php:246 includes/settings_page.php:246 
+#: includes/settings_page.php:263 includes/settings_page.php:263 
+#: includes/settings_page.php:279 includes/settings_page.php:279 
+#: includes/settings_page.php:295 includes/settings_page.php:295 
+#: includes/settings_page.php:311 includes/settings_page.php:311 
+#: includes/settings_page.php:328 includes/settings_page.php:328 
+#: includes/settings_page.php:373 includes/settings_page.php:373 
+#: includes/settings_page.php:386 includes/settings_page.php:386
+msgid "Pro Add-on"
+msgstr "Pro Add-on"
+
+#: includes/settings_page.php:183 includes/settings_page.php:198 
+#: includes/settings_page.php:247 includes/settings_page.php:264 
+#: includes/settings_page.php:280 includes/settings_page.php:296 
+#: includes/settings_page.php:312 includes/settings_page.php:329 
+#: includes/settings_page.php:374 includes/settings_page.php:387
+msgid "only"
+msgstr "vetëm"
+
+#: includes/settings_page.php:190
+msgid "Exclude chat window on the following pages"
+msgstr "Mos e përfshijë dritaren e bisedës në faqet vijuese "
+
+#: includes/settings_page.php:190
+msgid ""
+"Do not show the chat window on the following pages. Leave blank to show on "
+"all. (Use comma-separated Page ID's)"
+msgstr ""
+"Mos e shfaq dritaren e bisedës në faqet vijuese . Lëre të zbrazët që të "
+"shfaqet tek krejt.(Përdori ID-të e Faqeve të ndara me presje)"
+
+#: includes/settings_page.php:213
+msgid "Chat Window Settings"
+msgstr "Suzat e Dritares së Bisedës"
+
+#: includes/settings_page.php:216
+msgid "Chat box alignment"
+msgstr "Vendosja e kutisë së Bisedës"
+
+#: includes/settings_page.php:219
+msgid "Bottom left"
+msgstr "Poshtë në të majtë"
+
+#: includes/settings_page.php:220
+msgid "Bottom right"
+msgstr "Poshtë në të djathtë"
+
+#: includes/settings_page.php:221
+msgid "Left"
+msgstr "Majtas"
+
+#: includes/settings_page.php:222
+msgid "Right"
+msgstr "Djathtas"
+
+#: includes/settings_page.php:228
+msgid "Auto Pop-up"
+msgstr "Pop-up Auto "
+
+#: includes/settings_page.php:228
+msgid ""
+"Expand the chat box automatically (prompts the user to enter their name and "
+"email address)."
+msgstr ""
+"Shpalos kutinë e bisedës automatikisht (ia mundëson përdoruesit për shkruar "
+"emrin e tyre dhe email adresën).\n"
+
+#: includes/settings_page.php:239
+msgid "Display typing indicator"
+msgstr "Shfaq indikatorin typing(duke shkruar)"
+
+#: includes/settings_page.php:239
+msgid "Display a typing animation as soon as someone starts typing."
+msgstr "Shfaq typing(duke shkruar) animim posa dikush fillon te shkruaj."
+
+#: includes/settings_page.php:272
+msgid "Picture"
+msgstr "Foto"
+
+#: includes/settings_page.php:275 includes/settings_page.php:291
+msgid "Upload Image"
+msgstr "Ngarko Foto"
+
+#: includes/settings_page.php:288
+msgid "Logo"
+msgstr "Llogoja"
+
+#: includes/settings_page.php:304
+msgid "Chat delay (seconds)"
+msgstr "Vonesa e Bisedës (sekondat)"
+
+#: includes/settings_page.php:320
+msgid "Chat notifications"
+msgstr "Njoftimet e bisedës"
+
+#: includes/settings_page.php:324
+msgid "Alert me via email as soon as someone wants to chat"
+msgstr "Njoftom nëpërmjet email-it posa dikush dëshiron të bisedojë"
+
+#: includes/settings_page.php:338
+msgid "Display name and avatar in chat"
+msgstr "Shfaq emrin dhe avatarin në bisedë"
+
+#: includes/settings_page.php:338
+msgid "Display the agent and user name above each message in the chat window."
+msgstr ""
+"Shfaq emrin e agjentit dhe të përdoruesit sipër çdo mesazhi në dritaren e "
+"bisedës"
+
+#: includes/settings_page.php:348
+msgid "Only show the chat window to users that are logged in"
+msgstr "Shfaq dritaren e bisedës vetëm tek përdoruesit që janë të kyqur "
+
+#: includes/settings_page.php:348
+msgid ""
+"By checking this, only users that are logged in will be able to chat with "
+"you."
+msgstr ""
+"Duke e klikuar këtë, vetëm përdoruesit që janë të kyqur mund të kontaktojnë "
+"me ty."
+
+#: includes/settings_page.php:362
+msgid "Social"
+msgstr "Sociale"
+
+#: includes/settings_page.php:367
+msgid "Facebook URL"
+msgstr "URL i Facebook-ut"
+
+#: includes/settings_page.php:367
+msgid "Link your Facebook page here. Leave blank to hide"
+msgstr ""
+"Lidhe këtu faqen e Facebook-ut tuaj. Lëre të zbrazët nëse e doni të fshehur"
+
+#: includes/settings_page.php:369
+msgid "Facebook URL..."
+msgstr "URL i Facebook-ut..."
+
+#: includes/settings_page.php:380
+msgid "Twitter URL"
+msgstr "URL i Twitter"
+
+#: includes/settings_page.php:380
+msgid "Link your Twitter page here. Leave blank to hide"
+msgstr ""
+"Lidhe këtu faqen e Twitter-it tuaj. Lëre të zbrazët nëse e doni të fshehur"
+
+#: includes/settings_page.php:382
+msgid "Twitter URL..."
+msgstr "URL i Twitter"
+
+#: includes/settings_page.php:404
+msgid "Do not allow users to send offline messages"
+msgstr "Mos lejoni përdoruesit të dërgojnë mesazhe që sjanë në linjë"
+
+#: includes/settings_page.php:404
+msgid ""
+"The chat window will be hidden when it is offline. Users will not be able to "
+"send offline messages to you"
+msgstr ""
+"Dritarja e bisedës do te fshehet kur nuk është në linjë. Përdoruesit nuk do "
+"të munden të dërgojne mesazhe që sjanë në linjë"
+
+#: includes/settings_page.php:416
+msgid "Email Address"
+msgstr "Email Adresa"
+
+#: includes/settings_page.php:416
+msgid ""
+"Email address where offline messages are delivered to. Use comma separated "
+"email addresses to send to more than one email address"
+msgstr ""
+"Email adresa ku mesazhet offline dërgohen. Përdor email adresa të ndarja me "
+"presje për të dërguar më shumë se një email adresë."
+
+#: includes/settings_page.php:428
+msgid "Sending Method"
+msgstr "Metoda e Dërgimit"
+
+#: includes/settings_page.php:429
+msgid "WP Mail"
+msgstr "WP Mail(Posta)"
+
+#: includes/settings_page.php:430
+msgid "PHP Mailer"
+msgstr "PHP Mailer(Postuesi)"
+
+#: includes/settings_page.php:446
+msgid "Host"
+msgstr "Host"
+
+#: includes/settings_page.php:454
+msgid "Port"
+msgstr "Port"
+
+#: includes/settings_page.php:462
+msgid "Username"
+msgstr "Emri i përdoruesit"
+
+#: includes/settings_page.php:470
+msgid "Password"
+msgstr "Fjalëkalim"
+
+#: includes/settings_page.php:479
+msgid "Offline Chat Box Title"
+msgstr "Titulli i Kutisë së Bisedës kur është offline"
+
+#: includes/settings_page.php:487
+msgid "Offline Text Fields"
+msgstr "Fushat e Tekstit Offline"
+
+#: includes/settings_page.php:546
+msgid "Choose a theme"
+msgstr "Zgjidhni theme-in"
+
+#: includes/settings_page.php:551 includes/settings_page.php:551 
+#: includes/settings_page.php:552
+msgid "Classic"
+msgstr "Klasike"
+
+#: includes/settings_page.php:555 includes/settings_page.php:555 
+#: includes/settings_page.php:556
+msgid "Modern"
+msgstr "Moderne"
+
+#: includes/settings_page.php:572
+msgid "Colour Scheme"
+msgstr "Ngjyra e Skemës"
+
+#: includes/settings_page.php:627
+msgid "Choose"
+msgstr "Zgjidh"
+
+#: includes/settings_page.php:628
+msgid "Your"
+msgstr "Juaj"
+
+#: includes/settings_page.php:629
+msgid "Colors"
+msgstr "Ngjyrat"
+
+#: includes/settings_page.php:630
+msgid "Below"
+msgstr "Poshtë"
+
+#: includes/settings_page.php:652
+msgid "Palette Color 1"
+msgstr "Paleta e Ngjyrave 1"
+
+#: includes/settings_page.php:658
+msgid "Palette Color 2"
+msgstr "Paleta e Ngjyrave 2"
+
+#: includes/settings_page.php:664
+msgid "Palette Color 3"
+msgstr "Paleta e Ngjyrave 3"
+
+#: includes/settings_page.php:670
+msgid "Palette Color 4"
+msgstr "Paleta e Ngjyrave 4"
+
+#: includes/settings_page.php:677
+msgid "I'm using a localization plugin"
+msgstr "Jam duke përdorur plugin lokalizimi"
+
+#: includes/settings_page.php:685
+msgid "First Section Text"
+msgstr "Pjesa e Parë e Tekstit"
+
+#: includes/settings_page.php:692
+msgid "Intro Text"
+msgstr "Teksti Hyrës"
+
+#: includes/settings_page.php:698
+msgid "Second Section Text"
+msgstr "Pjesa e Dytë e Tekstit"
+
+#: includes/settings_page.php:705
+msgid "Reactivate Chat Section Text"
+msgstr "Riaktivizo pjesën e tekstit të bisedës"
+
+#: includes/settings_page.php:713
+msgid "User chat welcome"
+msgstr "Mirëseardhja e përdoruesit në bisedë"
+
+#: includes/settings_page.php:719
+msgid "Other text"
+msgstr "Teksti tjetër"
+
+#: includes/settings_page.php:721
+msgid "This text is shown above the user chat input field"
+msgstr "Ky tekst shfaqet sipër fushës input të bisedës së përdoruesit"
+
+#: includes/settings_page.php:749
+msgid "Choose an animation"
+msgstr "Zdhidh një animacion"
+
+#: includes/settings_page.php:757
+msgid "Slide Up"
+msgstr "Rrëshqitje Lart"
+
+#: includes/settings_page.php:763
+msgid "Slide From The Side"
+msgstr "Rrëshqitje Anash"
+
+#: includes/settings_page.php:769
+msgid "Fade In"
+msgstr "Zbehje"
+
+#: includes/settings_page.php:775
+msgid "No Animation"
+msgstr "Pa Animacion"
+
+#: includes/settings_page.php:802
+msgid "Blocked Visitors - Based on IP Address"
+msgstr "Vizitorët e Bllokuar - Bazuar në IP Adresa"
+
+#: includes/settings_page.php:803
+msgid "Enter each IP Address you would like to block on a new line"
+msgstr ""
+"Shënoje në rresht të ri secilën IP Adresë që do dnë rresht të dëshiroje ta "
+"bllokoje "
+
+#: includes/settings_page.php:814
+msgid ""
+"Blocking a user's IP Address here will hide the chat window from them, "
+"preventing them from chatting with you. Each IP Address must be on a new line"
+msgstr ""
+"Nëse bllokoni IP Adresat e përdoruesit këtu, do ta fshehje dritaren e "
+"bisedës për ta, dhe do ta ndaloje bisedën me ta. Secila IP Adresë duhet të "
+"jetë në rresht të ri."
+
+#: includes/settings_page.php:822
+msgid "Save Settings"
+msgstr "Ruaj Suazat"
+
+#: includes/surveys.php:8 includes/surveys.php:21 includes/surveys.php:290
+msgid "Surveys"
+msgstr "Sondazhet"
+
+#: includes/surveys.php:24
+msgid "Enable Surveys"
+msgstr "Aktivizo Sondazhet"
+
+#: includes/surveys.php:24
+msgid ""
+"Enable surveys within your live chat box, either before or after a live chat "
+"session."
+msgstr ""
+"Aktivizo  Sondazhet brenda kutisë tënde të bisedës, qoftë para ose pas "
+"seancës së bisedës direkte."
+
+#: includes/surveys.php:33
+#, php-format
+msgid ""
+"No surveys created. Please <a href=\"%s\" target=\"_BLANK\" "
+"title=\"NimbleSquirrel\">create a survey and then refresh this page.</a>"
+msgstr ""
+"Asnjë sondazh i krijuar. Ju lutem krijoni një sondazh dhe pastaj rifreskoni "
+"këtë faqe."
+
+#: includes/surveys.php:66
+msgid "Display survey"
+msgstr "Shfaq Sondazhin"
+
+#: includes/surveys.php:69
+msgid "Before chat"
+msgstr "Para Bisedës"
+
+#: includes/surveys.php:70
+msgid "After chat"
+msgstr "Pas Bisedës"
+
+#: includes/surveys.php:75
+msgid "Chat button text"
+msgstr "Teksti i butonit të bisedës"
+
+#: includes/surveys.php:81
+msgid "Change title of chat box when chat ended to"
+msgstr "Ndrysho titullin e kutisë së bisedës kur biseda përfundon në"
+
+#: includes/surveys.php:246
+msgid "Or chat to an agent now"
+msgstr "Ose bisedo me agjentin tash"
+
+#: includes/surveys.php:251
+msgid "Leave a message"
+msgstr "Lini një mesazh "
+
+#: includes/surveys.php:285
+msgid "WP Live Chat Surveys with Nimble Squirrel"
+msgstr "Sondazhet e WP Live Chat me Nimble Squirrel"
+
+#: includes/surveys.php:291
+msgid ""
+"To view your responses, click the button below and log in to your "
+"NimbleSquirrel account."
+msgstr ""
+"Për të parë përgjigjet tuaja, kliko butonin më poshtë dhe hyni në llogarinë "
+"tuaj NimbleSquirrel."
+
+#: includes/surveys.php:294
+msgid ""
+"Need help? <a href='https://wp-livechat.com/contact-us/' target='_BLANK'>"
+"Contact us</a> and we'll get back to you as soon as possible!"
+msgstr ""
+"Keni nevojë për ndihmë? Na kontaktoni dhe do të kthehemi sa më shpejtë të "
+"jetë e mundur!"
+
+#: includes/surveys.php:304
+#, php-format
+msgid ""
+"Register on <a href=\"%s\" target=\"_BLANK\" title=\"NimbleSquirrel\">"
+"NimbleSquirrel</a> (It's free.)"
+msgstr "Regjistrouhu në NimbleSquirrel(Është falas.)"
+
+#: includes/surveys.php:307
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_BLANK\" title=\"Create a survey\">Create a "
+"survey</a>."
+msgstr "Krijo një sondazh."
+
+#: includes/surveys.php:314
+msgid "Add a Survey to your live chat box"
+msgstr "Shto një Sondazh tek dritarja e bsiedës suaj direkte"
+
+#: includes/surveys.php:315
+msgid "Three simple steps:"
+msgstr "Tre hapa te thjeshtë:"
+
+#: includes/surveys.php:319
+msgid ""
+"Enable surveys in your live chat <a href='admin.php?page=wplivechat-menu-"
+"settings'>settings page</a>."
+msgstr "Aktivizo sondazhet në suzën e dritares direkte të bisedës"
+
+#: includes/welcome_page.php:4
+msgid "Welcome to "
+msgstr "Mirë se vini në"
+
+#: includes/welcome_page.php:6
+msgid "Version 6"
+msgstr "Verzioni 6"
+
+#: includes/welcome_page.php:8
+msgid "The most popular live chat plugin!"
+msgstr "Plugin-i i bisedës direkte më i popullarizuar!"
+
+#: includes/welcome_page.php:11
+msgid "How did you find us?"
+msgstr "Si na keni gjetur?"
+
+#: includes/welcome_page.php:16
+msgid "WordPress.org plugin repository "
+msgstr "WordPress.org plugin repository "
+
+#: includes/welcome_page.php:19
+msgid "Search Term"
+msgstr "Kërko term"
+
+#: includes/welcome_page.php:23
+msgid "Google or other search Engine"
+msgstr "Google ose tjerë Motorë kërkimi"
+
+#: includes/welcome_page.php:29
+msgid "Friend recommendation"
+msgstr "Rekomandimi i shokut"
+
+#: includes/welcome_page.php:35
+msgid "Other"
+msgstr "Tjetër"
+
+#: includes/welcome_page.php:39
+msgid "Please Explain"
+msgstr "Ju Lutem Shpjegoni"
+
+#: includes/welcome_page.php:48
+msgid "Submit"
+msgstr "submit"
+
+#: includes/welcome_page.php:50
+msgid "Skip"
+msgstr "Kalo"
+
+#: modules/api/wplc-api.php:44
+msgid "Rest API"
+msgstr "Reseto API"
+
+#: modules/api/wplc-api.php:62
+msgid ""
+"To make use of the REST API, please ensure you are using a version of "
+"WordPress with the REST API included."
+msgstr ""
+"Për të bërë përdorimin e REST API , ju lutemi sigurohuni që ju jeni duke "
+"përdorur një version të WordPress që përshfinë REST API."
+
+#: modules/api/wplc-api.php:64
+msgid ""
+"Alternatively, please install the official Rest API plugin from WordPress."
+msgstr ""
+"Alternativisht, ju lutem instaloni plugin-in zyrtar të Rest API nga "
+"Wordpress-i."
+
+#: modules/api/wplc-api.php:71
+msgid "REST API"
+msgstr "REST API"
+
+#: modules/api/wplc-api.php:75
+msgid "Option"
+msgstr "Opcion"
+
+#: modules/api/wplc-api.php:76
+msgid "Value"
+msgstr "Vlerë"
+
+#: modules/api/wplc-api.php:82
+msgid "Secret Token"
+msgstr "Token-i Sekret"
+
+#: modules/api/wplc-api.php:85
+msgid "No secret token found"
+msgstr "Nuk u gjet togen-i sekret"
+
+#: modules/api/wplc-api.php:86
+msgid "Generate New"
+msgstr "Gjeneroni Një Të Ri"
+
+#: modules/api/wplc-api.php:91
+msgid "Supported API Calls"
+msgstr "Thirrjet e mbështetura API"
+
+#: modules/api/wplc-api.php:95 modules/api/wplc-api.php:103 
+#: modules/api/wplc-api.php:111 modules/api/wplc-api.php:119 
+#: modules/api/wplc-api.php:127 modules/api/wplc-api.php:136
+msgid "Try"
+msgstr "Provo"
+
+#: modules/api/wplc-api.php:144
+msgid "API Response Codes"
+msgstr "Kodet e përgjigjjeve API "
+
+#: modules/api/wplc-api.php:288
+msgid "Rest Console "
+msgstr "Rest Console"
+
+#: modules/api/wplc-api.php:295
+msgid "Try it!"
+msgstr "Provoje!"
+
+#. Name of the plugin
+msgid "WP Live Chat Support"
+msgstr "Ndihma e WP Live Chat"
+
+#. Description of the plugin
+msgid ""
+"The easiest to use website live chat plugin. Let your visitors chat with you "
+"and increase sales conversion rates with WP Live Chat Support. No third "
+"party connection required!"
+msgstr ""
+"Më e lehta për tu përdorur për webfaqe, live chat plugin. Lejoni vizitorët "
+"të bisedojnë me ju dhe rriti normat e konvertimit të shitjes me WP Live Chat "
+"Support. Nuk kërkohet lidhja e palës së tretë!"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.wp-livechat.com"
+msgstr "http://www.wp-livechat.com"
+
+#. Author of the plugin
+msgid "WP-LiveChat"
+msgstr "WP-LiveChat"

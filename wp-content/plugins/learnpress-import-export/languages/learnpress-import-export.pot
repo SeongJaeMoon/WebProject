@@ -1,0 +1,300 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-27 11:20+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: inc/functions.php:162
+#, php-format
+msgid "Can not create dir [%d]"
+msgstr ""
+
+#: inc/functions.php:171
+msgid "Error with WP_Filesystem"
+msgstr ""
+
+#: inc/functions.php:270
+msgid "FileSystem error!"
+msgstr ""
+
+#: inc/functions.php:328
+#, php-format
+msgid "The file %s doesn't exists"
+msgstr ""
+
+#: inc/load.php:86 inc/load.php:87 inc/admin/views/settings-page.php:18
+msgid "Import/Export"
+msgstr ""
+
+#: inc/parsers.php:44 inc/parsers.php:74 inc/parsers.php:82
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: inc/parsers.php:45
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: inc/admin/providers/learnpress/class-lp-import-learnpress.php:95
+msgid "Course(s) found on this file"
+msgstr ""
+
+#: inc/admin/providers/learnpress/class-lp-import-learnpress.php:103
+msgid "<tr><td>"
+msgstr ""
+
+#: inc/admin/providers/learnpress/class-lp-import-learnpress.php:110
+msgid "Confirm Import"
+msgstr ""
+
+#: inc/admin/providers/learnpress/class-lp-import-learnpress.php:112
+#: inc/admin/views/learnpress/export/step-2.php:44
+msgid "Cancel"
+msgstr ""
+
+#: inc/admin/providers/learnpress/lp-import-functions.php:39
+msgid ""
+"Unable to create directory. Is its parent directory writable by the server?"
+msgstr ""
+
+#: inc/admin/providers/learnpress/lp-import-functions.php:92
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr ""
+
+#: inc/admin/providers/learnpress/lp-import-functions.php:93
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form."
+msgstr ""
+
+#: inc/admin/providers/learnpress/lp-import-functions.php:94
+msgid "The uploaded file was only partially uploaded."
+msgstr ""
+
+#: inc/admin/providers/learnpress/lp-import-functions.php:95
+msgid "No file was uploaded."
+msgstr ""
+
+#: inc/admin/providers/learnpress/lp-import-functions.php:97
+msgid "Missing a temporary folder."
+msgstr ""
+
+#: inc/admin/providers/learnpress/lp-import-functions.php:98
+msgid "Failed to write file to disk."
+msgstr ""
+
+#: inc/admin/providers/learnpress/lp-import-functions.php:99
+msgid "File upload stopped by extension."
+msgstr ""
+
+#: inc/admin/providers/learnpress/lp-import-functions.php:126
+msgid "File is empty. Please upload something more substantial."
+msgstr ""
+
+#: inc/admin/providers/learnpress/lp-import-functions.php:128
+msgid ""
+"File is empty. Please upload something more substantial. This error could "
+"also be caused by uploads being disabled in your php.ini or by post_max_size "
+"being defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+
+#: inc/admin/providers/learnpress/lp-import-functions.php:136
+msgid "Specified file failed upload test."
+msgstr ""
+
+#: inc/admin/providers/learnpress/lp-import-functions.php:151
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: inc/admin/providers/learnpress/lp-import-functions.php:186
+msgid "The uploaded file could not be moved"
+msgstr ""
+
+#: inc/admin/views/export.php:16 inc/admin/views/settings-page.php:11
+msgid "Export"
+msgstr ""
+
+#: inc/admin/views/export.php:26
+msgid "Select source"
+msgstr ""
+
+#: inc/admin/views/export.php:43
+msgid "Continue"
+msgstr ""
+
+#: inc/admin/views/export.php:61
+msgid "Recent exported"
+msgstr ""
+
+#: inc/admin/views/export.php:66 inc/admin/views/import.php:64
+#, php-format
+msgctxt "learnpress-import-export"
+msgid "%d file"
+msgid_plural "%d files"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/views/export.php:66 inc/admin/views/import.php:64
+#, php-format
+msgid "%d file"
+msgstr ""
+
+#: inc/admin/views/export.php:67 inc/admin/views/export.php:70
+#: inc/admin/views/import.php:65 inc/admin/views/import.php:68
+msgid "Remove selected"
+msgstr ""
+
+#: inc/admin/views/export.php:77 inc/admin/views/import.php:75
+msgid "File"
+msgstr ""
+
+#: inc/admin/views/export.php:78 inc/admin/views/import.php:76
+msgid "Time"
+msgstr ""
+
+#: inc/admin/views/export.php:79 inc/admin/views/import.php:77
+msgid "Size"
+msgstr ""
+
+#: inc/admin/views/export.php:94 inc/admin/views/import.php:92
+msgid "Download"
+msgstr ""
+
+#: inc/admin/views/export.php:97 inc/admin/views/import.php:95
+msgid "View"
+msgstr ""
+
+#: inc/admin/views/export.php:100 inc/admin/views/import.php:20
+#: inc/admin/views/import.php:98 inc/admin/views/settings-page.php:12
+#: inc/admin/views/learnpress/import/step-1.php:30
+msgid "Import"
+msgstr ""
+
+#: inc/admin/views/export.php:103 inc/admin/views/import.php:101
+msgid "Remove"
+msgstr ""
+
+#: inc/admin/views/export.php:112 inc/admin/views/import.php:110
+msgid "No exported files"
+msgstr ""
+
+#: inc/admin/views/import.php:35
+msgid "Select file (xml)"
+msgstr ""
+
+#: inc/admin/views/import.php:59
+msgid "Recent imported"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-1.php:15
+msgid "Select courses"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-1.php:22
+msgid "Course"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-1.php:23
+msgid "Status"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-1.php:24
+msgid "Author/Instructor"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-1.php:53
+msgid "Select all"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-1.php:60
+msgid "No course available to export."
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-1.php:65
+msgid "Next"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-1.php:67
+#: inc/admin/views/learnpress/export/step-2.php:43
+msgid "Back"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-2.php:10
+#: inc/admin/views/learnpress/export/step-3.php:11
+msgid "Exporting..."
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-2.php:16
+msgid "Download file"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-2.php:19
+msgid "Download file after exporting is completed"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-2.php:22
+msgid "Save exported file"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-2.php:25
+msgid "Save exported file on your server so you can download it later"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-2.php:38
+msgid "Custom name of export file"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-2.php:42
+msgid "Export now"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-3.php:15
+msgid "Exported"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-3.php:26
+msgid "Export new"
+msgstr ""
+
+#: inc/admin/views/learnpress/export/step-3.php:28
+msgid "Export again!"
+msgstr ""
+
+#: inc/admin/views/learnpress/import/step-1.php:11
+msgid "Save imported file"
+msgstr ""
+
+#: inc/admin/views/learnpress/import/step-1.php:15
+msgid "Save imported file on your server so you can download/import it later"
+msgstr ""
+
+#: inc/admin/views/learnpress/import/step-2.php:9
+msgid "Importing..."
+msgstr ""
+
+#: inc/admin/views/learnpress/import/step-3.php:12
+msgid "Import Successfully!"
+msgstr ""
+
+#: inc/admin/views/learnpress/import/step-3.php:15
+msgid "Import another"
+msgstr ""
+
+#: inc/admin/views/learnpress/import/step-3.php:17
+msgid "Import Fail!"
+msgstr ""

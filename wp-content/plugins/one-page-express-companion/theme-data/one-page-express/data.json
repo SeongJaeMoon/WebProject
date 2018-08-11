@@ -1,0 +1,215 @@
+{
+  "version": "1.0.197",
+  "content_type": "free",
+  "themes": [
+    "one-page-express"
+  ],
+  "theme_type": "onepage",
+  "data": {
+    "bgColorPallete": [
+      "#ffffff",
+      "#f6f6f6"
+    ],
+    "fonts": {
+      "Source Sans Pro": "200,normal,300,600,700",
+      "Playfair Display": "regular,700,900"
+    },
+    "headers": [
+      {
+        "index": 1,
+        "id": "header_preset1",
+        "thumb": "http://cloudpress.co/reiki/header1.jpg",
+        "preview": "http://cloudpress.co/reiki/header1.jpg",
+        "description": "header with bg image",
+        "settings": {
+          "header_background_type": "image",
+          "onepage_builder_homepage_header": "[tag_theme_uri]/assets/images/home_page_header.jpg",
+          "onepage_builder_header_content_partial": "[tag_companion_dir]/partials/header/default",
+          "onepage_builder_header_title_align": "right",
+          "onepage_builder_header_subtitle_align": "right"
+        }
+      },
+      {
+        "index": 2,
+        "id": "header_preset2",
+        "thumb": "http://cloudpress.co/reiki/header1.jpg",
+        "preview": "http://cloudpress.co/reiki/header1.jpg",
+        "description": "header with gradient bg",
+        "settings": {
+          "header_background_type": "gradient",
+          "onepage_builder_header_gradient": "warm_flame",
+          "onepage_builder_header_content_partial": "[tag_companion_dir]/partials/header/image-on-left",
+          "onepage_builder_header_title_align": "right",
+          "onepage_builder_header_subtitle_align": "right"
+        }
+      },
+      {
+        "index": 3,
+        "id": "header_preset3",
+        "thumb": "http://cloudpress.co/reiki/header1.jpg",
+        "preview": "http://cloudpress.co/reiki/header1.jpg",
+        "description": "header with slideshow bg",
+        "settings": {
+          "header_background_type": "slideshow",
+          "onepage_builder_header_slideshow": [
+            "[tag_theme_uri]/assets/images/home_page_header.jpg",
+            "[tag_companion_uri]/templates/images/jeremy-bishop-14593.jpg"
+          ],
+          "onepage_builder_header_slideshow_speed": 1000,
+          "onepage_builder_header_slideshow_duration": 5000,
+          "onepage_builder_header_content_partial": "[tag_companion_dir]/partials/header/content-on-left",
+          "onepage_builder_header_title_align": "left",
+          "onepage_builder_header_subtitle_align": "left"
+        }
+      },
+      {
+        "index": 3,
+        "id": "header_preset4",
+        "thumb": "http://cloudpress.co/reiki/header1.jpg",
+        "preview": "http://cloudpress.co/reiki/header1.jpg",
+        "description": "header with slideshow video",
+        "settings": {
+          "header_background_type": "video",
+          "onepage_builder_header_video": "",
+          "onepage_builder_header_video_external": "https://www.youtube.com/watch?v=uxYnEiSn-f4",
+          "onepage_builder_header_video_poster": "[tag_companion_uri]/templates/images/video-bg-poster.jpg",
+          "onepage_builder_header_content_partial": "[tag_companion_dir]/partials/header/image-on-right",
+          "onepage_builder_header_title_align": "left",
+          "onepage_builder_header_subtitle_align": "left"
+        }
+      }
+    ],
+    "footers": [],
+    "widgets_areas": [
+      {
+        "name": "First Box Widgets",
+        "id": "onepage_builder_first_box_widgets",
+        "title": "Widget Area"
+      },
+      {
+        "name": "Second Box Widgets",
+        "id": "onepage_builder_second_box_widgets",
+        "title": "Widget Area"
+      },
+      {
+        "name": "Third Box Widgets",
+        "id": "onepage_builder_third_box_widgets",
+        "title": "Widget Area"
+      }
+    ]
+  },
+  "customizer": {
+    "panels": {
+      "one_page_express_footer": {
+        "wp_data": {
+          "priority": 3
+        }
+      },
+      "page_content_panel": {
+        "class": "OnePageExpress\\Customizer\\Panels\\ContentPanel",
+        "disabled": false,
+        "wp_data": {
+          "title": "Page Content",
+          "priority": 2
+        }
+      },
+      "general_settings": {
+        "wp_data": {
+          "priority": 30,
+          "title": "General settings"
+        }
+      }
+    },
+    "sections": {
+      "title_tagline": {
+        "wp_data": {
+          "panel": "general_settings"
+        }
+      },
+      "static_front_page": {
+        "wp_data": {
+          "panel": "general_settings"
+        }
+      },
+      "background_image": {
+        "wp_data": {
+          "panel": "general_settings"
+        }
+      },
+      "colors": {
+        "wp_data": {
+          "panel": "general_settings"
+        }
+      }
+    },
+    "settings": {
+      "one_page_express_contact_form_shortcode": {
+        "section": "page_content_settings",
+        "wp_data": {},
+        "control": {
+          "wp_data": {
+            "label": "Contact form shortcode",
+            "type": "text"
+          }
+        }
+      },
+      "one_page_express_front_page_header_overlap": {
+        "section": "one_page_express_header_background_chooser",
+        "wp_data": {
+          "default": true
+        },
+        "control": {
+          "class": "kirki:checkbox",
+          "wp_data": {
+            "label": "Allow content to overlap header",
+            "priority": true
+          }
+        }
+      },
+      "one_page_express_front_page_header_overlap_info": {
+        "section": "one_page_express_header_background_chooser",
+        "wp_data": {
+          "default": "1"
+        },
+        "control": {
+          "class": "kirki:ope-info",
+          "wp_data": {
+            "label": "To use this option you need to add one of the <a href='#' onclick=\"CP_Customizer.focusContentSection('overlapable')\">overlapable sections</a> to the page content.",
+                        "priority": "1",
+                        "active_callback": [{
+                            "setting": "one_page_express_front_page_header_overlap",
+                            "operator": "==",
+                            "value": true
+                        }]
+          }
+        }
+      },
+      "one_page_express_front_page_header_margin": {
+        "section": "one_page_express_header_background_chooser",
+        "wp_data": {
+          "default": "230px"
+        },
+        "control": {
+          "class": "kirki:dimension",
+          "wp_data": {
+            "label": "Overlap with",
+            "priority": "1",
+            "active_callback": [
+              {
+                "setting": "one_page_express_front_page_header_overlap",
+                "operator": "==",
+                "value": true
+              }
+            ],
+            "output": [
+              {
+                "element": ".header-homepage",
+                "property": "padding-bottom"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

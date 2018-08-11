@@ -1,0 +1,15 @@
+.lp-list-table thead tr th {
+    background: #00adff !important;
+    color: #FFF !important;
+    border-bottom: none;
+}
+
+ul.leanpress-buddpress-list-filters li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+ul.leanpress-buddpress-list-filters li a.active {
+    border-bottom: 2px solid #00adff;
+    padding-bottom: 6px;
+}

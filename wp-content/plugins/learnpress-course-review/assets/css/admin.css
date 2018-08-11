@@ -1,0 +1,51 @@
+
+.review-stars {
+    margin: 0 0;
+    list-style: none;
+    overflow: hidden;
+}
+
+.review-stars:after {
+    clear: both;
+    content: '';
+    display: block;
+}
+
+.course-review-wrapper.submitting .ajaxload,
+.course-review-wrapper.error .message{
+    display: inline-block;
+}
+.review-stars-rated{
+    width: 70px;
+    position: relative;
+    float: left;
+}
+.review-stars-rated .review-stars.empty,
+.review-stars-rated .review-stars.filled {
+    width: 70px;
+    height: 14px;
+    font-family: dashicons;
+    font-size: 14px;
+}
+.review-stars-rated .review-stars.empty:before{
+    content: '\f154\f154\f154\f154\f154';
+    line-height: 1;
+    vertical-align: top;
+}
+.review-stars-rated .review-stars.filled:before{
+    content: '\f155\f155\f155\f155\f155';
+    line-height: 1;
+    vertical-align: top;
+    color: #f0cc05;
+}
+.review-stars-rated .review-stars.filled{
+    position: absolute;
+    top:0;
+    left: 0;
+}
+.course-rate {
+    overflow: hidden;
+}
+.select2-container {
+    width: 140px !important;
+}

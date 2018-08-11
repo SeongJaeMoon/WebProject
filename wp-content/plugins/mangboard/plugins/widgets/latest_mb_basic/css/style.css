@@ -1,0 +1,6 @@
+.mb-widget .mb-latest-basic a{font-family:inherit;text-decoration:none;}
+.mb-widget .mb-latest-basic .mb-latest-title{padding:12px 10px !important;margin-bottom:7px !important;border-top: 1px solid #DDD;border-bottom: 1px solid #DDD;font-size:16px;vertical-align:middle !important;text-align:left;}
+.mb-widget .mb-latest-basic .mb-latest-box{padding:3px 10px 10px !important;}
+.mb-widget .mb-latest-basic .table-latest {border:none;width:100%;background:none !important;table-layout:fixed;word-wrap:break-word;word-break:break-all;margin:0 !important;}
+.mb-widget .mb-latest-basic .table-latest td{padding:8px 7px 7px !important;border:none;border-bottom: 1px solid #EEE;background:none !important;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;text-align:left;}
+.mb-widget .mb-latest-basic .table-latest tr{background:none !important;}
